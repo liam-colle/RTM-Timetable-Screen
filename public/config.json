@@ -1,0 +1,11 @@
+{
+  "title": "Prochains passages",
+  "refreshSeconds": 300,
+  "maxDepartures": 3,
+  "lines": [
+    { "line": "M1", "stop": "Castellane" },
+    { "line": "M2", "stop": "Castellane" },
+    { "line": "T1", "stop": "Noailles" },
+    { "line": "T2", "stop": "Noailles" }
+  ]
+}
