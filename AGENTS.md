@@ -33,7 +33,7 @@ URL params override it: `?lines=M1:Castellane,T1:Noailles&refresh=300&max=3&titl
 
 ## API rules (important)
 
-- `getReelTime` is not truly realtime. **Never poll one line more often than every 5 minutes** (`MIN_REFRESH_SECONDS`); spread requests out.
+- `getReelTime` is not truly realtime: the official site polls a line at most every 5 minutes (`RECOMMENDED_REFRESH_SECONDS`) and the data doesn't change faster. `refreshSeconds` is honoured down to a hard floor of 30 s (`MIN_REFRESH_SECONDS`) with a console warning below 300; never lower the default, and spread requests out.
 - Direction param: `1` = route id ending in `A`, `2` = ending in `R`.
 - All API/GTFS times are Paris wall-clock. Convert them only with `src/time.ts` (never `setHours`/local `Date` parts): kiosks often run in UTC.
 - Scraping: follow `docs/API_scrapping_guidelines.md` exactly – high (metro + tram) → medium (B-prefixed buses, incl. BM*) → low (12, 91, 17, 15, 15S, 18), with **2–4 h between priorities**. The script enforces the 2 h minimum via `docs/lines/.scrape-state.json`. If the user says to stop or wait a day, stop. Don't hammer the API; the script waits 1.5 s between requests.
