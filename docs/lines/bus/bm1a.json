@@ -1,0 +1,266 @@
+{
+    "id": "RTM:LNE:193",
+    "name": "BM1A",
+    "directionIds": {
+        "Métro La Timone": "RTM:RTE:9000193RTMA",
+        "Métro La Rose": "RTM:RTE:9000193RTMR"
+    },
+    "stationIds": {
+        "RTM:RTE:9000193RTMA": [
+            {
+                "id": "RTM:PNT:00002480",
+                "sqlilineNumber": "BM1A",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:193",
+                "Name": "Métro La Rose",
+                "Longitude": "5.429997",
+                "Latitude": "43.333403"
+            },
+            {
+                "id": "RTM:PNT:00000978",
+                "sqlilineNumber": "BM1A",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:193",
+                "Name": "Métro Frais Vallon",
+                "Longitude": "5.423245",
+                "Latitude": "43.327052"
+            },
+            {
+                "id": "RTM:PNT:00004572",
+                "sqlilineNumber": "BM1A",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:193",
+                "Name": "Métro Malpassé",
+                "Longitude": "5.4156591",
+                "Latitude": "43.32080678"
+            },
+            {
+                "id": "RTM:PNT:00004573",
+                "sqlilineNumber": "BM1A",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:193",
+                "Name": "Métro St Just",
+                "Longitude": "5.40727146",
+                "Latitude": "43.31567727"
+            },
+            {
+                "id": "RTM:PNT:00002017",
+                "sqlilineNumber": "BM1A",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:193",
+                "Name": "Métro Chartreux",
+                "Longitude": "5.402687",
+                "Latitude": "43.30909"
+            },
+            {
+                "id": "RTM:PNT:00003087",
+                "sqlilineNumber": "BM1A",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:193",
+                "Name": "Blancarde 5 Avenues",
+                "Longitude": "5.397174",
+                "Latitude": "43.30273"
+            },
+            {
+                "id": "RTM:PNT:00003114",
+                "sqlilineNumber": "BM1A",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:193",
+                "Name": "Libération Réformés",
+                "Longitude": "5.385964",
+                "Latitude": "43.299321"
+            },
+            {
+                "id": "RTM:PNT:00003369",
+                "sqlilineNumber": "BM1A",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:193",
+                "Name": "Bourdet St Charles",
+                "Longitude": "5.37957823",
+                "Latitude": "43.3026665"
+            },
+            {
+                "id": "RTM:PNT:00000381",
+                "sqlilineNumber": "BM1A",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:193",
+                "Name": "Métro Colbert",
+                "Longitude": "5.374308",
+                "Latitude": "43.300237"
+            },
+            {
+                "id": "RTM:PNT:00003806",
+                "sqlilineNumber": "BM1A",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:193",
+                "Name": "Vieux-Port",
+                "Longitude": "5.374347",
+                "Latitude": "43.294846"
+            },
+            {
+                "id": "RTM:PNT:00001406",
+                "sqlilineNumber": "BM1A",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:193",
+                "Name": "Estrangin Puget",
+                "Longitude": "5.37750989",
+                "Latitude": "43.29036948"
+            },
+            {
+                "id": "RTM:PNT:00001407",
+                "sqlilineNumber": "BM1A",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:193",
+                "Name": "Baille Lieutaud",
+                "Longitude": "5.38628937",
+                "Latitude": "43.28657912"
+            },
+            {
+                "id": "RTM:PNT:00001227",
+                "sqlilineNumber": "BM1A",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:193",
+                "Name": "Baille Vertus",
+                "Longitude": "5.39328",
+                "Latitude": "43.288391"
+            },
+            {
+                "id": "RTM:PNT:00002443",
+                "sqlilineNumber": "BM1A",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:193",
+                "Name": "Métro La Timone",
+                "Longitude": "5.400166",
+                "Latitude": "43.291018"
+            }
+        ],
+        "RTM:RTE:9000193RTMR": [
+            {
+                "id": "RTM:PNT:00004424",
+                "sqlilineNumber": "BM1A",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:193",
+                "Name": "Métro La Timone",
+                "Longitude": "5.399972",
+                "Latitude": "43.291445"
+            },
+            {
+                "id": "RTM:PNT:00001256",
+                "sqlilineNumber": "BM1A",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:193",
+                "Name": "Baille Vertus",
+                "Longitude": "5.393392",
+                "Latitude": "43.288595"
+            },
+            {
+                "id": "RTM:PNT:00004561",
+                "sqlilineNumber": "BM1A",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:193",
+                "Name": "Lieutaud Baille",
+                "Longitude": "5.38521861",
+                "Latitude": "43.28706792"
+            },
+            {
+                "id": "RTM:PNT:00001410",
+                "sqlilineNumber": "BM1A",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:193",
+                "Name": "Estrangin Puget",
+                "Longitude": "5.37685576",
+                "Latitude": "43.2905615"
+            },
+            {
+                "id": "RTM:PNT:00003801",
+                "sqlilineNumber": "BM1A",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:193",
+                "Name": "Vieux-Port",
+                "Longitude": "5.37445",
+                "Latitude": "43.295015"
+            },
+            {
+                "id": "RTM:PNT:00002530",
+                "sqlilineNumber": "BM1A",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:193",
+                "Name": "Métro Colbert",
+                "Longitude": "5.374519",
+                "Latitude": "43.300224"
+            },
+            {
+                "id": "RTM:PNT:00004414",
+                "sqlilineNumber": "BM1A",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:193",
+                "Name": "Bourdet St Charles",
+                "Longitude": "5.379507",
+                "Latitude": "43.302455"
+            },
+            {
+                "id": "RTM:PNT:00003374",
+                "sqlilineNumber": "BM1A",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:193",
+                "Name": "Libération Réformés",
+                "Longitude": "5.386361",
+                "Latitude": "43.299331"
+            },
+            {
+                "id": "RTM:PNT:00003133",
+                "sqlilineNumber": "BM1A",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:193",
+                "Name": "Foch 5 Avenues",
+                "Longitude": "5.397687",
+                "Latitude": "43.301969"
+            },
+            {
+                "id": "RTM:PNT:00002036",
+                "sqlilineNumber": "BM1A",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:193",
+                "Name": "Métro Chartreux",
+                "Longitude": "5.403215",
+                "Latitude": "43.30974"
+            },
+            {
+                "id": "RTM:PNT:00004574",
+                "sqlilineNumber": "BM1A",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:193",
+                "Name": "Métro St Just",
+                "Longitude": "5.40756629",
+                "Latitude": "43.31590774"
+            },
+            {
+                "id": "RTM:PNT:00004575",
+                "sqlilineNumber": "BM1A",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:193",
+                "Name": "Métro Malpassé",
+                "Longitude": "5.41650525",
+                "Latitude": "43.32051818"
+            },
+            {
+                "id": "RTM:PNT:00001012",
+                "sqlilineNumber": "BM1A",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:193",
+                "Name": "Métro Frais Vallon",
+                "Longitude": "5.42353057",
+                "Latitude": "43.32708964"
+            },
+            {
+                "id": "RTM:PNT:00000596",
+                "sqlilineNumber": "BM1A",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:193",
+                "Name": "Métro La Rose",
+                "Longitude": "5.430115",
+                "Latitude": "43.33349"
+            }
+        ]
+    }
+}

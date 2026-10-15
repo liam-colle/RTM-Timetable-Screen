@@ -1,0 +1,230 @@
+{
+    "id": "RTM:LNE:192",
+    "name": "BM2",
+    "directionIds": {
+        "Sainte-Marguerite Dromel": "RTM:RTE:9000192RTMA",
+        "Gèze": "RTM:RTE:9000192RTMR"
+    },
+    "stationIds": {
+        "RTM:RTE:9000192RTMA": [
+            {
+                "id": "RTM:PNT:00004300",
+                "sqlilineNumber": "BM2",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:192",
+                "Name": "Gèze",
+                "Longitude": "5.367394",
+                "Latitude": "43.327996"
+            },
+            {
+                "id": "RTM:PNT:00000100",
+                "sqlilineNumber": "BM2",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:192",
+                "Name": "Place Bougainville",
+                "Longitude": "5.369112",
+                "Latitude": "43.319313"
+            },
+            {
+                "id": "RTM:PNT:00000561",
+                "sqlilineNumber": "BM2",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:192",
+                "Name": "Métro National",
+                "Longitude": "5.373036",
+                "Latitude": "43.315639"
+            },
+            {
+                "id": "RTM:PNT:00004570",
+                "sqlilineNumber": "BM2",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:192",
+                "Name": "Joliette",
+                "Longitude": "5.3652085",
+                "Latitude": "43.30500121"
+            },
+            {
+                "id": "RTM:PNT:00003835",
+                "sqlilineNumber": "BM2",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:192",
+                "Name": "Métro Jules Guesde",
+                "Longitude": "5.37343162",
+                "Latitude": "43.301563"
+            },
+            {
+                "id": "RTM:PNT:00004414",
+                "sqlilineNumber": "BM2",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:192",
+                "Name": "Bourdet St Charles",
+                "Longitude": "5.379507",
+                "Latitude": "43.302455"
+            },
+            {
+                "id": "RTM:PNT:00003311",
+                "sqlilineNumber": "BM2",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:192",
+                "Name": "Noailles",
+                "Longitude": "5.380914",
+                "Latitude": "43.298076"
+            },
+            {
+                "id": "RTM:PNT:00004412",
+                "sqlilineNumber": "BM2",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:192",
+                "Name": "Métro Notre Dame du Mont",
+                "Longitude": "5.38222759",
+                "Latitude": "43.29356708"
+            },
+            {
+                "id": "RTM:PNT:00001493",
+                "sqlilineNumber": "BM2",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:192",
+                "Name": "Castellane",
+                "Longitude": "5.3845633",
+                "Latitude": "43.2842561"
+            },
+            {
+                "id": "RTM:PNT:00001696",
+                "sqlilineNumber": "BM2",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:192",
+                "Name": "Prado Périer",
+                "Longitude": "5.387443",
+                "Latitude": "43.279155"
+            },
+            {
+                "id": "RTM:PNT:00001747",
+                "sqlilineNumber": "BM2",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:192",
+                "Name": "Métro Rond Point du Prado",
+                "Longitude": "5.392239",
+                "Latitude": "43.270537"
+            },
+            {
+                "id": "RTM:PNT:00000401",
+                "sqlilineNumber": "BM2",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:192",
+                "Name": "Sainte-Marguerite Dromel",
+                "Longitude": "5.40290586",
+                "Latitude": "43.27107387"
+            }
+        ],
+        "RTM:RTE:9000192RTMR": [
+            {
+                "id": "RTM:PNT:00001887",
+                "sqlilineNumber": "BM2",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:192",
+                "Name": "Sainte-Marguerite Dromel",
+                "Longitude": "5.40325991",
+                "Latitude": "43.27093033"
+            },
+            {
+                "id": "RTM:PNT:00001791",
+                "sqlilineNumber": "BM2",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:192",
+                "Name": "Métro Rond Point du Prado",
+                "Longitude": "5.39225936",
+                "Latitude": "43.27110847"
+            },
+            {
+                "id": "RTM:PNT:00001740",
+                "sqlilineNumber": "BM2",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:192",
+                "Name": "Prado Périer",
+                "Longitude": "5.387591",
+                "Latitude": "43.279336"
+            },
+            {
+                "id": "RTM:PNT:00001091",
+                "sqlilineNumber": "BM2",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:192",
+                "Name": "Castellane",
+                "Longitude": "5.38425986",
+                "Latitude": "43.2852469"
+            },
+            {
+                "id": "RTM:PNT:00004409",
+                "sqlilineNumber": "BM2",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:192",
+                "Name": "Métro Notre Dame du Mont",
+                "Longitude": "5.38239782",
+                "Latitude": "43.29334857"
+            },
+            {
+                "id": "RTM:PNT:00004571",
+                "sqlilineNumber": "BM2",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:192",
+                "Name": "Noailles",
+                "Longitude": "5.38110085",
+                "Latitude": "43.29814054"
+            },
+            {
+                "id": "RTM:PNT:00003369",
+                "sqlilineNumber": "BM2",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:192",
+                "Name": "Bourdet St Charles",
+                "Longitude": "5.37957823",
+                "Latitude": "43.3026665"
+            },
+            {
+                "id": "RTM:PNT:00003840",
+                "sqlilineNumber": "BM2",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:192",
+                "Name": "Métro Jules Guesde",
+                "Longitude": "5.372957",
+                "Latitude": "43.301837"
+            },
+            {
+                "id": "RTM:PNT:00000444",
+                "sqlilineNumber": "BM2",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:192",
+                "Name": "Joliette",
+                "Longitude": "5.36708",
+                "Latitude": "43.304454"
+            },
+            {
+                "id": "RTM:PNT:00000486",
+                "sqlilineNumber": "BM2",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:192",
+                "Name": "Métro National",
+                "Longitude": "5.37321568",
+                "Latitude": "43.31554955"
+            },
+            {
+                "id": "RTM:PNT:00000489",
+                "sqlilineNumber": "BM2",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:192",
+                "Name": "Métro Bougainville",
+                "Longitude": "5.371158",
+                "Latitude": "43.320221"
+            },
+            {
+                "id": "RTM:PNT:00004300",
+                "sqlilineNumber": "BM2",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:192",
+                "Name": "Gèze",
+                "Longitude": "5.367394",
+                "Latitude": "43.327996"
+            }
+        ]
+    }
+}

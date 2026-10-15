@@ -1,0 +1,167 @@
+{
+    "id": "RTM:LNE:10298",
+    "name": "B1E",
+    "directionIds": {
+        "Campus de Luminy": "RTM:RTE:900010298RTMA",
+        "Métro Rond Point du Prado": "RTM:RTE:900010298RTMR"
+    },
+    "stationIds": {
+        "RTM:RTE:900010298RTMA": [
+            {
+                "id": "RTM:PNT:00003585",
+                "sqlilineNumber": "B1E",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:10298",
+                "Name": "Métro Rond Point du Prado",
+                "Longitude": "5.39269945",
+                "Latitude": "43.27063286"
+            },
+            {
+                "id": "RTM:PNT:00001747",
+                "sqlilineNumber": "B1E",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:10298",
+                "Name": "Métro Rond Point du Prado",
+                "Longitude": "5.392239",
+                "Latitude": "43.270537"
+            },
+            {
+                "id": "RTM:PNT:00001757",
+                "sqlilineNumber": "B1E",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:10298",
+                "Name": "Obélisque",
+                "Longitude": "5.403314",
+                "Latitude": "43.251085"
+            },
+            {
+                "id": "RTM:PNT:00001761",
+                "sqlilineNumber": "B1E",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:10298",
+                "Name": "CC Valmante",
+                "Longitude": "5.41660845",
+                "Latitude": "43.24576151"
+            },
+            {
+                "id": "RTM:PNT:00001766",
+                "sqlilineNumber": "B1E",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:10298",
+                "Name": "Luminy Lachamp",
+                "Longitude": "5.436394",
+                "Latitude": "43.24625"
+            },
+            {
+                "id": "RTM:PNT:00001769",
+                "sqlilineNumber": "B1E",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:10298",
+                "Name": "Luminy Kedge BS",
+                "Longitude": "5.4359862",
+                "Latitude": "43.2324743"
+            },
+            {
+                "id": "RTM:PNT:00003872",
+                "sqlilineNumber": "B1E",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:10298",
+                "Name": "Luminy PN des Calanques",
+                "Longitude": "5.437289",
+                "Latitude": "43.231401"
+            },
+            {
+                "id": "RTM:PNT:00004348",
+                "sqlilineNumber": "B1E",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:10298",
+                "Name": "Luminy Faculté",
+                "Longitude": "5.43967",
+                "Latitude": "43.231068"
+            },
+            {
+                "id": "RTM:PNT:00004349",
+                "sqlilineNumber": "B1E",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:10298",
+                "Name": "Campus de Luminy",
+                "Longitude": "5.444094",
+                "Latitude": "43.231169"
+            }
+        ],
+        "RTM:RTE:900010298RTMR": [
+            {
+                "id": "RTM:PNT:00004350",
+                "sqlilineNumber": "B1E",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:10298",
+                "Name": "Campus de Luminy",
+                "Longitude": "5.4440072",
+                "Latitude": "43.2312389"
+            },
+            {
+                "id": "RTM:PNT:00004351",
+                "sqlilineNumber": "B1E",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:10298",
+                "Name": "Luminy Faculté",
+                "Longitude": "5.43958",
+                "Latitude": "43.231163"
+            },
+            {
+                "id": "RTM:PNT:00003772",
+                "sqlilineNumber": "B1E",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:10298",
+                "Name": "Luminy PN des Calanques",
+                "Longitude": "5.43710004",
+                "Latitude": "43.2316791"
+            },
+            {
+                "id": "RTM:PNT:00004352",
+                "sqlilineNumber": "B1E",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:10298",
+                "Name": "Luminy Kedge BS",
+                "Longitude": "5.4361397",
+                "Latitude": "43.2325256"
+            },
+            {
+                "id": "RTM:PNT:00001773",
+                "sqlilineNumber": "B1E",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:10298",
+                "Name": "Luminy Lachamp",
+                "Longitude": "5.436391",
+                "Latitude": "43.246324"
+            },
+            {
+                "id": "RTM:PNT:00001778",
+                "sqlilineNumber": "B1E",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:10298",
+                "Name": "CC Valmante",
+                "Longitude": "5.41548997",
+                "Latitude": "43.24574783"
+            },
+            {
+                "id": "RTM:PNT:00001782",
+                "sqlilineNumber": "B1E",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:10298",
+                "Name": "Obélisque",
+                "Longitude": "5.403307",
+                "Latitude": "43.25154"
+            },
+            {
+                "id": "RTM:PNT:00003585",
+                "sqlilineNumber": "B1E",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:10298",
+                "Name": "Métro Rond Point du Prado",
+                "Longitude": "5.39269945",
+                "Latitude": "43.27063286"
+            }
+        ]
+    }
+}

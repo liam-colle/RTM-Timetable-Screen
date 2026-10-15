@@ -1,0 +1,608 @@
+{
+    "id": "RTM:LNE:53",
+    "name": "B2",
+    "directionIds": {
+        "Vallon des Tuves": "RTM:RTE:900053RTMA",
+        "Gèze": "RTM:RTE:900053RTMR"
+    },
+    "stationIds": {
+        "RTM:RTE:900053RTMA": [
+            {
+                "id": "RTM:PNT:00004297",
+                "sqlilineNumber": "B2",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:53",
+                "Name": "Gèze",
+                "Longitude": "5.36742747",
+                "Latitude": "43.32835713"
+            },
+            {
+                "id": "RTM:PNT:00003962",
+                "sqlilineNumber": "B2",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:53",
+                "Name": "Lyon Oddo",
+                "Longitude": "5.365409",
+                "Latitude": "43.329897"
+            },
+            {
+                "id": "RTM:PNT:00003963",
+                "sqlilineNumber": "B2",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:53",
+                "Name": "Billoux Mairie 15-16",
+                "Longitude": "5.36443949",
+                "Latitude": "43.33263092"
+            },
+            {
+                "id": "RTM:PNT:00003964",
+                "sqlilineNumber": "B2",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:53",
+                "Name": "Lyon Raffineries",
+                "Longitude": "5.363179",
+                "Latitude": "43.336331"
+            },
+            {
+                "id": "RTM:PNT:00003966",
+                "sqlilineNumber": "B2",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:53",
+                "Name": "Lyon Commanderie",
+                "Longitude": "5.362003",
+                "Latitude": "43.339396"
+            },
+            {
+                "id": "RTM:PNT:00003967",
+                "sqlilineNumber": "B2",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:53",
+                "Name": "St Louis La Poste",
+                "Longitude": "5.360411",
+                "Latitude": "43.34162"
+            },
+            {
+                "id": "RTM:PNT:00003968",
+                "sqlilineNumber": "B2",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:53",
+                "Name": "Parc St Louis",
+                "Longitude": "5.35962",
+                "Latitude": "43.343639"
+            },
+            {
+                "id": "RTM:PNT:00003969",
+                "sqlilineNumber": "B2",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:53",
+                "Name": "St Louis Susini",
+                "Longitude": "5.359283",
+                "Latitude": "43.346169"
+            },
+            {
+                "id": "RTM:PNT:00003970",
+                "sqlilineNumber": "B2",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:53",
+                "Name": "St Louis",
+                "Longitude": "5.35906823",
+                "Latitude": "43.34802136"
+            },
+            {
+                "id": "RTM:PNT:00003971",
+                "sqlilineNumber": "B2",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:53",
+                "Name": "St Louis Camau",
+                "Longitude": "5.358887",
+                "Latitude": "43.349924"
+            },
+            {
+                "id": "RTM:PNT:00003972",
+                "sqlilineNumber": "B2",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:53",
+                "Name": "Résidence St Louis",
+                "Longitude": "5.357903",
+                "Latitude": "43.35245"
+            },
+            {
+                "id": "RTM:PNT:00003973",
+                "sqlilineNumber": "B2",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:53",
+                "Name": "Cité La Viste",
+                "Longitude": "5.357431",
+                "Latitude": "43.355692"
+            },
+            {
+                "id": "RTM:PNT:00003974",
+                "sqlilineNumber": "B2",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:53",
+                "Name": "La Viste Hanoï",
+                "Longitude": "5.357664",
+                "Latitude": "43.358031"
+            },
+            {
+                "id": "RTM:PNT:00003975",
+                "sqlilineNumber": "B2",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:53",
+                "Name": "La Viste",
+                "Longitude": "5.35771273",
+                "Latitude": "43.35960876"
+            },
+            {
+                "id": "RTM:PNT:00003976",
+                "sqlilineNumber": "B2",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:53",
+                "Name": "La Viste Scierie",
+                "Longitude": "5.357295",
+                "Latitude": "43.36284"
+            },
+            {
+                "id": "RTM:PNT:00003977",
+                "sqlilineNumber": "B2",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:53",
+                "Name": "Collège Jean Moulin",
+                "Longitude": "5.356878",
+                "Latitude": "43.366218"
+            },
+            {
+                "id": "RTM:PNT:00003978",
+                "sqlilineNumber": "B2",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:53",
+                "Name": "Gare de St Antoine",
+                "Longitude": "5.35642897",
+                "Latitude": "43.36963096"
+            },
+            {
+                "id": "RTM:PNT:00003979",
+                "sqlilineNumber": "B2",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:53",
+                "Name": "St Antoine Village",
+                "Longitude": "5.35624",
+                "Latitude": "43.371026"
+            },
+            {
+                "id": "RTM:PNT:00003980",
+                "sqlilineNumber": "B2",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:53",
+                "Name": "St Antoine Collet",
+                "Longitude": "5.3558",
+                "Latitude": "43.374298"
+            },
+            {
+                "id": "RTM:PNT:00003981",
+                "sqlilineNumber": "B2",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:53",
+                "Name": "St Antoine Mairie",
+                "Longitude": "5.356133",
+                "Latitude": "43.375891"
+            },
+            {
+                "id": "RTM:PNT:00003982",
+                "sqlilineNumber": "B2",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:53",
+                "Name": "Les Fabrettes",
+                "Longitude": "5.357291",
+                "Latitude": "43.379704"
+            },
+            {
+                "id": "RTM:PNT:00003983",
+                "sqlilineNumber": "B2",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:53",
+                "Name": "Notre Dame Limite",
+                "Longitude": "5.358732",
+                "Latitude": "43.384472"
+            },
+            {
+                "id": "RTM:PNT:00003984",
+                "sqlilineNumber": "B2",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:53",
+                "Name": "Vallon d'Ol Bourrély",
+                "Longitude": "5.362632",
+                "Latitude": "43.385177"
+            },
+            {
+                "id": "RTM:PNT:00003985",
+                "sqlilineNumber": "B2",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:53",
+                "Name": "Parc Kallisté",
+                "Longitude": "5.364794",
+                "Latitude": "43.384484"
+            },
+            {
+                "id": "RTM:PNT:00003986",
+                "sqlilineNumber": "B2",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:53",
+                "Name": "Bourrély Granière",
+                "Longitude": "5.364172",
+                "Latitude": "43.382678"
+            },
+            {
+                "id": "RTM:PNT:00003987",
+                "sqlilineNumber": "B2",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:53",
+                "Name": "Hôpital Nord Urgences",
+                "Longitude": "5.361401",
+                "Latitude": "43.379437"
+            },
+            {
+                "id": "RTM:PNT:00003988",
+                "sqlilineNumber": "B2",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:53",
+                "Name": "Faculté de Médecine",
+                "Longitude": "5.360479",
+                "Latitude": "43.37734"
+            },
+            {
+                "id": "RTM:PNT:00003989",
+                "sqlilineNumber": "B2",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:53",
+                "Name": "Hôpital Nord",
+                "Longitude": "5.363369",
+                "Latitude": "43.376989"
+            },
+            {
+                "id": "RTM:PNT:00004107",
+                "sqlilineNumber": "B2",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:53",
+                "Name": "Hôpital Nord",
+                "Longitude": "5.363439",
+                "Latitude": "43.377358"
+            },
+            {
+                "id": "RTM:PNT:00003990",
+                "sqlilineNumber": "B2",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:53",
+                "Name": "La Martine",
+                "Longitude": "5.365895",
+                "Latitude": "43.374431"
+            },
+            {
+                "id": "RTM:PNT:00003991",
+                "sqlilineNumber": "B2",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:53",
+                "Name": "Collège Vallon des Pins",
+                "Longitude": "5.365035",
+                "Latitude": "43.372254"
+            },
+            {
+                "id": "RTM:PNT:00003992",
+                "sqlilineNumber": "B2",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:53",
+                "Name": "Val Pins",
+                "Longitude": "5.36351",
+                "Latitude": "43.370508"
+            },
+            {
+                "id": "RTM:PNT:00003997",
+                "sqlilineNumber": "B2",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:53",
+                "Name": "Vallon des Tuves",
+                "Longitude": "5.362852",
+                "Latitude": "43.368722"
+            }
+        ],
+        "RTM:RTE:900053RTMR": [
+            {
+                "id": "RTM:PNT:00003999",
+                "sqlilineNumber": "B2",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:53",
+                "Name": "Vallon des Tuves",
+                "Longitude": "5.36304",
+                "Latitude": "43.368756"
+            },
+            {
+                "id": "RTM:PNT:00004000",
+                "sqlilineNumber": "B2",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:53",
+                "Name": "Val Pins",
+                "Longitude": "5.363723",
+                "Latitude": "43.370474"
+            },
+            {
+                "id": "RTM:PNT:00004001",
+                "sqlilineNumber": "B2",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:53",
+                "Name": "Collège Vallon des Pins",
+                "Longitude": "5.36497",
+                "Latitude": "43.371774"
+            },
+            {
+                "id": "RTM:PNT:00004002",
+                "sqlilineNumber": "B2",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:53",
+                "Name": "La Martine",
+                "Longitude": "5.365966",
+                "Latitude": "43.374629"
+            },
+            {
+                "id": "RTM:PNT:00004107",
+                "sqlilineNumber": "B2",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:53",
+                "Name": "Hôpital Nord",
+                "Longitude": "5.363439",
+                "Latitude": "43.377358"
+            },
+            {
+                "id": "RTM:PNT:00004003",
+                "sqlilineNumber": "B2",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:53",
+                "Name": "Hôpital Nord",
+                "Longitude": "5.363313",
+                "Latitude": "43.377174"
+            },
+            {
+                "id": "RTM:PNT:00004004",
+                "sqlilineNumber": "B2",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:53",
+                "Name": "Faculté de Médecine",
+                "Longitude": "5.360301",
+                "Latitude": "43.377402"
+            },
+            {
+                "id": "RTM:PNT:00004005",
+                "sqlilineNumber": "B2",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:53",
+                "Name": "Hôpital Nord Urgences",
+                "Longitude": "5.361595",
+                "Latitude": "43.379474"
+            },
+            {
+                "id": "RTM:PNT:00004006",
+                "sqlilineNumber": "B2",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:53",
+                "Name": "Bourrély Granière",
+                "Longitude": "5.364381",
+                "Latitude": "43.382766"
+            },
+            {
+                "id": "RTM:PNT:00004007",
+                "sqlilineNumber": "B2",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:53",
+                "Name": "Parc Kallisté",
+                "Longitude": "5.364883",
+                "Latitude": "43.38464"
+            },
+            {
+                "id": "RTM:PNT:00004008",
+                "sqlilineNumber": "B2",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:53",
+                "Name": "Vallon d'Ol Bourrély",
+                "Longitude": "5.361823",
+                "Latitude": "43.385122"
+            },
+            {
+                "id": "RTM:PNT:00004009",
+                "sqlilineNumber": "B2",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:53",
+                "Name": "Notre Dame Limite",
+                "Longitude": "5.359001",
+                "Latitude": "43.38481"
+            },
+            {
+                "id": "RTM:PNT:00004010",
+                "sqlilineNumber": "B2",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:53",
+                "Name": "Les Fabrettes",
+                "Longitude": "5.357099",
+                "Latitude": "43.379532"
+            },
+            {
+                "id": "RTM:PNT:00004011",
+                "sqlilineNumber": "B2",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:53",
+                "Name": "St Antoine Mairie",
+                "Longitude": "5.356099",
+                "Latitude": "43.376255"
+            },
+            {
+                "id": "RTM:PNT:00004012",
+                "sqlilineNumber": "B2",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:53",
+                "Name": "St Antoine Collet",
+                "Longitude": "5.355793",
+                "Latitude": "43.3734"
+            },
+            {
+                "id": "RTM:PNT:00004013",
+                "sqlilineNumber": "B2",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:53",
+                "Name": "St Antoine Village",
+                "Longitude": "5.35613",
+                "Latitude": "43.370891"
+            },
+            {
+                "id": "RTM:PNT:00004014",
+                "sqlilineNumber": "B2",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:53",
+                "Name": "Gare de St Antoine",
+                "Longitude": "5.35633133",
+                "Latitude": "43.36949732"
+            },
+            {
+                "id": "RTM:PNT:00004015",
+                "sqlilineNumber": "B2",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:53",
+                "Name": "Collège Jean Moulin",
+                "Longitude": "5.356883",
+                "Latitude": "43.365108"
+            },
+            {
+                "id": "RTM:PNT:00004016",
+                "sqlilineNumber": "B2",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:53",
+                "Name": "La Viste Scierie",
+                "Longitude": "5.357266",
+                "Latitude": "43.362211"
+            },
+            {
+                "id": "RTM:PNT:00004017",
+                "sqlilineNumber": "B2",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:53",
+                "Name": "La Viste",
+                "Longitude": "5.357521",
+                "Latitude": "43.359836"
+            },
+            {
+                "id": "RTM:PNT:00004018",
+                "sqlilineNumber": "B2",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:53",
+                "Name": "La Viste Hanoï",
+                "Longitude": "5.357546",
+                "Latitude": "43.358172"
+            },
+            {
+                "id": "RTM:PNT:00004019",
+                "sqlilineNumber": "B2",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:53",
+                "Name": "Cité La Viste",
+                "Longitude": "5.357302",
+                "Latitude": "43.355868"
+            },
+            {
+                "id": "RTM:PNT:00004020",
+                "sqlilineNumber": "B2",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:53",
+                "Name": "Résidence St Louis",
+                "Longitude": "5.357888",
+                "Latitude": "43.352205"
+            },
+            {
+                "id": "RTM:PNT:00004021",
+                "sqlilineNumber": "B2",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:53",
+                "Name": "St Louis Camau",
+                "Longitude": "5.3587",
+                "Latitude": "43.350257"
+            },
+            {
+                "id": "RTM:PNT:00004022",
+                "sqlilineNumber": "B2",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:53",
+                "Name": "St Louis",
+                "Longitude": "5.358966",
+                "Latitude": "43.347995"
+            },
+            {
+                "id": "RTM:PNT:00004023",
+                "sqlilineNumber": "B2",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:53",
+                "Name": "St Louis Susini",
+                "Longitude": "5.359201",
+                "Latitude": "43.346098"
+            },
+            {
+                "id": "RTM:PNT:00004024",
+                "sqlilineNumber": "B2",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:53",
+                "Name": "Parc St Louis",
+                "Longitude": "5.359526",
+                "Latitude": "43.343487"
+            },
+            {
+                "id": "RTM:PNT:00004025",
+                "sqlilineNumber": "B2",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:53",
+                "Name": "St Louis La Poste",
+                "Longitude": "5.360576",
+                "Latitude": "43.341127"
+            },
+            {
+                "id": "RTM:PNT:00004027",
+                "sqlilineNumber": "B2",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:53",
+                "Name": "Lyon Commanderie",
+                "Longitude": "5.362464",
+                "Latitude": "43.338071"
+            },
+            {
+                "id": "RTM:PNT:00004028",
+                "sqlilineNumber": "B2",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:53",
+                "Name": "Lyon Raffineries",
+                "Longitude": "5.363119",
+                "Latitude": "43.336159"
+            },
+            {
+                "id": "RTM:PNT:00004029",
+                "sqlilineNumber": "B2",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:53",
+                "Name": "Billoux Mairie 15-16",
+                "Longitude": "5.364361",
+                "Latitude": "43.332494"
+            },
+            {
+                "id": "RTM:PNT:00004030",
+                "sqlilineNumber": "B2",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:53",
+                "Name": "Lyon Oddo",
+                "Longitude": "5.36528975",
+                "Latitude": "43.32987411"
+            },
+            {
+                "id": "RTM:PNT:00004300",
+                "sqlilineNumber": "B2",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:53",
+                "Name": "Gèze",
+                "Longitude": "5.367394",
+                "Latitude": "43.327996"
+            }
+        ]
+    }
+}

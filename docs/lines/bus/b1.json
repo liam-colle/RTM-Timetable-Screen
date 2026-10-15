@@ -1,0 +1,536 @@
+{
+    "id": "RTM:LNE:139",
+    "name": "B1",
+    "directionIds": {
+        "Campus de Luminy": "RTM:RTE:9000139RTMA",
+        "Castellane": "RTM:RTE:9000139RTMR"
+    },
+    "stationIds": {
+        "RTM:RTE:9000139RTMA": [
+            {
+                "id": "RTM:PNT:00003773",
+                "sqlilineNumber": "B1",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:139",
+                "Name": "Castellane",
+                "Longitude": "5.3842401",
+                "Latitude": "43.2848292"
+            },
+            {
+                "id": "RTM:PNT:00001494",
+                "sqlilineNumber": "B1",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:139",
+                "Name": "Prado Dupré",
+                "Longitude": "5.385625",
+                "Latitude": "43.282397"
+            },
+            {
+                "id": "RTM:PNT:00001696",
+                "sqlilineNumber": "B1",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:139",
+                "Name": "Prado Périer",
+                "Longitude": "5.387443",
+                "Latitude": "43.279155"
+            },
+            {
+                "id": "RTM:PNT:00001697",
+                "sqlilineNumber": "B1",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:139",
+                "Name": "Prado Borde",
+                "Longitude": "5.388269",
+                "Latitude": "43.277679"
+            },
+            {
+                "id": "RTM:PNT:00001698",
+                "sqlilineNumber": "B1",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:139",
+                "Name": "Prado Louvain",
+                "Longitude": "5.389258",
+                "Latitude": "43.275929"
+            },
+            {
+                "id": "RTM:PNT:00001699",
+                "sqlilineNumber": "B1",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:139",
+                "Name": "Prado Rodocanachi",
+                "Longitude": "5.390187",
+                "Latitude": "43.27429"
+            },
+            {
+                "id": "RTM:PNT:00002736",
+                "sqlilineNumber": "B1",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:139",
+                "Name": "Rond Point du Prado",
+                "Longitude": "5.390881",
+                "Latitude": "43.273052"
+            },
+            {
+                "id": "RTM:PNT:00001747",
+                "sqlilineNumber": "B1",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:139",
+                "Name": "Métro Rond Point du Prado",
+                "Longitude": "5.392239",
+                "Latitude": "43.270537"
+            },
+            {
+                "id": "RTM:PNT:00001748",
+                "sqlilineNumber": "B1",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:139",
+                "Name": "Michelet Huveaune",
+                "Longitude": "5.393887",
+                "Latitude": "43.26774"
+            },
+            {
+                "id": "RTM:PNT:00001749",
+                "sqlilineNumber": "B1",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:139",
+                "Name": "Michelet Ramon",
+                "Longitude": "5.394902",
+                "Latitude": "43.265981"
+            },
+            {
+                "id": "RTM:PNT:00001751",
+                "sqlilineNumber": "B1",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:139",
+                "Name": "Michelet Bousquet",
+                "Longitude": "5.396639",
+                "Latitude": "43.262876"
+            },
+            {
+                "id": "RTM:PNT:00001752",
+                "sqlilineNumber": "B1",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:139",
+                "Name": "Le Corbusier",
+                "Longitude": "5.397512",
+                "Latitude": "43.261283"
+            },
+            {
+                "id": "RTM:PNT:00001753",
+                "sqlilineNumber": "B1",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:139",
+                "Name": "Michelet Luce",
+                "Longitude": "5.399048",
+                "Latitude": "43.258608"
+            },
+            {
+                "id": "RTM:PNT:00001754",
+                "sqlilineNumber": "B1",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:139",
+                "Name": "Michelet Taine",
+                "Longitude": "5.40024",
+                "Latitude": "43.256493"
+            },
+            {
+                "id": "RTM:PNT:00001755",
+                "sqlilineNumber": "B1",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:139",
+                "Name": "Michelet Bonneaude",
+                "Longitude": "5.401789",
+                "Latitude": "43.253742"
+            },
+            {
+                "id": "RTM:PNT:00001757",
+                "sqlilineNumber": "B1",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:139",
+                "Name": "Obélisque",
+                "Longitude": "5.403314",
+                "Latitude": "43.251085"
+            },
+            {
+                "id": "RTM:PNT:00004251",
+                "sqlilineNumber": "B1",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:139",
+                "Name": "Ste Trinité",
+                "Longitude": "5.40637046",
+                "Latitude": "43.24782857"
+            },
+            {
+                "id": "RTM:PNT:00004479",
+                "sqlilineNumber": "B1",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:139",
+                "Name": "Résidence Le Montmorency",
+                "Longitude": "5.40844531",
+                "Latitude": "43.2463517"
+            },
+            {
+                "id": "RTM:PNT:00001760",
+                "sqlilineNumber": "B1",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:139",
+                "Name": "Tomasi",
+                "Longitude": "5.41163027",
+                "Latitude": "43.24544499"
+            },
+            {
+                "id": "RTM:PNT:00001761",
+                "sqlilineNumber": "B1",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:139",
+                "Name": "CC Valmante",
+                "Longitude": "5.41660845",
+                "Latitude": "43.24576151"
+            },
+            {
+                "id": "RTM:PNT:00001763",
+                "sqlilineNumber": "B1",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:139",
+                "Name": "Résidence Valmont Redon",
+                "Longitude": "5.424172",
+                "Latitude": "43.245151"
+            },
+            {
+                "id": "RTM:PNT:00001764",
+                "sqlilineNumber": "B1",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:139",
+                "Name": "Le Redon",
+                "Longitude": "5.428109",
+                "Latitude": "43.244964"
+            },
+            {
+                "id": "RTM:PNT:00001766",
+                "sqlilineNumber": "B1",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:139",
+                "Name": "Luminy Lachamp",
+                "Longitude": "5.436394",
+                "Latitude": "43.24625"
+            },
+            {
+                "id": "RTM:PNT:00001767",
+                "sqlilineNumber": "B1",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:139",
+                "Name": "HLM de Luminy",
+                "Longitude": "5.438127",
+                "Latitude": "43.242633"
+            },
+            {
+                "id": "RTM:PNT:00001768",
+                "sqlilineNumber": "B1",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:139",
+                "Name": "Luminy Complexe sportif",
+                "Longitude": "5.435705",
+                "Latitude": "43.237109"
+            },
+            {
+                "id": "RTM:PNT:00001769",
+                "sqlilineNumber": "B1",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:139",
+                "Name": "Luminy Kedge BS",
+                "Longitude": "5.4359862",
+                "Latitude": "43.2324743"
+            },
+            {
+                "id": "RTM:PNT:00003872",
+                "sqlilineNumber": "B1",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:139",
+                "Name": "Luminy PN des Calanques",
+                "Longitude": "5.437289",
+                "Latitude": "43.231401"
+            },
+            {
+                "id": "RTM:PNT:00004348",
+                "sqlilineNumber": "B1",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:139",
+                "Name": "Luminy Faculté",
+                "Longitude": "5.43967",
+                "Latitude": "43.231068"
+            },
+            {
+                "id": "RTM:PNT:00004349",
+                "sqlilineNumber": "B1",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:139",
+                "Name": "Campus de Luminy",
+                "Longitude": "5.444094",
+                "Latitude": "43.231169"
+            }
+        ],
+        "RTM:RTE:9000139RTMR": [
+            {
+                "id": "RTM:PNT:00004350",
+                "sqlilineNumber": "B1",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:139",
+                "Name": "Campus de Luminy",
+                "Longitude": "5.4440072",
+                "Latitude": "43.2312389"
+            },
+            {
+                "id": "RTM:PNT:00004351",
+                "sqlilineNumber": "B1",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:139",
+                "Name": "Luminy Faculté",
+                "Longitude": "5.43958",
+                "Latitude": "43.231163"
+            },
+            {
+                "id": "RTM:PNT:00003772",
+                "sqlilineNumber": "B1",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:139",
+                "Name": "Luminy PN des Calanques",
+                "Longitude": "5.43710004",
+                "Latitude": "43.2316791"
+            },
+            {
+                "id": "RTM:PNT:00004352",
+                "sqlilineNumber": "B1",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:139",
+                "Name": "Luminy Kedge BS",
+                "Longitude": "5.4361397",
+                "Latitude": "43.2325256"
+            },
+            {
+                "id": "RTM:PNT:00001771",
+                "sqlilineNumber": "B1",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:139",
+                "Name": "Luminy Complexe sportif",
+                "Longitude": "5.43577284",
+                "Latitude": "43.23765278"
+            },
+            {
+                "id": "RTM:PNT:00001772",
+                "sqlilineNumber": "B1",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:139",
+                "Name": "HLM de Luminy",
+                "Longitude": "5.4382186",
+                "Latitude": "43.2431293"
+            },
+            {
+                "id": "RTM:PNT:00001773",
+                "sqlilineNumber": "B1",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:139",
+                "Name": "Luminy Lachamp",
+                "Longitude": "5.436391",
+                "Latitude": "43.246324"
+            },
+            {
+                "id": "RTM:PNT:00001775",
+                "sqlilineNumber": "B1",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:139",
+                "Name": "Le Redon",
+                "Longitude": "5.426675",
+                "Latitude": "43.244844"
+            },
+            {
+                "id": "RTM:PNT:00001776",
+                "sqlilineNumber": "B1",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:139",
+                "Name": "Résidence Valmont Redon",
+                "Longitude": "5.423345",
+                "Latitude": "43.245548"
+            },
+            {
+                "id": "RTM:PNT:00001778",
+                "sqlilineNumber": "B1",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:139",
+                "Name": "CC Valmante",
+                "Longitude": "5.41548997",
+                "Latitude": "43.24574783"
+            },
+            {
+                "id": "RTM:PNT:00001779",
+                "sqlilineNumber": "B1",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:139",
+                "Name": "Tomasi",
+                "Longitude": "5.41153908",
+                "Latitude": "43.24554073"
+            },
+            {
+                "id": "RTM:PNT:00004480",
+                "sqlilineNumber": "B1",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:139",
+                "Name": "Résidence Le Montmorency",
+                "Longitude": "5.4085498",
+                "Latitude": "43.24638122"
+            },
+            {
+                "id": "RTM:PNT:00004252",
+                "sqlilineNumber": "B1",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:139",
+                "Name": "Ste Trinité",
+                "Longitude": "5.40648848",
+                "Latitude": "43.24787741"
+            },
+            {
+                "id": "RTM:PNT:00001782",
+                "sqlilineNumber": "B1",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:139",
+                "Name": "Obélisque",
+                "Longitude": "5.403307",
+                "Latitude": "43.25154"
+            },
+            {
+                "id": "RTM:PNT:00001784",
+                "sqlilineNumber": "B1",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:139",
+                "Name": "Michelet Bonneaude",
+                "Longitude": "5.40180945",
+                "Latitude": "43.25414314"
+            },
+            {
+                "id": "RTM:PNT:00001785",
+                "sqlilineNumber": "B1",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:139",
+                "Name": "Michelet Taine",
+                "Longitude": "5.400235",
+                "Latitude": "43.256976"
+            },
+            {
+                "id": "RTM:PNT:00001786",
+                "sqlilineNumber": "B1",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:139",
+                "Name": "Michelet Luce",
+                "Longitude": "5.39891",
+                "Latitude": "43.25926"
+            },
+            {
+                "id": "RTM:PNT:00001787",
+                "sqlilineNumber": "B1",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:139",
+                "Name": "Le Corbusier",
+                "Longitude": "5.397499",
+                "Latitude": "43.261675"
+            },
+            {
+                "id": "RTM:PNT:00001788",
+                "sqlilineNumber": "B1",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:139",
+                "Name": "Michelet Bousquet",
+                "Longitude": "5.396585",
+                "Latitude": "43.263361"
+            },
+            {
+                "id": "RTM:PNT:00001789",
+                "sqlilineNumber": "B1",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:139",
+                "Name": "Michelet Ramon",
+                "Longitude": "5.395138",
+                "Latitude": "43.266045"
+            },
+            {
+                "id": "RTM:PNT:00001790",
+                "sqlilineNumber": "B1",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:139",
+                "Name": "Michelet Huveaune",
+                "Longitude": "5.394001",
+                "Latitude": "43.268014"
+            },
+            {
+                "id": "RTM:PNT:00001791",
+                "sqlilineNumber": "B1",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:139",
+                "Name": "Métro Rond Point du Prado",
+                "Longitude": "5.39225936",
+                "Latitude": "43.27110847"
+            },
+            {
+                "id": "RTM:PNT:00001736",
+                "sqlilineNumber": "B1",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:139",
+                "Name": "Rond Point du Prado",
+                "Longitude": "5.39108",
+                "Latitude": "43.273144"
+            },
+            {
+                "id": "RTM:PNT:00001737",
+                "sqlilineNumber": "B1",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:139",
+                "Name": "Prado Rodocanachi",
+                "Longitude": "5.390119",
+                "Latitude": "43.274862"
+            },
+            {
+                "id": "RTM:PNT:00001738",
+                "sqlilineNumber": "B1",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:139",
+                "Name": "Prado Louvain",
+                "Longitude": "5.389122",
+                "Latitude": "43.276624"
+            },
+            {
+                "id": "RTM:PNT:00001739",
+                "sqlilineNumber": "B1",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:139",
+                "Name": "Prado Borde",
+                "Longitude": "5.388154",
+                "Latitude": "43.278338"
+            },
+            {
+                "id": "RTM:PNT:00001740",
+                "sqlilineNumber": "B1",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:139",
+                "Name": "Prado Périer",
+                "Longitude": "5.387591",
+                "Latitude": "43.279336"
+            },
+            {
+                "id": "RTM:PNT:00001090",
+                "sqlilineNumber": "B1",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:139",
+                "Name": "Prado Dupré",
+                "Longitude": "5.386241",
+                "Latitude": "43.281722"
+            },
+            {
+                "id": "RTM:PNT:00001091",
+                "sqlilineNumber": "B1",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:139",
+                "Name": "Castellane",
+                "Longitude": "5.38425986",
+                "Latitude": "43.2852469"
+            }
+        ]
+    }
+}

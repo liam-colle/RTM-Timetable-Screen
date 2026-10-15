@@ -1,0 +1,212 @@
+{
+    "id": "RTM:LNE:10246",
+    "name": "B5",
+    "directionIds": {
+        "La Gaye": "RTM:RTE:900010246RTMA",
+        "Métro La Fourragère": "RTM:RTE:900010246RTMR"
+    },
+    "stationIds": {
+        "RTM:RTE:900010246RTMA": [
+            {
+                "id": "RTM:PNT:00004632",
+                "sqlilineNumber": "B5",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:10246",
+                "Name": "Métro La Fourragère",
+                "Longitude": "5.42458487",
+                "Latitude": "43.30387031"
+            },
+            {
+                "id": "RTM:PNT:00004227",
+                "sqlilineNumber": "B5",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:10246",
+                "Name": "Saint-Loup Florian",
+                "Longitude": "5.426726",
+                "Latitude": "43.28196"
+            },
+            {
+                "id": "RTM:PNT:00004633",
+                "sqlilineNumber": "B5",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:10246",
+                "Name": "CC Saint-Loup",
+                "Longitude": "5.4261181",
+                "Latitude": "43.27896993"
+            },
+            {
+                "id": "RTM:PNT:00004467",
+                "sqlilineNumber": "B5",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:10246",
+                "Name": "CC Saint-Loup Doize",
+                "Longitude": "5.427283",
+                "Latitude": "43.277265"
+            },
+            {
+                "id": "RTM:PNT:00001692",
+                "sqlilineNumber": "B5",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:10246",
+                "Name": "Lycée Perrin Verdillon",
+                "Longitude": "5.42521985",
+                "Latitude": "43.2752823"
+            },
+            {
+                "id": "RTM:PNT:00004634",
+                "sqlilineNumber": "B5",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:10246",
+                "Name": "Lycée Perrin",
+                "Longitude": "5.42365107",
+                "Latitude": "43.27366886"
+            },
+            {
+                "id": "RTM:PNT:00004635",
+                "sqlilineNumber": "B5",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:10246",
+                "Name": "Saint-Tronc Mauriac",
+                "Longitude": "5.42217371",
+                "Latitude": "43.2717242"
+            },
+            {
+                "id": "RTM:PNT:00004636",
+                "sqlilineNumber": "B5",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:10246",
+                "Name": "Wiesel Vallon de Toulouse",
+                "Longitude": "5.42036425",
+                "Latitude": "43.26808987"
+            },
+            {
+                "id": "RTM:PNT:00004637",
+                "sqlilineNumber": "B5",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:10246",
+                "Name": "Vallon Régny",
+                "Longitude": "5.41789451",
+                "Latitude": "43.26347382"
+            },
+            {
+                "id": "RTM:PNT:00004638",
+                "sqlilineNumber": "B5",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:10246",
+                "Name": "Blum Cabot",
+                "Longitude": "5.41581529",
+                "Latitude": "43.26080925"
+            },
+            {
+                "id": "RTM:PNT:00001996",
+                "sqlilineNumber": "B5",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:10246",
+                "Name": "La Gaye",
+                "Longitude": "5.41079476",
+                "Latitude": "43.25667776"
+            }
+        ],
+        "RTM:RTE:900010246RTMR": [
+            {
+                "id": "RTM:PNT:00004639",
+                "sqlilineNumber": "B5",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:10246",
+                "Name": "La Gaye",
+                "Longitude": "5.41081689",
+                "Latitude": "43.25676379"
+            },
+            {
+                "id": "RTM:PNT:00004640",
+                "sqlilineNumber": "B5",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:10246",
+                "Name": "Blum Cabot",
+                "Longitude": "5.41620219",
+                "Latitude": "43.26085564"
+            },
+            {
+                "id": "RTM:PNT:00004641",
+                "sqlilineNumber": "B5",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:10246",
+                "Name": "Vallon Régny",
+                "Longitude": "5.41871325",
+                "Latitude": "43.26422172"
+            },
+            {
+                "id": "RTM:PNT:00004642",
+                "sqlilineNumber": "B5",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:10246",
+                "Name": "Wiesel Vallon de Toulouse",
+                "Longitude": "5.42080035",
+                "Latitude": "43.26834267"
+            },
+            {
+                "id": "RTM:PNT:00004643",
+                "sqlilineNumber": "B5",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:10246",
+                "Name": "Saint-Tronc Mauriac",
+                "Longitude": "5.42250175",
+                "Latitude": "43.27166151"
+            },
+            {
+                "id": "RTM:PNT:00004644",
+                "sqlilineNumber": "B5",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:10246",
+                "Name": "Lycée Perrin",
+                "Longitude": "5.42396939",
+                "Latitude": "43.27357183"
+            },
+            {
+                "id": "RTM:PNT:00002820",
+                "sqlilineNumber": "B5",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:10246",
+                "Name": "Lycée Perrin Verdillon",
+                "Longitude": "5.42601862",
+                "Latitude": "43.27497561"
+            },
+            {
+                "id": "RTM:PNT:00004333",
+                "sqlilineNumber": "B5",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:10246",
+                "Name": "CC Saint-Loup Doize",
+                "Longitude": "5.42749128",
+                "Latitude": "43.27739647"
+            },
+            {
+                "id": "RTM:PNT:00004645",
+                "sqlilineNumber": "B5",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:10246",
+                "Name": "CC Saint-Loup",
+                "Longitude": "5.42604501",
+                "Latitude": "43.27912078"
+            },
+            {
+                "id": "RTM:PNT:00001596",
+                "sqlilineNumber": "B5",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:10246",
+                "Name": "Saint-Loup Florian",
+                "Longitude": "5.42716941",
+                "Latitude": "43.28225988"
+            },
+            {
+                "id": "RTM:PNT:00004646",
+                "sqlilineNumber": "B5",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:10246",
+                "Name": "Métro La Fourragère",
+                "Longitude": "5.42387819",
+                "Latitude": "43.30384615"
+            }
+        ]
+    }
+}

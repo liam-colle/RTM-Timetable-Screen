@@ -1,0 +1,302 @@
+{
+    "id": "RTM:LNE:10297",
+    "name": "B14",
+    "directionIds": {
+        "Notre Dame Limite": "RTM:RTE:900010297RTMA",
+        "Canebière Bourse": "RTM:RTE:900010297RTMR"
+    },
+    "stationIds": {
+        "RTM:RTE:900010297RTMA": [
+            {
+                "id": "RTM:PNT:00004404",
+                "sqlilineNumber": "B14",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:10297",
+                "Name": "Canebière Bourse",
+                "Longitude": "5.37674",
+                "Latitude": "43.296603"
+            },
+            {
+                "id": "RTM:PNT:00000419",
+                "sqlilineNumber": "B14",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:10297",
+                "Name": "Barbusse Colbert",
+                "Longitude": "5.37416106",
+                "Latitude": "43.29842459"
+            },
+            {
+                "id": "RTM:PNT:00002530",
+                "sqlilineNumber": "B14",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:10297",
+                "Name": "Métro Colbert",
+                "Longitude": "5.374519",
+                "Latitude": "43.300224"
+            },
+            {
+                "id": "RTM:PNT:00000420",
+                "sqlilineNumber": "B14",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:10297",
+                "Name": "Métro Jules Guesde",
+                "Longitude": "5.3744339",
+                "Latitude": "43.3020805"
+            },
+            {
+                "id": "RTM:PNT:00000481",
+                "sqlilineNumber": "B14",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:10297",
+                "Name": "Place Marceau",
+                "Longitude": "5.373315",
+                "Latitude": "43.304615"
+            },
+            {
+                "id": "RTM:PNT:00003988",
+                "sqlilineNumber": "B14",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:10297",
+                "Name": "Faculté de Médecine",
+                "Longitude": "5.360479",
+                "Latitude": "43.37734"
+            },
+            {
+                "id": "RTM:PNT:00003989",
+                "sqlilineNumber": "B14",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:10297",
+                "Name": "Hôpital Nord",
+                "Longitude": "5.363369",
+                "Latitude": "43.376989"
+            },
+            {
+                "id": "RTM:PNT:00004005",
+                "sqlilineNumber": "B14",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:10297",
+                "Name": "Hôpital Nord Urgences",
+                "Longitude": "5.361595",
+                "Latitude": "43.379474"
+            },
+            {
+                "id": "RTM:PNT:00004006",
+                "sqlilineNumber": "B14",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:10297",
+                "Name": "Bourrély Granière",
+                "Longitude": "5.364381",
+                "Latitude": "43.382766"
+            },
+            {
+                "id": "RTM:PNT:00000565",
+                "sqlilineNumber": "B14",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:10297",
+                "Name": "La Bigotte",
+                "Longitude": "5.36631679",
+                "Latitude": "43.38437701"
+            },
+            {
+                "id": "RTM:PNT:00000566",
+                "sqlilineNumber": "B14",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:10297",
+                "Name": "La Solidarité",
+                "Longitude": "5.369464",
+                "Latitude": "43.386081"
+            },
+            {
+                "id": "RTM:PNT:00000567",
+                "sqlilineNumber": "B14",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:10297",
+                "Name": "La Bigotte",
+                "Longitude": "5.366166",
+                "Latitude": "43.384405"
+            },
+            {
+                "id": "RTM:PNT:00004007",
+                "sqlilineNumber": "B14",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:10297",
+                "Name": "Parc Kallisté",
+                "Longitude": "5.364883",
+                "Latitude": "43.38464"
+            },
+            {
+                "id": "RTM:PNT:00004008",
+                "sqlilineNumber": "B14",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:10297",
+                "Name": "Vallon d'Ol Bourrély",
+                "Longitude": "5.361823",
+                "Latitude": "43.385122"
+            },
+            {
+                "id": "RTM:PNT:00004803",
+                "sqlilineNumber": "B14",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:10297",
+                "Name": "Notre Dame Limite",
+                "Longitude": "5.35890432",
+                "Latitude": "43.38445178"
+            }
+        ],
+        "RTM:RTE:900010297RTMR": [
+            {
+                "id": "RTM:PNT:00004803",
+                "sqlilineNumber": "B14",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:10297",
+                "Name": "Notre Dame Limite",
+                "Longitude": "5.35890432",
+                "Latitude": "43.38445178"
+            },
+            {
+                "id": "RTM:PNT:00003984",
+                "sqlilineNumber": "B14",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:10297",
+                "Name": "Vallon d'Ol Bourrély",
+                "Longitude": "5.362632",
+                "Latitude": "43.385177"
+            },
+            {
+                "id": "RTM:PNT:00003985",
+                "sqlilineNumber": "B14",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:10297",
+                "Name": "Parc Kallisté",
+                "Longitude": "5.364794",
+                "Latitude": "43.384484"
+            },
+            {
+                "id": "RTM:PNT:00000565",
+                "sqlilineNumber": "B14",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:10297",
+                "Name": "La Bigotte",
+                "Longitude": "5.36631679",
+                "Latitude": "43.38437701"
+            },
+            {
+                "id": "RTM:PNT:00000566",
+                "sqlilineNumber": "B14",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:10297",
+                "Name": "La Solidarité",
+                "Longitude": "5.369464",
+                "Latitude": "43.386081"
+            },
+            {
+                "id": "RTM:PNT:00000567",
+                "sqlilineNumber": "B14",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:10297",
+                "Name": "La Bigotte",
+                "Longitude": "5.366166",
+                "Latitude": "43.384405"
+            },
+            {
+                "id": "RTM:PNT:00003986",
+                "sqlilineNumber": "B14",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:10297",
+                "Name": "Bourrély Granière",
+                "Longitude": "5.364172",
+                "Latitude": "43.382678"
+            },
+            {
+                "id": "RTM:PNT:00003987",
+                "sqlilineNumber": "B14",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:10297",
+                "Name": "Hôpital Nord Urgences",
+                "Longitude": "5.361401",
+                "Latitude": "43.379437"
+            },
+            {
+                "id": "RTM:PNT:00004003",
+                "sqlilineNumber": "B14",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:10297",
+                "Name": "Hôpital Nord",
+                "Longitude": "5.363313",
+                "Latitude": "43.377174"
+            },
+            {
+                "id": "RTM:PNT:00004004",
+                "sqlilineNumber": "B14",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:10297",
+                "Name": "Faculté de Médecine",
+                "Longitude": "5.360301",
+                "Latitude": "43.377402"
+            },
+            {
+                "id": "RTM:PNT:00004811",
+                "sqlilineNumber": "B14",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:10297",
+                "Name": "Hôpital Edouard Toulouse",
+                "Longitude": "5.35773378",
+                "Latitude": "43.38014318"
+            },
+            {
+                "id": "RTM:PNT:00004010",
+                "sqlilineNumber": "B14",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:10297",
+                "Name": "Les Fabrettes",
+                "Longitude": "5.357099",
+                "Latitude": "43.379532"
+            },
+            {
+                "id": "RTM:PNT:00003926",
+                "sqlilineNumber": "B14",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:10297",
+                "Name": "Place Marceau",
+                "Longitude": "5.373547",
+                "Latitude": "43.305065"
+            },
+            {
+                "id": "RTM:PNT:00000525",
+                "sqlilineNumber": "B14",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:10297",
+                "Name": "Métro Jules Guesde",
+                "Longitude": "5.3742539",
+                "Latitude": "43.3020873"
+            },
+            {
+                "id": "RTM:PNT:00000381",
+                "sqlilineNumber": "B14",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:10297",
+                "Name": "Métro Colbert",
+                "Longitude": "5.374308",
+                "Latitude": "43.300237"
+            },
+            {
+                "id": "RTM:PNT:00003053",
+                "sqlilineNumber": "B14",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:10297",
+                "Name": "Barbusse Colbert",
+                "Longitude": "5.374036",
+                "Latitude": "43.298149"
+            },
+            {
+                "id": "RTM:PNT:00004401",
+                "sqlilineNumber": "B14",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:10297",
+                "Name": "Canebière Bourse",
+                "Longitude": "5.376246",
+                "Latitude": "43.296791"
+            }
+        ]
+    }
+}

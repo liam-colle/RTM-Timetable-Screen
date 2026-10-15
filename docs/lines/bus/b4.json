@@ -1,0 +1,338 @@
+{
+    "id": "RTM:LNE:10259",
+    "name": "B4",
+    "directionIds": {
+        "Métro La Fourragère": "RTM:RTE:900010259RTMA",
+        "Gèze": "RTM:RTE:900010259RTMR"
+    },
+    "stationIds": {
+        "RTM:RTE:900010259RTMA": [
+            {
+                "id": "RTM:PNT:00004296",
+                "sqlilineNumber": "B4",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:10259",
+                "Name": "Gèze",
+                "Longitude": "5.367306",
+                "Latitude": "43.328728"
+            },
+            {
+                "id": "RTM:PNT:00004330",
+                "sqlilineNumber": "B4",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:10259",
+                "Name": "Gèze Bossy",
+                "Longitude": "5.36975059",
+                "Latitude": "43.33012752"
+            },
+            {
+                "id": "RTM:PNT:00004708",
+                "sqlilineNumber": "B4",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:10259",
+                "Name": "Canet Ambrosini",
+                "Longitude": "5.37390927",
+                "Latitude": "43.33116064"
+            },
+            {
+                "id": "RTM:PNT:00004709",
+                "sqlilineNumber": "B4",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:10259",
+                "Name": "Arnavon Muret",
+                "Longitude": "5.38064847",
+                "Latitude": "43.33036914"
+            },
+            {
+                "id": "RTM:PNT:00004710",
+                "sqlilineNumber": "B4",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:10259",
+                "Name": "Arnavon Calvet",
+                "Longitude": "5.38467346",
+                "Latitude": "43.32992913"
+            },
+            {
+                "id": "RTM:PNT:00004711",
+                "sqlilineNumber": "B4",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:10259",
+                "Name": "Picon",
+                "Longitude": "5.38972225",
+                "Latitude": "43.33026134"
+            },
+            {
+                "id": "RTM:PNT:00004712",
+                "sqlilineNumber": "B4",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:10259",
+                "Name": "Gare de Picon Busserine",
+                "Longitude": "5.39281741",
+                "Latitude": "43.33006869"
+            },
+            {
+                "id": "RTM:PNT:00004713",
+                "sqlilineNumber": "B4",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:10259",
+                "Name": "Théâtre du Merlan",
+                "Longitude": "5.39749246",
+                "Latitude": "43.32995357"
+            },
+            {
+                "id": "RTM:PNT:00004714",
+                "sqlilineNumber": "B4",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:10259",
+                "Name": "CC Le Merlan",
+                "Longitude": "5.40026697",
+                "Latitude": "43.3288343"
+            },
+            {
+                "id": "RTM:PNT:00004715",
+                "sqlilineNumber": "B4",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:10259",
+                "Name": "Mérimée Saint-Paul",
+                "Longitude": "5.404418",
+                "Latitude": "43.3296388"
+            },
+            {
+                "id": "RTM:PNT:00004716",
+                "sqlilineNumber": "B4",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:10259",
+                "Name": "Les Lauriers Martin",
+                "Longitude": "5.408916",
+                "Latitude": "43.3295439"
+            },
+            {
+                "id": "RTM:PNT:00004037",
+                "sqlilineNumber": "B4",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:10259",
+                "Name": "Les Oliviers",
+                "Longitude": "5.4129569",
+                "Latitude": "43.3301519"
+            },
+            {
+                "id": "RTM:PNT:00004717",
+                "sqlilineNumber": "B4",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:10259",
+                "Name": "Sévigné",
+                "Longitude": "5.417568",
+                "Latitude": "43.32823551"
+            },
+            {
+                "id": "RTM:PNT:00004718",
+                "sqlilineNumber": "B4",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:10259",
+                "Name": "Métro Frais Vallon",
+                "Longitude": "5.42259807",
+                "Latitude": "43.32496118"
+            },
+            {
+                "id": "RTM:PNT:00004720",
+                "sqlilineNumber": "B4",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:10259",
+                "Name": "Métro Frais Vallon",
+                "Longitude": "5.42369437",
+                "Latitude": "43.32493266"
+            },
+            {
+                "id": "RTM:PNT:00004700",
+                "sqlilineNumber": "B4",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:10259",
+                "Name": "Saint-Julien Kaddouz",
+                "Longitude": "5.42486146",
+                "Latitude": "43.30699036"
+            },
+            {
+                "id": "RTM:PNT:00004719",
+                "sqlilineNumber": "B4",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:10259",
+                "Name": "Métro La Fourragère",
+                "Longitude": "5.42510805",
+                "Latitude": "43.30450997"
+            },
+            {
+                "id": "RTM:PNT:00004646",
+                "sqlilineNumber": "B4",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:10259",
+                "Name": "Métro La Fourragère",
+                "Longitude": "5.42387819",
+                "Latitude": "43.30384615"
+            }
+        ],
+        "RTM:RTE:900010259RTMR": [
+            {
+                "id": "RTM:PNT:00004721",
+                "sqlilineNumber": "B4",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:10259",
+                "Name": "Métro La Fourragère",
+                "Longitude": "5.4241967",
+                "Latitude": "43.30387006"
+            },
+            {
+                "id": "RTM:PNT:00004722",
+                "sqlilineNumber": "B4",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:10259",
+                "Name": "Métro La Fourragère",
+                "Longitude": "5.42577847",
+                "Latitude": "43.30430054"
+            },
+            {
+                "id": "RTM:PNT:00004695",
+                "sqlilineNumber": "B4",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:10259",
+                "Name": "Saint-Julien Kaddouz",
+                "Longitude": "5.42551726",
+                "Latitude": "43.30713187"
+            },
+            {
+                "id": "RTM:PNT:00004723",
+                "sqlilineNumber": "B4",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:10259",
+                "Name": "Métro Frais Vallon",
+                "Longitude": "5.42291921",
+                "Latitude": "43.32499071"
+            },
+            {
+                "id": "RTM:PNT:00004735",
+                "sqlilineNumber": "B4",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:10259",
+                "Name": "Métro Frais Vallon",
+                "Longitude": "5.42365168",
+                "Latitude": "43.3251118"
+            },
+            {
+                "id": "RTM:PNT:00004724",
+                "sqlilineNumber": "B4",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:10259",
+                "Name": "Sévigné",
+                "Longitude": "5.41746553",
+                "Latitude": "43.32842057"
+            },
+            {
+                "id": "RTM:PNT:00004039",
+                "sqlilineNumber": "B4",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:10259",
+                "Name": "Les Oliviers",
+                "Longitude": "5.412983",
+                "Latitude": "43.330258"
+            },
+            {
+                "id": "RTM:PNT:00004725",
+                "sqlilineNumber": "B4",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:10259",
+                "Name": "Les Lauriers Martin",
+                "Longitude": "5.4089161",
+                "Latitude": "43.329593"
+            },
+            {
+                "id": "RTM:PNT:00004726",
+                "sqlilineNumber": "B4",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:10259",
+                "Name": "Mérimée Saint-Paul",
+                "Longitude": "5.4043463",
+                "Latitude": "43.3296857"
+            },
+            {
+                "id": "RTM:PNT:00004727",
+                "sqlilineNumber": "B4",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:10259",
+                "Name": "CC Le Merlan",
+                "Longitude": "5.39970604",
+                "Latitude": "43.32868274"
+            },
+            {
+                "id": "RTM:PNT:00004728",
+                "sqlilineNumber": "B4",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:10259",
+                "Name": "Théâtre du Merlan",
+                "Longitude": "5.39732199",
+                "Latitude": "43.33017388"
+            },
+            {
+                "id": "RTM:PNT:00004729",
+                "sqlilineNumber": "B4",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:10259",
+                "Name": "Gare de Picon Busserine",
+                "Longitude": "5.39262385",
+                "Latitude": "43.33017457"
+            },
+            {
+                "id": "RTM:PNT:00004730",
+                "sqlilineNumber": "B4",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:10259",
+                "Name": "Picon",
+                "Longitude": "5.38944647",
+                "Latitude": "43.33036165"
+            },
+            {
+                "id": "RTM:PNT:00004731",
+                "sqlilineNumber": "B4",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:10259",
+                "Name": "Arnavon Calvet",
+                "Longitude": "5.38378047",
+                "Latitude": "43.32993153"
+            },
+            {
+                "id": "RTM:PNT:00004732",
+                "sqlilineNumber": "B4",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:10259",
+                "Name": "Arnavon Muret",
+                "Longitude": "5.38019708",
+                "Latitude": "43.33066162"
+            },
+            {
+                "id": "RTM:PNT:00004733",
+                "sqlilineNumber": "B4",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:10259",
+                "Name": "Canet Ambrosini",
+                "Longitude": "5.374162",
+                "Latitude": "43.331358"
+            },
+            {
+                "id": "RTM:PNT:00004734",
+                "sqlilineNumber": "B4",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:10259",
+                "Name": "Gèze Bossy",
+                "Longitude": "5.37080216",
+                "Latitude": "43.33054203"
+            },
+            {
+                "id": "RTM:PNT:00004300",
+                "sqlilineNumber": "B4",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:10259",
+                "Name": "Gèze",
+                "Longitude": "5.367394",
+                "Latitude": "43.327996"
+            }
+        ]
+    }
+}

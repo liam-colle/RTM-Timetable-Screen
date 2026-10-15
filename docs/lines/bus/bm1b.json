@@ -1,0 +1,104 @@
+{
+    "id": "RTM:LNE:194",
+    "name": "BM1B",
+    "directionIds": {
+        "Métro La Fourragère": "RTM:RTE:9000194RTMA",
+        "Métro La Timone": "RTM:RTE:9000194RTMR"
+    },
+    "stationIds": {
+        "RTM:RTE:9000194RTMA": [
+            {
+                "id": "RTM:PNT:00004420",
+                "sqlilineNumber": "BM1B",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:194",
+                "Name": "Métro La Timone",
+                "Longitude": "5.400229",
+                "Latitude": "43.291165"
+            },
+            {
+                "id": "RTM:PNT:00001536",
+                "sqlilineNumber": "BM1B",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:194",
+                "Name": "La Blancarde",
+                "Longitude": "5.406267",
+                "Latitude": "43.296663"
+            },
+            {
+                "id": "RTM:PNT:00000947",
+                "sqlilineNumber": "BM1B",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:194",
+                "Name": "Métro Louis Armand",
+                "Longitude": "5.412998",
+                "Latitude": "43.299987"
+            },
+            {
+                "id": "RTM:PNT:00003762",
+                "sqlilineNumber": "BM1B",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:194",
+                "Name": "Métro St Barnabé",
+                "Longitude": "5.419413",
+                "Latitude": "43.303716"
+            },
+            {
+                "id": "RTM:PNT:00003558",
+                "sqlilineNumber": "BM1B",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:194",
+                "Name": "Métro La Fourragère",
+                "Longitude": "5.42432168",
+                "Latitude": "43.3038275"
+            }
+        ],
+        "RTM:RTE:9000194RTMR": [
+            {
+                "id": "RTM:PNT:00003558",
+                "sqlilineNumber": "BM1B",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:194",
+                "Name": "Métro La Fourragère",
+                "Longitude": "5.42432168",
+                "Latitude": "43.3038275"
+            },
+            {
+                "id": "RTM:PNT:00000972",
+                "sqlilineNumber": "BM1B",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:194",
+                "Name": "Métro St Barnabé",
+                "Longitude": "5.4193908",
+                "Latitude": "43.3037981"
+            },
+            {
+                "id": "RTM:PNT:00004576",
+                "sqlilineNumber": "BM1B",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:194",
+                "Name": "Métro Louis Armand",
+                "Longitude": "5.41305276",
+                "Latitude": "43.29943239"
+            },
+            {
+                "id": "RTM:PNT:00004577",
+                "sqlilineNumber": "BM1B",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:194",
+                "Name": "La Blancarde",
+                "Longitude": "5.40652154",
+                "Latitude": "43.295599"
+            },
+            {
+                "id": "RTM:PNT:00002442",
+                "sqlilineNumber": "BM1B",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:194",
+                "Name": "Métro La Timone",
+                "Longitude": "5.399794",
+                "Latitude": "43.291005"
+            }
+        ]
+    }
+}

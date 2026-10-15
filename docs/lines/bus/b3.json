@@ -1,0 +1,284 @@
+{
+    "id": "RTM:LNE:103",
+    "name": "B3",
+    "directionIds": {
+        "Technopôle de Château Gombert": "RTM:RTE:9000103RTMA",
+        "St Jérôme Parking Relais": "RTM:RTE:9000103RTMR"
+    },
+    "stationIds": {
+        "RTM:RTE:9000103RTMA": [
+            {
+                "id": "RTM:PNT:00004033",
+                "sqlilineNumber": "B3",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:103",
+                "Name": "St Jérôme Parking Relais",
+                "Longitude": "5.410308",
+                "Latitude": "43.342866"
+            },
+            {
+                "id": "RTM:PNT:00004034",
+                "sqlilineNumber": "B3",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:103",
+                "Name": "St Jérôme IUT",
+                "Longitude": "5.409871",
+                "Latitude": "43.340617"
+            },
+            {
+                "id": "RTM:PNT:00004035",
+                "sqlilineNumber": "B3",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:103",
+                "Name": "St Jérôme Faculté",
+                "Longitude": "5.41004",
+                "Latitude": "43.336542"
+            },
+            {
+                "id": "RTM:PNT:00004036",
+                "sqlilineNumber": "B3",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:103",
+                "Name": "Les Lilas",
+                "Longitude": "5.410258",
+                "Latitude": "43.331923"
+            },
+            {
+                "id": "RTM:PNT:00004037",
+                "sqlilineNumber": "B3",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:103",
+                "Name": "Les Oliviers",
+                "Longitude": "5.4129569",
+                "Latitude": "43.3301519"
+            },
+            {
+                "id": "RTM:PNT:00004717",
+                "sqlilineNumber": "B3",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:103",
+                "Name": "Sévigné",
+                "Longitude": "5.417568",
+                "Latitude": "43.32823551"
+            },
+            {
+                "id": "RTM:PNT:00001012",
+                "sqlilineNumber": "B3",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:103",
+                "Name": "Métro Frais Vallon",
+                "Longitude": "5.42353057",
+                "Latitude": "43.32708964"
+            },
+            {
+                "id": "RTM:PNT:00001013",
+                "sqlilineNumber": "B3",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:103",
+                "Name": "La Rose Village",
+                "Longitude": "5.42682867",
+                "Latitude": "43.3288264"
+            },
+            {
+                "id": "RTM:PNT:00000594",
+                "sqlilineNumber": "B3",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:103",
+                "Name": "La Rose Mignet",
+                "Longitude": "5.42752762",
+                "Latitude": "43.33011567"
+            },
+            {
+                "id": "RTM:PNT:00000595",
+                "sqlilineNumber": "B3",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:103",
+                "Name": "La Rose Le Clos",
+                "Longitude": "5.42854",
+                "Latitude": "43.331472"
+            },
+            {
+                "id": "RTM:PNT:00004044",
+                "sqlilineNumber": "B3",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:103",
+                "Name": "Métro La Rose",
+                "Longitude": "5.43100655",
+                "Latitude": "43.33360641"
+            },
+            {
+                "id": "RTM:PNT:00004045",
+                "sqlilineNumber": "B3",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:103",
+                "Name": "Les Vieux Cyprès",
+                "Longitude": "5.43585598",
+                "Latitude": "43.33760574"
+            },
+            {
+                "id": "RTM:PNT:00004046",
+                "sqlilineNumber": "B3",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:103",
+                "Name": "Technopôle Centrale Med",
+                "Longitude": "5.436608",
+                "Latitude": "43.342404"
+            },
+            {
+                "id": "RTM:PNT:00004047",
+                "sqlilineNumber": "B3",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:103",
+                "Name": "Technopôle Polytech Marseille",
+                "Longitude": "5.43706298",
+                "Latitude": "43.34446838"
+            },
+            {
+                "id": "RTM:PNT:00004048",
+                "sqlilineNumber": "B3",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:103",
+                "Name": "Technopôle de Château Gombert",
+                "Longitude": "5.439252",
+                "Latitude": "43.344884"
+            }
+        ],
+        "RTM:RTE:9000103RTMR": [
+            {
+                "id": "RTM:PNT:00004049",
+                "sqlilineNumber": "B3",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:103",
+                "Name": "Technopôle de Château Gombert",
+                "Longitude": "5.43911085",
+                "Latitude": "43.34483412"
+            },
+            {
+                "id": "RTM:PNT:00004050",
+                "sqlilineNumber": "B3",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:103",
+                "Name": "Technopôle Polytech Marseille",
+                "Longitude": "5.43681622",
+                "Latitude": "43.34459322"
+            },
+            {
+                "id": "RTM:PNT:00004051",
+                "sqlilineNumber": "B3",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:103",
+                "Name": "Technopôle Centrale Med",
+                "Longitude": "5.436517",
+                "Latitude": "43.342314"
+            },
+            {
+                "id": "RTM:PNT:00004052",
+                "sqlilineNumber": "B3",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:103",
+                "Name": "Les Vieux Cyprès",
+                "Longitude": "5.435654",
+                "Latitude": "43.337646"
+            },
+            {
+                "id": "RTM:PNT:00004053",
+                "sqlilineNumber": "B3",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:103",
+                "Name": "Métro La Rose",
+                "Longitude": "5.43083623",
+                "Latitude": "43.33364348"
+            },
+            {
+                "id": "RTM:PNT:00000571",
+                "sqlilineNumber": "B3",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:103",
+                "Name": "La Rose Le Clos",
+                "Longitude": "5.428273",
+                "Latitude": "43.331483"
+            },
+            {
+                "id": "RTM:PNT:00000572",
+                "sqlilineNumber": "B3",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:103",
+                "Name": "La Rose Mignet",
+                "Longitude": "5.42729",
+                "Latitude": "43.329898"
+            },
+            {
+                "id": "RTM:PNT:00000977",
+                "sqlilineNumber": "B3",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:103",
+                "Name": "La Rose Village",
+                "Longitude": "5.424987",
+                "Latitude": "43.328072"
+            },
+            {
+                "id": "RTM:PNT:00000978",
+                "sqlilineNumber": "B3",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:103",
+                "Name": "Métro Frais Vallon",
+                "Longitude": "5.423245",
+                "Latitude": "43.327052"
+            },
+            {
+                "id": "RTM:PNT:00004724",
+                "sqlilineNumber": "B3",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:103",
+                "Name": "Sévigné",
+                "Longitude": "5.41746553",
+                "Latitude": "43.32842057"
+            },
+            {
+                "id": "RTM:PNT:00004039",
+                "sqlilineNumber": "B3",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:103",
+                "Name": "Les Oliviers",
+                "Longitude": "5.412983",
+                "Latitude": "43.330258"
+            },
+            {
+                "id": "RTM:PNT:00004040",
+                "sqlilineNumber": "B3",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:103",
+                "Name": "Les Lilas",
+                "Longitude": "5.410376",
+                "Latitude": "43.331923"
+            },
+            {
+                "id": "RTM:PNT:00004041",
+                "sqlilineNumber": "B3",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:103",
+                "Name": "St Jérôme Faculté",
+                "Longitude": "5.410166",
+                "Latitude": "43.336462"
+            },
+            {
+                "id": "RTM:PNT:00004042",
+                "sqlilineNumber": "B3",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:103",
+                "Name": "St Jérôme IUT",
+                "Longitude": "5.409973",
+                "Latitude": "43.340536"
+            },
+            {
+                "id": "RTM:PNT:00003932",
+                "sqlilineNumber": "B3",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:103",
+                "Name": "St Jérôme Parking Relais",
+                "Longitude": "5.41043",
+                "Latitude": "43.34301"
+            }
+        ]
+    }
+}
