@@ -11,6 +11,7 @@ A React + Vite + TypeScript station-screen that shows next departures for RTM (M
 - `npm run dev` – dev server (proxies `/api/rtm/*` to `https://api.rtm.fr/front/*`; the API has no CORS headers, so any deployment needs the same proxy or `VITE_RTM_API_BASE`)
 - `npm run build` – typecheck + production build
 - `npm run typecheck`
+- `docker compose up -d --build` – nginx serving the built app on `${PORT:-8080}`, with the `/api/rtm` proxy; `public/config.json` is mounted so edits apply without a rebuild
 - `npm run scrape -- --priority high|medium|low` – regenerate `docs/lines/**` (see below)
 - `npm run scrape:cars [-- --lines 50,A2]` – lecar/Cartreize coach lines from the open GTFS (not RTM API; scheduled only). See `docs/CAR_LINES.md`
 - `npm run docs:lines` – regenerate `docs/LINES.md` (all line codes and stop names); run it after every scrape

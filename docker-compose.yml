@@ -1,0 +1,10 @@
+services:
+  timetable:
+    build: .
+    image: rtm-timetable-screen
+    ports:
+      - "${PORT:-8080}:80"
+    restart: unless-stopped
+    volumes:
+      # Edit config.json on the host without rebuilding (title, lines, refresh…). Remove this line to use the baked-in one.
+      - ./public/config.json:/usr/share/nginx/html/config.json:ro
