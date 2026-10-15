@@ -1,0 +1,104 @@
+{
+    "id": "C13-C480",
+    "name": "C480",
+    "directionIds": {
+        "Cassis": "C13-C480:0",
+        "Aubagne": "C13-C480:1"
+    },
+    "stationIds": {
+        "C13-C480:0": [
+            {
+                "id": "MAMP-21218",
+                "sqlilineNumber": "C480",
+                "operator": "CG13",
+                "lineRef": "C13-C480",
+                "Name": "Pôle d'Echanges",
+                "Longitude": "5.56551100",
+                "Latitude": "43.29538700"
+            },
+            {
+                "id": "MAMP-22637",
+                "sqlilineNumber": "C480",
+                "operator": "CG13",
+                "lineRef": "C13-C480",
+                "Name": "Collège Lakanal",
+                "Longitude": "5.58261100",
+                "Latitude": "43.28593400"
+            },
+            {
+                "id": "MAMP-23492",
+                "sqlilineNumber": "C480",
+                "operator": "CG13",
+                "lineRef": "C13-C480",
+                "Name": "Collège St Augustin",
+                "Longitude": "5.56456100",
+                "Latitude": "43.26192800"
+            },
+            {
+                "id": "MAMP-22738",
+                "sqlilineNumber": "C480",
+                "operator": "CG13",
+                "lineRef": "C13-C480",
+                "Name": "Lot. Les Romarin",
+                "Longitude": "5.51739200",
+                "Latitude": "43.25100100"
+            },
+            {
+                "id": "MAMP-25489",
+                "sqlilineNumber": "C480",
+                "operator": "CG13",
+                "lineRef": "C13-C480",
+                "Name": "Collège Les Gorguettes",
+                "Longitude": "5.53271300",
+                "Latitude": "43.23103700"
+            }
+        ],
+        "C13-C480:1": [
+            {
+                "id": "MAMP-25489",
+                "sqlilineNumber": "C480",
+                "operator": "CG13",
+                "lineRef": "C13-C480",
+                "Name": "Collège Les Gorguettes",
+                "Longitude": "5.53271300",
+                "Latitude": "43.23103700"
+            },
+            {
+                "id": "MAMP-22738",
+                "sqlilineNumber": "C480",
+                "operator": "CG13",
+                "lineRef": "C13-C480",
+                "Name": "Lot. Les Romarin",
+                "Longitude": "5.51739200",
+                "Latitude": "43.25100100"
+            },
+            {
+                "id": "MAMP-23492",
+                "sqlilineNumber": "C480",
+                "operator": "CG13",
+                "lineRef": "C13-C480",
+                "Name": "Collège St Augustin",
+                "Longitude": "5.56456100",
+                "Latitude": "43.26192800"
+            },
+            {
+                "id": "MAMP-22637",
+                "sqlilineNumber": "C480",
+                "operator": "CG13",
+                "lineRef": "C13-C480",
+                "Name": "Collège Lakanal",
+                "Longitude": "5.58261100",
+                "Latitude": "43.28593400"
+            },
+            {
+                "id": "MAMP-21218",
+                "sqlilineNumber": "C480",
+                "operator": "CG13",
+                "lineRef": "C13-C480",
+                "Name": "Pôle d'Echanges",
+                "Longitude": "5.56551100",
+                "Latitude": "43.29538700"
+            }
+        ]
+    }
+}

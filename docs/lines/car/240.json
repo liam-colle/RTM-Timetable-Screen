@@ -1,0 +1,680 @@
+{
+    "id": "C13-240",
+    "name": "240",
+    "directionIds": {
+        "Marseille": "C13-240:0",
+        "Aubagne": "C13-240:1"
+    },
+    "stationIds": {
+        "C13-240:0": [
+            {
+                "id": "MAMP-26541",
+                "sqlilineNumber": "240",
+                "operator": "CG13",
+                "lineRef": "C13-240",
+                "Name": "Eiffel",
+                "Longitude": "5.54822400",
+                "Latitude": "43.28720900"
+            },
+            {
+                "id": "MAMP-23441",
+                "sqlilineNumber": "240",
+                "operator": "CG13",
+                "lineRef": "C13-240",
+                "Name": "Piscine Alain Bernard",
+                "Longitude": "5.54858900",
+                "Latitude": "43.28505700"
+            },
+            {
+                "id": "MAMP-21218",
+                "sqlilineNumber": "240",
+                "operator": "CG13",
+                "lineRef": "C13-240",
+                "Name": "Pôle d'Echanges",
+                "Longitude": "5.56551100",
+                "Latitude": "43.29538700"
+            },
+            {
+                "id": "MAMP-23386",
+                "sqlilineNumber": "240",
+                "operator": "CG13",
+                "lineRef": "C13-240",
+                "Name": "Martin Luther King",
+                "Longitude": "5.56247900",
+                "Latitude": "43.29287100"
+            },
+            {
+                "id": "MAMP-20968",
+                "sqlilineNumber": "240",
+                "operator": "CG13",
+                "lineRef": "C13-240",
+                "Name": "Ravel Decroix",
+                "Longitude": "5.55990800",
+                "Latitude": "43.29047900"
+            },
+            {
+                "id": "MAMP-21456",
+                "sqlilineNumber": "240",
+                "operator": "CG13",
+                "lineRef": "C13-240",
+                "Name": "La Tourtelle",
+                "Longitude": "5.55440800",
+                "Latitude": "43.28572600"
+            },
+            {
+                "id": "MAMP-21518",
+                "sqlilineNumber": "240",
+                "operator": "CG13",
+                "lineRef": "C13-240",
+                "Name": "La Pérussonne",
+                "Longitude": "5.54086100",
+                "Latitude": "43.28375900"
+            },
+            {
+                "id": "MAMP-23723",
+                "sqlilineNumber": "240",
+                "operator": "CG13",
+                "lineRef": "C13-240",
+                "Name": "Les Creissauds",
+                "Longitude": "5.53897600",
+                "Latitude": "43.28353300"
+            },
+            {
+                "id": "MAMP-23308",
+                "sqlilineNumber": "240",
+                "operator": "CG13",
+                "lineRef": "C13-240",
+                "Name": "Bd Madame",
+                "Longitude": "5.53428500",
+                "Latitude": "43.28334700"
+            },
+            {
+                "id": "MAMP-20936",
+                "sqlilineNumber": "240",
+                "operator": "CG13",
+                "lineRef": "C13-240",
+                "Name": "St Mitre le Vieux",
+                "Longitude": "5.52954200",
+                "Latitude": "43.28260900"
+            },
+            {
+                "id": "MAMP-23617",
+                "sqlilineNumber": "240",
+                "operator": "CG13",
+                "lineRef": "C13-240",
+                "Name": "La Bourgade",
+                "Longitude": "5.52370500",
+                "Latitude": "43.28176200"
+            },
+            {
+                "id": "MAMP-24233",
+                "sqlilineNumber": "240",
+                "operator": "CG13",
+                "lineRef": "C13-240",
+                "Name": "La Poste",
+                "Longitude": "5.51877900",
+                "Latitude": "43.28123800"
+            },
+            {
+                "id": "MAMP-22645",
+                "sqlilineNumber": "240",
+                "operator": "CG13",
+                "lineRef": "C13-240",
+                "Name": "La Penne",
+                "Longitude": "5.51435400",
+                "Latitude": "43.28180100"
+            },
+            {
+                "id": "MAMP-20965",
+                "sqlilineNumber": "240",
+                "operator": "CG13",
+                "lineRef": "C13-240",
+                "Name": "Le Mouton",
+                "Longitude": "5.50910400",
+                "Latitude": "43.28222400"
+            },
+            {
+                "id": "MAMP-23853",
+                "sqlilineNumber": "240",
+                "operator": "CG13",
+                "lineRef": "C13-240",
+                "Name": "La Solitude",
+                "Longitude": "5.50328800",
+                "Latitude": "43.28351600"
+            },
+            {
+                "id": "MAMP-23881",
+                "sqlilineNumber": "240",
+                "operator": "CG13",
+                "lineRef": "C13-240",
+                "Name": "La Millière",
+                "Longitude": "5.49892300",
+                "Latitude": "43.28351100"
+            },
+            {
+                "id": "MAMP-23827",
+                "sqlilineNumber": "240",
+                "operator": "CG13",
+                "lineRef": "C13-240",
+                "Name": "Montgrand",
+                "Longitude": "5.49305400",
+                "Latitude": "43.28388600"
+            },
+            {
+                "id": "MAMP-24706",
+                "sqlilineNumber": "240",
+                "operator": "CG13",
+                "lineRef": "C13-240",
+                "Name": "HLM La Barasse",
+                "Longitude": "5.48738000",
+                "Latitude": "43.28474200"
+            },
+            {
+                "id": "MAMP-25904",
+                "sqlilineNumber": "240",
+                "operator": "CG13",
+                "lineRef": "C13-240",
+                "Name": "Bancal Barasse",
+                "Longitude": "5.47978100",
+                "Latitude": "43.28597300"
+            },
+            {
+                "id": "MAMP-24214",
+                "sqlilineNumber": "240",
+                "operator": "CG13",
+                "lineRef": "C13-240",
+                "Name": "Léon Bancal Saint-Menet",
+                "Longitude": "5.48145900",
+                "Latitude": "43.28953500"
+            },
+            {
+                "id": "MAMP-32888",
+                "sqlilineNumber": "240",
+                "operator": "CG13",
+                "lineRef": "C13-240",
+                "Name": "Saint-Menet",
+                "Longitude": "5.47881400",
+                "Latitude": "43.28968300"
+            },
+            {
+                "id": "MAMP-23343",
+                "sqlilineNumber": "240",
+                "operator": "CG13",
+                "lineRef": "C13-240",
+                "Name": "La Sablière La Montre",
+                "Longitude": "5.47424400",
+                "Latitude": "43.29057100"
+            },
+            {
+                "id": "MAMP-22993",
+                "sqlilineNumber": "240",
+                "operator": "CG13",
+                "lineRef": "C13-240",
+                "Name": "Village Estellan",
+                "Longitude": "5.47348200",
+                "Latitude": "43.29212300"
+            },
+            {
+                "id": "MAMP-26445",
+                "sqlilineNumber": "240",
+                "operator": "CG13",
+                "lineRef": "C13-240",
+                "Name": "La Valentine Centre Commercial",
+                "Longitude": "5.47473900",
+                "Latitude": "43.29401400"
+            },
+            {
+                "id": "MAMP-22561",
+                "sqlilineNumber": "240",
+                "operator": "CG13",
+                "lineRef": "C13-240",
+                "Name": "Village Estellan",
+                "Longitude": "5.47305800",
+                "Latitude": "43.29162000"
+            },
+            {
+                "id": "MAMP-24659",
+                "sqlilineNumber": "240",
+                "operator": "CG13",
+                "lineRef": "C13-240",
+                "Name": "Petit St Marcel",
+                "Longitude": "5.46634900",
+                "Latitude": "43.28931700"
+            },
+            {
+                "id": "MAMP-22261",
+                "sqlilineNumber": "240",
+                "operator": "CG13",
+                "lineRef": "C13-240",
+                "Name": "Cartonnerie",
+                "Longitude": "5.46284100",
+                "Latitude": "43.29071300"
+            },
+            {
+                "id": "MAMP-20632",
+                "sqlilineNumber": "240",
+                "operator": "CG13",
+                "lineRef": "C13-240",
+                "Name": "La Rouguière",
+                "Longitude": "5.45904400",
+                "Latitude": "43.29232300"
+            },
+            {
+                "id": "MAMP-21415",
+                "sqlilineNumber": "240",
+                "operator": "CG13",
+                "lineRef": "C13-240",
+                "Name": "HLM La Rouguière",
+                "Longitude": "5.45475500",
+                "Latitude": "43.29334700"
+            },
+            {
+                "id": "MAMP-24560",
+                "sqlilineNumber": "240",
+                "operator": "CG13",
+                "lineRef": "C13-240",
+                "Name": "Clairval Les Comtes",
+                "Longitude": "5.45150400",
+                "Latitude": "43.29367500"
+            },
+            {
+                "id": "MAMP-23258",
+                "sqlilineNumber": "240",
+                "operator": "CG13",
+                "lineRef": "C13-240",
+                "Name": "Booth Lecache",
+                "Longitude": "5.44751300",
+                "Latitude": "43.29616800"
+            },
+            {
+                "id": "MAMP-25720",
+                "sqlilineNumber": "240",
+                "operator": "CG13",
+                "lineRef": "C13-240",
+                "Name": "Les Caillols Centre Urbain",
+                "Longitude": "5.44381700",
+                "Latitude": "43.29469400"
+            },
+            {
+                "id": "MAMP-23290",
+                "sqlilineNumber": "240",
+                "operator": "CG13",
+                "lineRef": "C13-240",
+                "Name": "Faïenciers",
+                "Longitude": "5.43341000",
+                "Latitude": "43.29530200"
+            },
+            {
+                "id": "MAMP-25595",
+                "sqlilineNumber": "240",
+                "operator": "CG13",
+                "lineRef": "C13-240",
+                "Name": "La Fourragère Désert",
+                "Longitude": "5.43416000",
+                "Latitude": "43.29756900"
+            },
+            {
+                "id": "MAMP-25456",
+                "sqlilineNumber": "240",
+                "operator": "CG13",
+                "lineRef": "C13-240",
+                "Name": "Le Vendôme",
+                "Longitude": "5.43140400",
+                "Latitude": "43.29860800"
+            },
+            {
+                "id": "MAMP-24215",
+                "sqlilineNumber": "240",
+                "operator": "CG13",
+                "lineRef": "C13-240",
+                "Name": "Les Borromées",
+                "Longitude": "5.43120500",
+                "Latitude": "43.30123800"
+            },
+            {
+                "id": "MAMP-21749",
+                "sqlilineNumber": "240",
+                "operator": "CG13",
+                "lineRef": "C13-240",
+                "Name": "Métro La Fourragère",
+                "Longitude": "5.42404000",
+                "Latitude": "43.30389100"
+            }
+        ],
+        "C13-240:1": [
+            {
+                "id": "MAMP-24707",
+                "sqlilineNumber": "240",
+                "operator": "CG13",
+                "lineRef": "C13-240",
+                "Name": "Métro La Fourragère",
+                "Longitude": "5.42405000",
+                "Latitude": "43.30387000"
+            },
+            {
+                "id": "MAMP-21420",
+                "sqlilineNumber": "240",
+                "operator": "CG13",
+                "lineRef": "C13-240",
+                "Name": "Les Borromées",
+                "Longitude": "5.43100700",
+                "Latitude": "43.30102200"
+            },
+            {
+                "id": "MAMP-20009",
+                "sqlilineNumber": "240",
+                "operator": "CG13",
+                "lineRef": "C13-240",
+                "Name": "Le Vendôme",
+                "Longitude": "5.43026600",
+                "Latitude": "43.29956500"
+            },
+            {
+                "id": "MAMP-25951",
+                "sqlilineNumber": "240",
+                "operator": "CG13",
+                "lineRef": "C13-240",
+                "Name": "La Fourragère Désert",
+                "Longitude": "5.43381900",
+                "Latitude": "43.29756200"
+            },
+            {
+                "id": "MAMP-20579",
+                "sqlilineNumber": "240",
+                "operator": "CG13",
+                "lineRef": "C13-240",
+                "Name": "Faïenciers",
+                "Longitude": "5.43322300",
+                "Latitude": "43.29486600"
+            },
+            {
+                "id": "MAMP-25720",
+                "sqlilineNumber": "240",
+                "operator": "CG13",
+                "lineRef": "C13-240",
+                "Name": "Les Caillols Centre Urbain",
+                "Longitude": "5.44381700",
+                "Latitude": "43.29469400"
+            },
+            {
+                "id": "MAMP-23730",
+                "sqlilineNumber": "240",
+                "operator": "CG13",
+                "lineRef": "C13-240",
+                "Name": "Booth Lecache",
+                "Longitude": "5.44697100",
+                "Latitude": "43.29585300"
+            },
+            {
+                "id": "MAMP-24988",
+                "sqlilineNumber": "240",
+                "operator": "CG13",
+                "lineRef": "C13-240",
+                "Name": "Clairval Les Comtes",
+                "Longitude": "5.45062200",
+                "Latitude": "43.29347900"
+            },
+            {
+                "id": "MAMP-23341",
+                "sqlilineNumber": "240",
+                "operator": "CG13",
+                "lineRef": "C13-240",
+                "Name": "HLM La Rouguière",
+                "Longitude": "5.45450200",
+                "Latitude": "43.29329200"
+            },
+            {
+                "id": "MAMP-22690",
+                "sqlilineNumber": "240",
+                "operator": "CG13",
+                "lineRef": "C13-240",
+                "Name": "La Rouguière",
+                "Longitude": "5.45939600",
+                "Latitude": "43.29209000"
+            },
+            {
+                "id": "MAMP-25059",
+                "sqlilineNumber": "240",
+                "operator": "CG13",
+                "lineRef": "C13-240",
+                "Name": "Cartonnerie",
+                "Longitude": "5.46380500",
+                "Latitude": "43.29000200"
+            },
+            {
+                "id": "MAMP-22558",
+                "sqlilineNumber": "240",
+                "operator": "CG13",
+                "lineRef": "C13-240",
+                "Name": "Petit St Marcel",
+                "Longitude": "5.46555600",
+                "Latitude": "43.28941300"
+            },
+            {
+                "id": "MAMP-22993",
+                "sqlilineNumber": "240",
+                "operator": "CG13",
+                "lineRef": "C13-240",
+                "Name": "Village Estellan",
+                "Longitude": "5.47348200",
+                "Latitude": "43.29212300"
+            },
+            {
+                "id": "MAMP-26445",
+                "sqlilineNumber": "240",
+                "operator": "CG13",
+                "lineRef": "C13-240",
+                "Name": "La Valentine Centre Commercial",
+                "Longitude": "5.47473900",
+                "Latitude": "43.29401400"
+            },
+            {
+                "id": "MAMP-22561",
+                "sqlilineNumber": "240",
+                "operator": "CG13",
+                "lineRef": "C13-240",
+                "Name": "Village Estellan",
+                "Longitude": "5.47305800",
+                "Latitude": "43.29162000"
+            },
+            {
+                "id": "MAMP-26446",
+                "sqlilineNumber": "240",
+                "operator": "CG13",
+                "lineRef": "C13-240",
+                "Name": "La Sablière La Montre",
+                "Longitude": "5.47397900",
+                "Latitude": "43.29047300"
+            },
+            {
+                "id": "MAMP-32889",
+                "sqlilineNumber": "240",
+                "operator": "CG13",
+                "lineRef": "C13-240",
+                "Name": "Saint-Menet",
+                "Longitude": "5.47748600",
+                "Latitude": "43.28981400"
+            },
+            {
+                "id": "MAMP-24682",
+                "sqlilineNumber": "240",
+                "operator": "CG13",
+                "lineRef": "C13-240",
+                "Name": "Léon Bancal Saint-Menet",
+                "Longitude": "5.48116700",
+                "Latitude": "43.28943200"
+            },
+            {
+                "id": "MAMP-22070",
+                "sqlilineNumber": "240",
+                "operator": "CG13",
+                "lineRef": "C13-240",
+                "Name": "Bancal Barasse",
+                "Longitude": "5.48000700",
+                "Latitude": "43.28570000"
+            },
+            {
+                "id": "MAMP-23340",
+                "sqlilineNumber": "240",
+                "operator": "CG13",
+                "lineRef": "C13-240",
+                "Name": "HLM La Barasse",
+                "Longitude": "5.48826300",
+                "Latitude": "43.28451200"
+            },
+            {
+                "id": "MAMP-25953",
+                "sqlilineNumber": "240",
+                "operator": "CG13",
+                "lineRef": "C13-240",
+                "Name": "Montgrand",
+                "Longitude": "5.49384100",
+                "Latitude": "43.28368700"
+            },
+            {
+                "id": "MAMP-25060",
+                "sqlilineNumber": "240",
+                "operator": "CG13",
+                "lineRef": "C13-240",
+                "Name": "La Milière",
+                "Longitude": "5.49963400",
+                "Latitude": "43.28346600"
+            },
+            {
+                "id": "MAMP-20880",
+                "sqlilineNumber": "240",
+                "operator": "CG13",
+                "lineRef": "C13-240",
+                "Name": "La Solitude",
+                "Longitude": "5.50305700",
+                "Latitude": "43.28345000"
+            },
+            {
+                "id": "MAMP-20660",
+                "sqlilineNumber": "240",
+                "operator": "CG13",
+                "lineRef": "C13-240",
+                "Name": "Le Mouton",
+                "Longitude": "5.50986300",
+                "Latitude": "43.28199500"
+            },
+            {
+                "id": "MAMP-22294",
+                "sqlilineNumber": "240",
+                "operator": "CG13",
+                "lineRef": "C13-240",
+                "Name": "La Penne",
+                "Longitude": "5.51444900",
+                "Latitude": "43.28169300"
+            },
+            {
+                "id": "MAMP-22240",
+                "sqlilineNumber": "240",
+                "operator": "CG13",
+                "lineRef": "C13-240",
+                "Name": "La Poste",
+                "Longitude": "5.51661800",
+                "Latitude": "43.28133200"
+            },
+            {
+                "id": "MAMP-24031",
+                "sqlilineNumber": "240",
+                "operator": "CG13",
+                "lineRef": "C13-240",
+                "Name": "La Bourgade",
+                "Longitude": "5.52455000",
+                "Latitude": "43.28177300"
+            },
+            {
+                "id": "MAMP-24689",
+                "sqlilineNumber": "240",
+                "operator": "CG13",
+                "lineRef": "C13-240",
+                "Name": "St Mitre le Vieux",
+                "Longitude": "5.53091500",
+                "Latitude": "43.28276400"
+            },
+            {
+                "id": "MAMP-20549",
+                "sqlilineNumber": "240",
+                "operator": "CG13",
+                "lineRef": "C13-240",
+                "Name": "Bd Madame",
+                "Longitude": "5.53432600",
+                "Latitude": "43.28319400"
+            },
+            {
+                "id": "MAMP-25834",
+                "sqlilineNumber": "240",
+                "operator": "CG13",
+                "lineRef": "C13-240",
+                "Name": "Les Creissauds",
+                "Longitude": "5.53918100",
+                "Latitude": "43.28345500"
+            },
+            {
+                "id": "MAMP-20264",
+                "sqlilineNumber": "240",
+                "operator": "CG13",
+                "lineRef": "C13-240",
+                "Name": "La Pérussonne",
+                "Longitude": "5.54139500",
+                "Latitude": "43.28375400"
+            },
+            {
+                "id": "MAMP-25258",
+                "sqlilineNumber": "240",
+                "operator": "CG13",
+                "lineRef": "C13-240",
+                "Name": "Piscine Alain Bernard",
+                "Longitude": "5.54729600",
+                "Latitude": "43.28441300"
+            },
+            {
+                "id": "MAMP-22301",
+                "sqlilineNumber": "240",
+                "operator": "CG13",
+                "lineRef": "C13-240",
+                "Name": "Eiffel",
+                "Longitude": "5.54853000",
+                "Latitude": "43.28670500"
+            },
+            {
+                "id": "MAMP-22603",
+                "sqlilineNumber": "240",
+                "operator": "CG13",
+                "lineRef": "C13-240",
+                "Name": "La Tourtelle",
+                "Longitude": "5.55480300",
+                "Latitude": "43.28555400"
+            },
+            {
+                "id": "MAMP-23883",
+                "sqlilineNumber": "240",
+                "operator": "CG13",
+                "lineRef": "C13-240",
+                "Name": "Ravel Decroix",
+                "Longitude": "5.56012800",
+                "Latitude": "43.29051200"
+            },
+            {
+                "id": "MAMP-24756",
+                "sqlilineNumber": "240",
+                "operator": "CG13",
+                "lineRef": "C13-240",
+                "Name": "Martin Luther King",
+                "Longitude": "5.56256200",
+                "Latitude": "43.29271400"
+            },
+            {
+                "id": "MAMP-21218",
+                "sqlilineNumber": "240",
+                "operator": "CG13",
+                "lineRef": "C13-240",
+                "Name": "Pôle d'Echanges",
+                "Longitude": "5.56551100",
+                "Latitude": "43.29538700"
+            }
+        ]
+    }
+}

@@ -1,0 +1,221 @@
+{
+    "id": "C13-79",
+    "name": "79",
+    "directionIds": {
+        "Marseille": "C13-79:0",
+        "La Ciotat": "C13-79:1"
+    },
+    "stationIds": {
+        "C13-79:0": [
+            {
+                "id": "MAMP-24201",
+                "sqlilineNumber": "79",
+                "operator": "CG13",
+                "lineRef": "C13-79",
+                "Name": "Office de Tourisme",
+                "Longitude": "5.61040900",
+                "Latitude": "43.17376100"
+            },
+            {
+                "id": "MAMP-21327",
+                "sqlilineNumber": "79",
+                "operator": "CG13",
+                "lineRef": "C13-79",
+                "Name": "L'Eden",
+                "Longitude": "5.61082200",
+                "Latitude": "43.17662200"
+            },
+            {
+                "id": "MAMP-23004",
+                "sqlilineNumber": "79",
+                "operator": "CG13",
+                "lineRef": "C13-79",
+                "Name": "Port de Plaisance",
+                "Longitude": "5.61143900",
+                "Latitude": "43.17916100"
+            },
+            {
+                "id": "MAMP-23009",
+                "sqlilineNumber": "79",
+                "operator": "CG13",
+                "lineRef": "C13-79",
+                "Name": "Villa des Tours",
+                "Longitude": "5.61473400",
+                "Latitude": "43.18236900"
+            },
+            {
+                "id": "MAMP-23325",
+                "sqlilineNumber": "79",
+                "operator": "CG13",
+                "lineRef": "C13-79",
+                "Name": "Route de Marseille",
+                "Longitude": "5.61190700",
+                "Latitude": "43.18324700"
+            },
+            {
+                "id": "MAMP-21329",
+                "sqlilineNumber": "79",
+                "operator": "CG13",
+                "lineRef": "C13-79",
+                "Name": "Ernest Subila",
+                "Longitude": "5.60925700",
+                "Latitude": "43.18448000"
+            },
+            {
+                "id": "MAMP-20564",
+                "sqlilineNumber": "79",
+                "operator": "CG13",
+                "lineRef": "C13-79",
+                "Name": "Deruy",
+                "Longitude": "5.60442400",
+                "Latitude": "43.19061000"
+            },
+            {
+                "id": "MAMP-20979",
+                "sqlilineNumber": "79",
+                "operator": "CG13",
+                "lineRef": "C13-79",
+                "Name": "Rond Point des Voiles",
+                "Longitude": "5.60159500",
+                "Latitude": "43.20651700"
+            },
+            {
+                "id": "MAMP-21935",
+                "sqlilineNumber": "79",
+                "operator": "CG13",
+                "lineRef": "C13-79",
+                "Name": "Faubourg d'Entrepr",
+                "Longitude": "5.59798900",
+                "Latitude": "43.20193600"
+            },
+            {
+                "id": "MAMP-23413",
+                "sqlilineNumber": "79",
+                "operator": "CG13",
+                "lineRef": "C13-79",
+                "Name": "Plaine Brunette",
+                "Longitude": "5.59649200",
+                "Latitude": "43.20056800"
+            },
+            {
+                "id": "MAMP-35175",
+                "sqlilineNumber": "79",
+                "operator": "CG13",
+                "lineRef": "C13-79",
+                "Name": "Castellane Schweitzer",
+                "Longitude": "5.38692200",
+                "Latitude": "43.28378700"
+            }
+        ],
+        "C13-79:1": [
+            {
+                "id": "MAMP-35175",
+                "sqlilineNumber": "79",
+                "operator": "CG13",
+                "lineRef": "C13-79",
+                "Name": "Castellane Schweitzer",
+                "Longitude": "5.38692200",
+                "Latitude": "43.28378700"
+            },
+            {
+                "id": "MAMP-22992",
+                "sqlilineNumber": "79",
+                "operator": "CG13",
+                "lineRef": "C13-79",
+                "Name": "Parc du 26eCentenaire",
+                "Longitude": "5.39164100",
+                "Latitude": "43.28284800"
+            },
+            {
+                "id": "MAMP-26400",
+                "sqlilineNumber": "79",
+                "operator": "CG13",
+                "lineRef": "C13-79",
+                "Name": "Plaine Brunette",
+                "Longitude": "5.59702200",
+                "Latitude": "43.20077600"
+            },
+            {
+                "id": "MAMP-24821",
+                "sqlilineNumber": "79",
+                "operator": "CG13",
+                "lineRef": "C13-79",
+                "Name": "Faubourg d'Entrepr",
+                "Longitude": "5.59824700",
+                "Latitude": "43.20206700"
+            },
+            {
+                "id": "MAMP-20979",
+                "sqlilineNumber": "79",
+                "operator": "CG13",
+                "lineRef": "C13-79",
+                "Name": "Rond Point des Voiles",
+                "Longitude": "5.60159500",
+                "Latitude": "43.20651700"
+            },
+            {
+                "id": "MAMP-22572",
+                "sqlilineNumber": "79",
+                "operator": "CG13",
+                "lineRef": "C13-79",
+                "Name": "Deruy",
+                "Longitude": "5.60403900",
+                "Latitude": "43.19048200"
+            },
+            {
+                "id": "MAMP-25051",
+                "sqlilineNumber": "79",
+                "operator": "CG13",
+                "lineRef": "C13-79",
+                "Name": "Ernest Subila",
+                "Longitude": "5.60844800",
+                "Latitude": "43.18508000"
+            },
+            {
+                "id": "MAMP-26306",
+                "sqlilineNumber": "79",
+                "operator": "CG13",
+                "lineRef": "C13-79",
+                "Name": "Vallat de Roubaud",
+                "Longitude": "5.61250600",
+                "Latitude": "43.18236100"
+            },
+            {
+                "id": "MAMP-25130",
+                "sqlilineNumber": "79",
+                "operator": "CG13",
+                "lineRef": "C13-79",
+                "Name": "Centre de rééducation",
+                "Longitude": "5.61170800",
+                "Latitude": "43.18061000"
+            },
+            {
+                "id": "MAMP-39334",
+                "sqlilineNumber": "79",
+                "operator": "CG13",
+                "lineRef": "C13-79",
+                "Name": "Square Mouton",
+                "Longitude": "5.61074600",
+                "Latitude": "43.17911600"
+            },
+            {
+                "id": "MAMP-20076",
+                "sqlilineNumber": "79",
+                "operator": "CG13",
+                "lineRef": "C13-79",
+                "Name": "L'Eden",
+                "Longitude": "5.61084100",
+                "Latitude": "43.17800900"
+            },
+            {
+                "id": "MAMP-24201",
+                "sqlilineNumber": "79",
+                "operator": "CG13",
+                "lineRef": "C13-79",
+                "Name": "Office de Tourisme",
+                "Longitude": "5.61040900",
+                "Latitude": "43.17376100"
+            }
+        ]
+    }
+}

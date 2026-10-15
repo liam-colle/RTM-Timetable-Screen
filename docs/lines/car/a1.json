@@ -1,0 +1,50 @@
+{
+    "id": "C13-A1",
+    "name": "A1",
+    "directionIds": {
+        "Marignane": "C13-A1:0",
+        "Marseille": "C13-A1:1"
+    },
+    "stationIds": {
+        "C13-A1:0": [
+            {
+                "id": "MAMP-26047",
+                "sqlilineNumber": "A1",
+                "operator": "CG13",
+                "lineRef": "C13-A1",
+                "Name": "Gare St Charles",
+                "Longitude": "5.37972300",
+                "Latitude": "43.30419300"
+            },
+            {
+                "id": "MAMP-23667",
+                "sqlilineNumber": "A1",
+                "operator": "CG13",
+                "lineRef": "C13-A1",
+                "Name": "Aéroport Marseille Provence",
+                "Longitude": "5.22026000",
+                "Latitude": "43.44320200"
+            }
+        ],
+        "C13-A1:1": [
+            {
+                "id": "MAMP-23667",
+                "sqlilineNumber": "A1",
+                "operator": "CG13",
+                "lineRef": "C13-A1",
+                "Name": "Aéroport Marseille Provence",
+                "Longitude": "5.22026000",
+                "Latitude": "43.44320200"
+            },
+            {
+                "id": "MAMP-26047",
+                "sqlilineNumber": "A1",
+                "operator": "CG13",
+                "lineRef": "C13-A1",
+                "Name": "Gare St Charles",
+                "Longitude": "5.37972300",
+                "Latitude": "43.30419300"
+            }
+        ]
+    }
+}

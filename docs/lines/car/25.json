@@ -1,0 +1,275 @@
+{
+    "id": "C13-25",
+    "name": "25",
+    "directionIds": {
+        "Aix-en-Provence": "C13-25:0",
+        "Salon-de-Provence": "C13-25:1"
+    },
+    "stationIds": {
+        "C13-25:0": [
+            {
+                "id": "MAMP-22529",
+                "sqlilineNumber": "25",
+                "operator": "CG13",
+                "lineRef": "C13-25",
+                "Name": "Gare SNCF",
+                "Longitude": "5.00010430",
+                "Latitude": "43.58040604"
+            },
+            {
+                "id": "MAMP-23742",
+                "sqlilineNumber": "25",
+                "operator": "CG13",
+                "lineRef": "C13-25",
+                "Name": "Briand Tristani",
+                "Longitude": "5.00303330",
+                "Latitude": "43.57949704"
+            },
+            {
+                "id": "MAMP-23708",
+                "sqlilineNumber": "25",
+                "operator": "CG13",
+                "lineRef": "C13-25",
+                "Name": "Centre Ville",
+                "Longitude": "5.00376820",
+                "Latitude": "43.58265604"
+            },
+            {
+                "id": "MAMP-21921",
+                "sqlilineNumber": "25",
+                "operator": "CG13",
+                "lineRef": "C13-25",
+                "Name": "Briand Sully",
+                "Longitude": "5.00299570",
+                "Latitude": "43.58472404"
+            },
+            {
+                "id": "MAMP-20855",
+                "sqlilineNumber": "25",
+                "operator": "CG13",
+                "lineRef": "C13-25",
+                "Name": "Briand Avenir",
+                "Longitude": "5.00251290",
+                "Latitude": "43.58663504"
+            },
+            {
+                "id": "MAMP-25572",
+                "sqlilineNumber": "25",
+                "operator": "CG13",
+                "lineRef": "C13-25",
+                "Name": "Chantegrive",
+                "Longitude": "4.99518510",
+                "Latitude": "43.58834504"
+            },
+            {
+                "id": "MAMP-22593",
+                "sqlilineNumber": "25",
+                "operator": "CG13",
+                "lineRef": "C13-25",
+                "Name": "Aires de la Dime",
+                "Longitude": "5.07808690",
+                "Latitude": "43.63429704"
+            },
+            {
+                "id": "MAMP-23374",
+                "sqlilineNumber": "25",
+                "operator": "CG13",
+                "lineRef": "C13-25",
+                "Name": "Taille",
+                "Longitude": "5.08187410",
+                "Latitude": "43.63706504"
+            },
+            {
+                "id": "MAMP-28017",
+                "sqlilineNumber": "25",
+                "operator": "CG13",
+                "lineRef": "C13-25",
+                "Name": "Gare Routière",
+                "Longitude": "5.08845630",
+                "Latitude": "43.63990304"
+            },
+            {
+                "id": "MAMP-21828",
+                "sqlilineNumber": "25",
+                "operator": "CG13",
+                "lineRef": "C13-25",
+                "Name": "St Roch",
+                "Longitude": "5.09548370",
+                "Latitude": "43.63656804"
+            },
+            {
+                "id": "MAMP-25994",
+                "sqlilineNumber": "25",
+                "operator": "CG13",
+                "lineRef": "C13-25",
+                "Name": "Roi René",
+                "Longitude": "5.09939430",
+                "Latitude": "43.63207604"
+            },
+            {
+                "id": "MAMP-21404",
+                "sqlilineNumber": "25",
+                "operator": "CG13",
+                "lineRef": "C13-25",
+                "Name": "Guynemer",
+                "Longitude": "5.10204970",
+                "Latitude": "43.63006504"
+            },
+            {
+                "id": "MAMP-21673",
+                "sqlilineNumber": "25",
+                "operator": "CG13",
+                "lineRef": "C13-25",
+                "Name": "La Beauvalle",
+                "Longitude": "5.44274200",
+                "Latitude": "43.51470100"
+            },
+            {
+                "id": "MAMP-21672",
+                "sqlilineNumber": "25",
+                "operator": "CG13",
+                "lineRef": "C13-25",
+                "Name": "Sous Préfecture",
+                "Longitude": "5.44277900",
+                "Latitude": "43.51974700"
+            },
+            {
+                "id": "MAMP-29149",
+                "sqlilineNumber": "25",
+                "operator": "CG13",
+                "lineRef": "C13-25",
+                "Name": "Gare Routière",
+                "Longitude": "5.44112900",
+                "Latitude": "43.52334000"
+            }
+        ],
+        "C13-25:1": [
+            {
+                "id": "MAMP-29149",
+                "sqlilineNumber": "25",
+                "operator": "CG13",
+                "lineRef": "C13-25",
+                "Name": "Gare Routière",
+                "Longitude": "5.44112900",
+                "Latitude": "43.52334000"
+            },
+            {
+                "id": "MAMP-22133",
+                "sqlilineNumber": "25",
+                "operator": "CG13",
+                "lineRef": "C13-25",
+                "Name": "Sous Préfecture",
+                "Longitude": "5.44267800",
+                "Latitude": "43.51976200"
+            },
+            {
+                "id": "MAMP-20473",
+                "sqlilineNumber": "25",
+                "operator": "CG13",
+                "lineRef": "C13-25",
+                "Name": "La Beauvalle",
+                "Longitude": "5.44259900",
+                "Latitude": "43.51470800"
+            },
+            {
+                "id": "MAMP-23373",
+                "sqlilineNumber": "25",
+                "operator": "CG13",
+                "lineRef": "C13-25",
+                "Name": "Guynemer",
+                "Longitude": "5.10221600",
+                "Latitude": "43.63008804"
+            },
+            {
+                "id": "MAMP-23869",
+                "sqlilineNumber": "25",
+                "operator": "CG13",
+                "lineRef": "C13-25",
+                "Name": "Roi René",
+                "Longitude": "5.09974300",
+                "Latitude": "43.63195604"
+            },
+            {
+                "id": "MAMP-21309",
+                "sqlilineNumber": "25",
+                "operator": "CG13",
+                "lineRef": "C13-25",
+                "Name": "St Roch",
+                "Longitude": "5.09566070",
+                "Latitude": "43.63626204"
+            },
+            {
+                "id": "MAMP-28017",
+                "sqlilineNumber": "25",
+                "operator": "CG13",
+                "lineRef": "C13-25",
+                "Name": "Gare Routière",
+                "Longitude": "5.08845630",
+                "Latitude": "43.63990304"
+            },
+            {
+                "id": "MAMP-22252",
+                "sqlilineNumber": "25",
+                "operator": "CG13",
+                "lineRef": "C13-25",
+                "Name": "Taille",
+                "Longitude": "5.08161130",
+                "Latitude": "43.63693704"
+            },
+            {
+                "id": "MAMP-25582",
+                "sqlilineNumber": "25",
+                "operator": "CG13",
+                "lineRef": "C13-25",
+                "Name": "Aires de la Dime",
+                "Longitude": "5.07858040",
+                "Latitude": "43.63476704"
+            },
+            {
+                "id": "MAMP-21696",
+                "sqlilineNumber": "25",
+                "operator": "CG13",
+                "lineRef": "C13-25",
+                "Name": "Chantegrive",
+                "Longitude": "4.99542650",
+                "Latitude": "43.58830204"
+            },
+            {
+                "id": "MAMP-22914",
+                "sqlilineNumber": "25",
+                "operator": "CG13",
+                "lineRef": "C13-25",
+                "Name": "Briand Avenir",
+                "Longitude": "5.00241640",
+                "Latitude": "43.58662004"
+            },
+            {
+                "id": "MAMP-21604",
+                "sqlilineNumber": "25",
+                "operator": "CG13",
+                "lineRef": "C13-25",
+                "Name": "Centre Ville",
+                "Longitude": "5.00366630",
+                "Latitude": "43.58259004"
+            },
+            {
+                "id": "MAMP-20034",
+                "sqlilineNumber": "25",
+                "operator": "CG13",
+                "lineRef": "C13-25",
+                "Name": "Briand Tristani",
+                "Longitude": "5.00293670",
+                "Latitude": "43.57943104"
+            },
+            {
+                "id": "MAMP-22529",
+                "sqlilineNumber": "25",
+                "operator": "CG13",
+                "lineRef": "C13-25",
+                "Name": "Gare SNCF",
+                "Longitude": "5.00010430",
+                "Latitude": "43.58040604"
+            }
+        ]
+    }
+}

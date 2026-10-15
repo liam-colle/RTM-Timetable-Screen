@@ -1,0 +1,95 @@
+{
+    "id": "C13-A2",
+    "name": "A2",
+    "directionIds": {
+        "Marignane / Aix-en-Provence": "C13-A2:0",
+        "Aix-en-Provence": "C13-A2:1"
+    },
+    "stationIds": {
+        "C13-A2:0": [
+            {
+                "id": "MAMP-27797",
+                "sqlilineNumber": "A2",
+                "operator": "CG13",
+                "lineRef": "C13-A2",
+                "Name": "Gare Routière",
+                "Longitude": "5.44031200",
+                "Latitude": "43.52331900"
+            },
+            {
+                "id": "MAMP-24103",
+                "sqlilineNumber": "A2",
+                "operator": "CG13",
+                "lineRef": "C13-A2",
+                "Name": "Plan d'Aillane Quai 4",
+                "Longitude": "5.37040200",
+                "Latitude": "43.49803100"
+            },
+            {
+                "id": "MAMP-21522",
+                "sqlilineNumber": "A2",
+                "operator": "CG13",
+                "lineRef": "C13-A2",
+                "Name": "Gare TGV",
+                "Longitude": "5.31748100",
+                "Latitude": "43.45574800"
+            },
+            {
+                "id": "MAMP-23667",
+                "sqlilineNumber": "A2",
+                "operator": "CG13",
+                "lineRef": "C13-A2",
+                "Name": "Aéroport Marseille Provence",
+                "Longitude": "5.22026000",
+                "Latitude": "43.44320200"
+            }
+        ],
+        "C13-A2:1": [
+            {
+                "id": "MAMP-23667",
+                "sqlilineNumber": "A2",
+                "operator": "CG13",
+                "lineRef": "C13-A2",
+                "Name": "Aéroport Marseille Provence",
+                "Longitude": "5.22026000",
+                "Latitude": "43.44320200"
+            },
+            {
+                "id": "MAMP-20272",
+                "sqlilineNumber": "A2",
+                "operator": "CG13",
+                "lineRef": "C13-A2",
+                "Name": "Gare Aix TGV",
+                "Longitude": "5.31642800",
+                "Latitude": "43.45456100"
+            },
+            {
+                "id": "MAMP-25852",
+                "sqlilineNumber": "A2",
+                "operator": "CG13",
+                "lineRef": "C13-A2",
+                "Name": "Pôle d'Activités",
+                "Longitude": "5.37224400",
+                "Latitude": "43.49077900"
+            },
+            {
+                "id": "MAMP-24103",
+                "sqlilineNumber": "A2",
+                "operator": "CG13",
+                "lineRef": "C13-A2",
+                "Name": "Plan d'Aillane Quai 4",
+                "Longitude": "5.37040200",
+                "Latitude": "43.49803100"
+            },
+            {
+                "id": "MAMP-27797",
+                "sqlilineNumber": "A2",
+                "operator": "CG13",
+                "lineRef": "C13-A2",
+                "Name": "Gare Routière",
+                "Longitude": "5.44031200",
+                "Latitude": "43.52331900"
+            }
+        ]
+    }
+}

@@ -1,0 +1,194 @@
+{
+    "id": "C13-48",
+    "name": "48",
+    "directionIds": {
+        "Marseille": "C13-48:0",
+        "Aix-en-Provence": "C13-48:1"
+    },
+    "stationIds": {
+        "C13-48:0": [
+            {
+                "id": "MAMP-26464",
+                "sqlilineNumber": "48",
+                "operator": "CG13",
+                "lineRef": "C13-48",
+                "Name": "Mauriat",
+                "Longitude": "5.46675500",
+                "Latitude": "43.51593000"
+            },
+            {
+                "id": "MAMP-20666",
+                "sqlilineNumber": "48",
+                "operator": "CG13",
+                "lineRef": "C13-48",
+                "Name": "Infirmeries",
+                "Longitude": "5.46356100",
+                "Latitude": "43.51310400"
+            },
+            {
+                "id": "MAMP-24038",
+                "sqlilineNumber": "48",
+                "operator": "CG13",
+                "lineRef": "C13-48",
+                "Name": "Meyran",
+                "Longitude": "5.45392300",
+                "Latitude": "43.51183700"
+            },
+            {
+                "id": "MAMP-33969",
+                "sqlilineNumber": "48",
+                "operator": "CG13",
+                "lineRef": "C13-48",
+                "Name": "Krypton",
+                "Longitude": "5.44817800",
+                "Latitude": "43.51154600"
+            },
+            {
+                "id": "MAMP-40054",
+                "sqlilineNumber": "48",
+                "operator": "CG13",
+                "lineRef": "C13-48",
+                "Name": "Pauliane",
+                "Longitude": "5.44631600",
+                "Latitude": "43.50980800"
+            },
+            {
+                "id": "MAMP-26263",
+                "sqlilineNumber": "48",
+                "operator": "CG13",
+                "lineRef": "C13-48",
+                "Name": "Pont de l'Arc Prados",
+                "Longitude": "5.44096300",
+                "Latitude": "43.51017800"
+            },
+            {
+                "id": "MAMP-35080",
+                "sqlilineNumber": "48",
+                "operator": "CG13",
+                "lineRef": "C13-48",
+                "Name": "Armelière",
+                "Longitude": "5.43491700",
+                "Latitude": "43.51001300"
+            },
+            {
+                "id": "MAMP-25534",
+                "sqlilineNumber": "48",
+                "operator": "CG13",
+                "lineRef": "C13-48",
+                "Name": "La Parade",
+                "Longitude": "5.42376200",
+                "Latitude": "43.50816300"
+            },
+            {
+                "id": "MAMP-24999",
+                "sqlilineNumber": "48",
+                "operator": "CG13",
+                "lineRef": "C13-48",
+                "Name": "Champ de Foire",
+                "Longitude": "5.41547900",
+                "Latitude": "43.50700700"
+            },
+            {
+                "id": "MAMP-26047",
+                "sqlilineNumber": "48",
+                "operator": "CG13",
+                "lineRef": "C13-48",
+                "Name": "Gare St Charles",
+                "Longitude": "5.37972300",
+                "Latitude": "43.30419300"
+            }
+        ],
+        "C13-48:1": [
+            {
+                "id": "MAMP-26047",
+                "sqlilineNumber": "48",
+                "operator": "CG13",
+                "lineRef": "C13-48",
+                "Name": "Gare St Charles",
+                "Longitude": "5.37972300",
+                "Latitude": "43.30419300"
+            },
+            {
+                "id": "MAMP-22192",
+                "sqlilineNumber": "48",
+                "operator": "CG13",
+                "lineRef": "C13-48",
+                "Name": "Champ de Foire",
+                "Longitude": "5.41722500",
+                "Latitude": "43.50752700"
+            },
+            {
+                "id": "MAMP-25917",
+                "sqlilineNumber": "48",
+                "operator": "CG13",
+                "lineRef": "C13-48",
+                "Name": "La Parade",
+                "Longitude": "5.42374600",
+                "Latitude": "43.50795500"
+            },
+            {
+                "id": "MAMP-24991",
+                "sqlilineNumber": "48",
+                "operator": "CG13",
+                "lineRef": "C13-48",
+                "Name": "Armelière",
+                "Longitude": "5.43498200",
+                "Latitude": "43.50978700"
+            },
+            {
+                "id": "MAMP-23818",
+                "sqlilineNumber": "48",
+                "operator": "CG13",
+                "lineRef": "C13-48",
+                "Name": "Pont de l'Arc",
+                "Longitude": "5.44042100",
+                "Latitude": "43.50920000"
+            },
+            {
+                "id": "MAMP-40055",
+                "sqlilineNumber": "48",
+                "operator": "CG13",
+                "lineRef": "C13-48",
+                "Name": "Pauliane",
+                "Longitude": "5.44603500",
+                "Latitude": "43.50973200"
+            },
+            {
+                "id": "MAMP-25918",
+                "sqlilineNumber": "48",
+                "operator": "CG13",
+                "lineRef": "C13-48",
+                "Name": "P+R Krypton",
+                "Longitude": "5.44876400",
+                "Latitude": "43.51144700"
+            },
+            {
+                "id": "MAMP-25469",
+                "sqlilineNumber": "48",
+                "operator": "CG13",
+                "lineRef": "C13-48",
+                "Name": "Meyran",
+                "Longitude": "5.45325300",
+                "Latitude": "43.51164900"
+            },
+            {
+                "id": "MAMP-21121",
+                "sqlilineNumber": "48",
+                "operator": "CG13",
+                "lineRef": "C13-48",
+                "Name": "Infirmeries",
+                "Longitude": "5.46381000",
+                "Latitude": "43.51310600"
+            },
+            {
+                "id": "MAMP-26464",
+                "sqlilineNumber": "48",
+                "operator": "CG13",
+                "lineRef": "C13-48",
+                "Name": "Mauriat",
+                "Longitude": "5.46675500",
+                "Latitude": "43.51593000"
+            }
+        ]
+    }
+}

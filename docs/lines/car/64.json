@@ -1,0 +1,320 @@
+{
+    "id": "C13-64",
+    "name": "64",
+    "directionIds": {
+        "Marseille": "C13-64:0",
+        "Trets": "C13-64:1"
+    },
+    "stationIds": {
+        "C13-64:0": [
+            {
+                "id": "MAMP-28454",
+                "sqlilineNumber": "64",
+                "operator": "CG13",
+                "lineRef": "C13-64",
+                "Name": "Pôle d'Echanges Quai 6",
+                "Longitude": "5.67851700",
+                "Latitude": "43.45010800"
+            },
+            {
+                "id": "MAMP-25455",
+                "sqlilineNumber": "64",
+                "operator": "CG13",
+                "lineRef": "C13-64",
+                "Name": "La Corneirelle",
+                "Longitude": "5.61203200",
+                "Latitude": "43.46328700"
+            },
+            {
+                "id": "MAMP-24559",
+                "sqlilineNumber": "64",
+                "operator": "CG13",
+                "lineRef": "C13-64",
+                "Name": "La Leque",
+                "Longitude": "5.64556500",
+                "Latitude": "43.44649900"
+            },
+            {
+                "id": "MAMP-20850",
+                "sqlilineNumber": "64",
+                "operator": "CG13",
+                "lineRef": "C13-64",
+                "Name": "Le Village",
+                "Longitude": "5.64027100",
+                "Latitude": "43.44671200"
+            },
+            {
+                "id": "MAMP-26420",
+                "sqlilineNumber": "64",
+                "operator": "CG13",
+                "lineRef": "C13-64",
+                "Name": "Le Lavoir",
+                "Longitude": "5.63772300",
+                "Latitude": "43.45029400"
+            },
+            {
+                "id": "MAMP-21393",
+                "sqlilineNumber": "64",
+                "operator": "CG13",
+                "lineRef": "C13-64",
+                "Name": "Le Vieux Moulin",
+                "Longitude": "5.62976400",
+                "Latitude": "43.45793500"
+            },
+            {
+                "id": "MAMP-20104",
+                "sqlilineNumber": "64",
+                "operator": "CG13",
+                "lineRef": "C13-64",
+                "Name": "Les Ecoles",
+                "Longitude": "5.62411300",
+                "Latitude": "43.48185000"
+            },
+            {
+                "id": "MAMP-22581",
+                "sqlilineNumber": "64",
+                "operator": "CG13",
+                "lineRef": "C13-64",
+                "Name": "Villevieille",
+                "Longitude": "5.61488200",
+                "Latitude": "43.47169900"
+            },
+            {
+                "id": "MAMP-21397",
+                "sqlilineNumber": "64",
+                "operator": "CG13",
+                "lineRef": "C13-64",
+                "Name": "Victoire",
+                "Longitude": "5.60926300",
+                "Latitude": "43.47304900"
+            },
+            {
+                "id": "MAMP-23024",
+                "sqlilineNumber": "64",
+                "operator": "CG13",
+                "lineRef": "C13-64",
+                "Name": "La Marnière",
+                "Longitude": "5.60711900",
+                "Latitude": "43.47146200"
+            },
+            {
+                "id": "MAMP-22244",
+                "sqlilineNumber": "64",
+                "operator": "CG13",
+                "lineRef": "C13-64",
+                "Name": "La Plaine",
+                "Longitude": "5.59805700",
+                "Latitude": "43.47066500"
+            },
+            {
+                "id": "MAMP-23269",
+                "sqlilineNumber": "64",
+                "operator": "CG13",
+                "lineRef": "C13-64",
+                "Name": "Ecole de la Barque",
+                "Longitude": "5.53889100",
+                "Latitude": "43.47839000"
+            },
+            {
+                "id": "MAMP-23297",
+                "sqlilineNumber": "64",
+                "operator": "CG13",
+                "lineRef": "C13-64",
+                "Name": "Le Plan de Meyreuil",
+                "Longitude": "5.49557700",
+                "Latitude": "43.47304500"
+            },
+            {
+                "id": "MAMP-25860",
+                "sqlilineNumber": "64",
+                "operator": "CG13",
+                "lineRef": "C13-64",
+                "Name": "La Croix",
+                "Longitude": "5.49182400",
+                "Latitude": "43.47746700"
+            },
+            {
+                "id": "MAMP-25892",
+                "sqlilineNumber": "64",
+                "operator": "CG13",
+                "lineRef": "C13-64",
+                "Name": "Pôle d'Echanges de Gardanne",
+                "Longitude": "5.46421700",
+                "Latitude": "43.45546300"
+            },
+            {
+                "id": "MAMP-25462",
+                "sqlilineNumber": "64",
+                "operator": "CG13",
+                "lineRef": "C13-64",
+                "Name": "Plan de Campagne",
+                "Longitude": "5.36716300",
+                "Latitude": "43.42104300"
+            },
+            {
+                "id": "MAMP-26047",
+                "sqlilineNumber": "64",
+                "operator": "CG13",
+                "lineRef": "C13-64",
+                "Name": "Gare St Charles",
+                "Longitude": "5.37972300",
+                "Latitude": "43.30419300"
+            }
+        ],
+        "C13-64:1": [
+            {
+                "id": "MAMP-26047",
+                "sqlilineNumber": "64",
+                "operator": "CG13",
+                "lineRef": "C13-64",
+                "Name": "Gare St Charles",
+                "Longitude": "5.37972300",
+                "Latitude": "43.30419300"
+            },
+            {
+                "id": "MAMP-21669",
+                "sqlilineNumber": "64",
+                "operator": "CG13",
+                "lineRef": "C13-64",
+                "Name": "Plan de Campagne",
+                "Longitude": "5.36760600",
+                "Latitude": "43.42148300"
+            },
+            {
+                "id": "MAMP-25892",
+                "sqlilineNumber": "64",
+                "operator": "CG13",
+                "lineRef": "C13-64",
+                "Name": "Pôle d'Echanges de Gardanne",
+                "Longitude": "5.46421700",
+                "Latitude": "43.45546300"
+            },
+            {
+                "id": "MAMP-24558",
+                "sqlilineNumber": "64",
+                "operator": "CG13",
+                "lineRef": "C13-64",
+                "Name": "La Croix",
+                "Longitude": "5.49176500",
+                "Latitude": "43.47727600"
+            },
+            {
+                "id": "MAMP-23018",
+                "sqlilineNumber": "64",
+                "operator": "CG13",
+                "lineRef": "C13-64",
+                "Name": "Le Plan de Meyreuil",
+                "Longitude": "5.49572900",
+                "Latitude": "43.47294600"
+            },
+            {
+                "id": "MAMP-22087",
+                "sqlilineNumber": "64",
+                "operator": "CG13",
+                "lineRef": "C13-64",
+                "Name": "La Barque",
+                "Longitude": "5.53858100",
+                "Latitude": "43.47687500"
+            },
+            {
+                "id": "MAMP-25084",
+                "sqlilineNumber": "64",
+                "operator": "CG13",
+                "lineRef": "C13-64",
+                "Name": "La Plaine",
+                "Longitude": "5.59846500",
+                "Latitude": "43.47055800"
+            },
+            {
+                "id": "MAMP-25985",
+                "sqlilineNumber": "64",
+                "operator": "CG13",
+                "lineRef": "C13-64",
+                "Name": "La Marnière",
+                "Longitude": "5.60723800",
+                "Latitude": "43.47137100"
+            },
+            {
+                "id": "MAMP-20105",
+                "sqlilineNumber": "64",
+                "operator": "CG13",
+                "lineRef": "C13-64",
+                "Name": "Victoire",
+                "Longitude": "5.60939300",
+                "Latitude": "43.47329300"
+            },
+            {
+                "id": "MAMP-21398",
+                "sqlilineNumber": "64",
+                "operator": "CG13",
+                "lineRef": "C13-64",
+                "Name": "Villevieille",
+                "Longitude": "5.61526600",
+                "Latitude": "43.47144700"
+            },
+            {
+                "id": "MAMP-25862",
+                "sqlilineNumber": "64",
+                "operator": "CG13",
+                "lineRef": "C13-64",
+                "Name": "La Corneirelle",
+                "Longitude": "5.61185200",
+                "Latitude": "43.46316500"
+            },
+            {
+                "id": "MAMP-20104",
+                "sqlilineNumber": "64",
+                "operator": "CG13",
+                "lineRef": "C13-64",
+                "Name": "Les Ecoles",
+                "Longitude": "5.62411300",
+                "Latitude": "43.48185000"
+            },
+            {
+                "id": "MAMP-20101",
+                "sqlilineNumber": "64",
+                "operator": "CG13",
+                "lineRef": "C13-64",
+                "Name": "Le Vieux Moulin",
+                "Longitude": "5.62965300",
+                "Latitude": "43.45762300"
+            },
+            {
+                "id": "MAMP-25079",
+                "sqlilineNumber": "64",
+                "operator": "CG13",
+                "lineRef": "C13-64",
+                "Name": "Le Lavoir",
+                "Longitude": "5.63782900",
+                "Latitude": "43.45013000"
+            },
+            {
+                "id": "MAMP-23735",
+                "sqlilineNumber": "64",
+                "operator": "CG13",
+                "lineRef": "C13-64",
+                "Name": "Le Village",
+                "Longitude": "5.64011500",
+                "Latitude": "43.44667100"
+            },
+            {
+                "id": "MAMP-25861",
+                "sqlilineNumber": "64",
+                "operator": "CG13",
+                "lineRef": "C13-64",
+                "Name": "La Leque",
+                "Longitude": "5.64594500",
+                "Latitude": "43.44632000"
+            },
+            {
+                "id": "MAMP-28454",
+                "sqlilineNumber": "64",
+                "operator": "CG13",
+                "lineRef": "C13-64",
+                "Name": "Pôle d'Echanges Quai 6",
+                "Longitude": "5.67851700",
+                "Latitude": "43.45010800"
+            }
+        ]
+    }
+}

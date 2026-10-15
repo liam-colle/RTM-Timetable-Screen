@@ -1,0 +1,212 @@
+{
+    "id": "C13-2072",
+    "name": "2072",
+    "directionIds": {
+        "Aix-en-Provence": "C13-2072:0",
+        "La Ciotat": "C13-2072:1"
+    },
+    "stationIds": {
+        "C13-2072:0": [
+            {
+                "id": "MAMP-39363",
+                "sqlilineNumber": "2072",
+                "operator": "CG13",
+                "lineRef": "C13-2072",
+                "Name": "Deruy Quai 3",
+                "Longitude": "5.60411300",
+                "Latitude": "43.19090900"
+            },
+            {
+                "id": "MAMP-21218",
+                "sqlilineNumber": "2072",
+                "operator": "CG13",
+                "lineRef": "C13-2072",
+                "Name": "Pôle d'Echanges",
+                "Longitude": "5.56551100",
+                "Latitude": "43.29538700"
+            },
+            {
+                "id": "MAMP-23924",
+                "sqlilineNumber": "2072",
+                "operator": "CG13",
+                "lineRef": "C13-2072",
+                "Name": "Le Pin Vert",
+                "Longitude": "5.57059800",
+                "Latitude": "43.30134300"
+            },
+            {
+                "id": "MAMP-20176",
+                "sqlilineNumber": "2072",
+                "operator": "CG13",
+                "lineRef": "C13-2072",
+                "Name": "Souque Nègre",
+                "Longitude": "5.59906500",
+                "Latitude": "43.38861100"
+            },
+            {
+                "id": "MAMP-23808",
+                "sqlilineNumber": "2072",
+                "operator": "CG13",
+                "lineRef": "C13-2072",
+                "Name": "Beausoleil",
+                "Longitude": "5.46282700",
+                "Latitude": "43.51427400"
+            },
+            {
+                "id": "MAMP-23809",
+                "sqlilineNumber": "2072",
+                "operator": "CG13",
+                "lineRef": "C13-2072",
+                "Name": "Bel Ormeau",
+                "Longitude": "5.45781300",
+                "Latitude": "43.51370500"
+            },
+            {
+                "id": "MAMP-20020",
+                "sqlilineNumber": "2072",
+                "operator": "CG13",
+                "lineRef": "C13-2072",
+                "Name": "Coton Rouge",
+                "Longitude": "5.45193400",
+                "Latitude": "43.51340400"
+            },
+            {
+                "id": "MAMP-23751",
+                "sqlilineNumber": "2072",
+                "operator": "CG13",
+                "lineRef": "C13-2072",
+                "Name": "Schuman",
+                "Longitude": "5.44595500",
+                "Latitude": "43.51526500"
+            },
+            {
+                "id": "MAMP-28102",
+                "sqlilineNumber": "2072",
+                "operator": "CG13",
+                "lineRef": "C13-2072",
+                "Name": "Facultés",
+                "Longitude": "5.44682100",
+                "Latitude": "43.51910400"
+            },
+            {
+                "id": "MAMP-21672",
+                "sqlilineNumber": "2072",
+                "operator": "CG13",
+                "lineRef": "C13-2072",
+                "Name": "Sous Préfecture",
+                "Longitude": "5.44277900",
+                "Latitude": "43.51974700"
+            },
+            {
+                "id": "MAMP-29149",
+                "sqlilineNumber": "2072",
+                "operator": "CG13",
+                "lineRef": "C13-2072",
+                "Name": "Gare Routière",
+                "Longitude": "5.44112900",
+                "Latitude": "43.52334000"
+            }
+        ],
+        "C13-2072:1": [
+            {
+                "id": "MAMP-29149",
+                "sqlilineNumber": "2072",
+                "operator": "CG13",
+                "lineRef": "C13-2072",
+                "Name": "Gare Routière",
+                "Longitude": "5.44112900",
+                "Latitude": "43.52334000"
+            },
+            {
+                "id": "MAMP-22133",
+                "sqlilineNumber": "2072",
+                "operator": "CG13",
+                "lineRef": "C13-2072",
+                "Name": "Sous Préfecture",
+                "Longitude": "5.44267800",
+                "Latitude": "43.51976200"
+            },
+            {
+                "id": "MAMP-26384",
+                "sqlilineNumber": "2072",
+                "operator": "CG13",
+                "lineRef": "C13-2072",
+                "Name": "Churchill",
+                "Longitude": "5.44546400",
+                "Latitude": "43.51894900"
+            },
+            {
+                "id": "MAMP-28100",
+                "sqlilineNumber": "2072",
+                "operator": "CG13",
+                "lineRef": "C13-2072",
+                "Name": "Schuman",
+                "Longitude": "5.44577200",
+                "Latitude": "43.51524300"
+            },
+            {
+                "id": "MAMP-20538",
+                "sqlilineNumber": "2072",
+                "operator": "CG13",
+                "lineRef": "C13-2072",
+                "Name": "Coton Rouge",
+                "Longitude": "5.45316100",
+                "Latitude": "43.51327800"
+            },
+            {
+                "id": "MAMP-24136",
+                "sqlilineNumber": "2072",
+                "operator": "CG13",
+                "lineRef": "C13-2072",
+                "Name": "Bel Ormeau",
+                "Longitude": "5.45894200",
+                "Latitude": "43.51374700"
+            },
+            {
+                "id": "MAMP-20863",
+                "sqlilineNumber": "2072",
+                "operator": "CG13",
+                "lineRef": "C13-2072",
+                "Name": "Beausoleil",
+                "Longitude": "5.46419900",
+                "Latitude": "43.51436200"
+            },
+            {
+                "id": "MAMP-20176",
+                "sqlilineNumber": "2072",
+                "operator": "CG13",
+                "lineRef": "C13-2072",
+                "Name": "Souque Nègre",
+                "Longitude": "5.59906500",
+                "Latitude": "43.38861100"
+            },
+            {
+                "id": "MAMP-22605",
+                "sqlilineNumber": "2072",
+                "operator": "CG13",
+                "lineRef": "C13-2072",
+                "Name": "Le Pin Vert",
+                "Longitude": "5.57055200",
+                "Latitude": "43.30139900"
+            },
+            {
+                "id": "MAMP-21218",
+                "sqlilineNumber": "2072",
+                "operator": "CG13",
+                "lineRef": "C13-2072",
+                "Name": "Pôle d'Echanges",
+                "Longitude": "5.56551100",
+                "Latitude": "43.29538700"
+            },
+            {
+                "id": "MAMP-39363",
+                "sqlilineNumber": "2072",
+                "operator": "CG13",
+                "lineRef": "C13-2072",
+                "Name": "Deruy Quai 3",
+                "Longitude": "5.60411300",
+                "Latitude": "43.19090900"
+            }
+        ]
+    }
+}

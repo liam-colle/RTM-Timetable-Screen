@@ -1,0 +1,500 @@
+{
+    "id": "C13-C425",
+    "name": "C425",
+    "directionIds": {
+        "Sausset-les-Pins": "C13-C425:0",
+        "Martigues": "C13-C425:1"
+    },
+    "stationIds": {
+        "C13-C425:0": [
+            {
+                "id": "MAMP-20581",
+                "sqlilineNumber": "C425",
+                "operator": "CG13",
+                "lineRef": "C13-C425",
+                "Name": "Carro Le Port",
+                "Longitude": "5.03931900",
+                "Latitude": "43.33110000"
+            },
+            {
+                "id": "MAMP-21544",
+                "sqlilineNumber": "C425",
+                "operator": "CG13",
+                "lineRef": "C13-C425",
+                "Name": "La Plage de Carro",
+                "Longitude": "5.04381000",
+                "Latitude": "43.33249300"
+            },
+            {
+                "id": "MAMP-24166",
+                "sqlilineNumber": "C425",
+                "operator": "CG13",
+                "lineRef": "C13-C425",
+                "Name": "Le Baou Tailla",
+                "Longitude": "5.04703800",
+                "Latitude": "43.33281000"
+            },
+            {
+                "id": "MAMP-26207",
+                "sqlilineNumber": "C425",
+                "operator": "CG13",
+                "lineRef": "C13-C425",
+                "Name": "Le Verdon",
+                "Longitude": "5.04910300",
+                "Latitude": "43.33530200"
+            },
+            {
+                "id": "MAMP-25869",
+                "sqlilineNumber": "C425",
+                "operator": "CG13",
+                "lineRef": "C13-C425",
+                "Name": "Les Vauclusiens",
+                "Longitude": "5.05059000",
+                "Latitude": "43.33610300"
+            },
+            {
+                "id": "MAMP-23015",
+                "sqlilineNumber": "C425",
+                "operator": "CG13",
+                "lineRef": "C13-C425",
+                "Name": "Les Ventrons",
+                "Longitude": "5.06347600",
+                "Latitude": "43.37926300"
+            },
+            {
+                "id": "MAMP-25453",
+                "sqlilineNumber": "C425",
+                "operator": "CG13",
+                "lineRef": "C13-C425",
+                "Name": "La Croix d'Estrine",
+                "Longitude": "5.06790400",
+                "Latitude": "43.37339900"
+            },
+            {
+                "id": "MAMP-25569",
+                "sqlilineNumber": "C425",
+                "operator": "CG13",
+                "lineRef": "C13-C425",
+                "Name": "St Julien Lavaux Est",
+                "Longitude": "5.07320500",
+                "Latitude": "43.37243600"
+            },
+            {
+                "id": "MAMP-22837",
+                "sqlilineNumber": "C425",
+                "operator": "CG13",
+                "lineRef": "C13-C425",
+                "Name": "Les Cormes Les Torrels",
+                "Longitude": "5.07888700",
+                "Latitude": "43.37168100"
+            },
+            {
+                "id": "MAMP-25404",
+                "sqlilineNumber": "C425",
+                "operator": "CG13",
+                "lineRef": "C13-C425",
+                "Name": "Saint Julien Cormes",
+                "Longitude": "5.08088900",
+                "Latitude": "43.37016400"
+            },
+            {
+                "id": "MAMP-24591",
+                "sqlilineNumber": "C425",
+                "operator": "CG13",
+                "lineRef": "C13-C425",
+                "Name": "St Julien Coopérative",
+                "Longitude": "5.08713300",
+                "Latitude": "43.36735300"
+            },
+            {
+                "id": "MAMP-21691",
+                "sqlilineNumber": "C425",
+                "operator": "CG13",
+                "lineRef": "C13-C425",
+                "Name": "Clos St Michel",
+                "Longitude": "5.09234400",
+                "Latitude": "43.36389000"
+            },
+            {
+                "id": "MAMP-22107",
+                "sqlilineNumber": "C425",
+                "operator": "CG13",
+                "lineRef": "C13-C425",
+                "Name": "Maison Pour Tous",
+                "Longitude": "5.09605400",
+                "Latitude": "43.36284400"
+            },
+            {
+                "id": "MAMP-20048",
+                "sqlilineNumber": "C425",
+                "operator": "CG13",
+                "lineRef": "C13-C425",
+                "Name": "Les Bastides",
+                "Longitude": "5.06509300",
+                "Latitude": "43.33867300"
+            },
+            {
+                "id": "MAMP-24522",
+                "sqlilineNumber": "C425",
+                "operator": "CG13",
+                "lineRef": "C13-C425",
+                "Name": "Ch de Ste Croix",
+                "Longitude": "5.06695300",
+                "Latitude": "43.33519600"
+            },
+            {
+                "id": "MAMP-22017",
+                "sqlilineNumber": "C425",
+                "operator": "CG13",
+                "lineRef": "C13-C425",
+                "Name": "La Saulce",
+                "Longitude": "5.06991700",
+                "Latitude": "43.33408000"
+            },
+            {
+                "id": "MAMP-21253",
+                "sqlilineNumber": "C425",
+                "operator": "CG13",
+                "lineRef": "C13-C425",
+                "Name": "Thalasso",
+                "Longitude": "5.07284500",
+                "Latitude": "43.33428400"
+            },
+            {
+                "id": "MAMP-22472",
+                "sqlilineNumber": "C425",
+                "operator": "CG13",
+                "lineRef": "C13-C425",
+                "Name": "Les Tamaris Le Port",
+                "Longitude": "5.07898800",
+                "Latitude": "43.33043200"
+            },
+            {
+                "id": "MAMP-25022",
+                "sqlilineNumber": "C425",
+                "operator": "CG13",
+                "lineRef": "C13-C425",
+                "Name": "Les Rouges",
+                "Longitude": "5.08299300",
+                "Latitude": "43.33969500"
+            },
+            {
+                "id": "MAMP-20882",
+                "sqlilineNumber": "C425",
+                "operator": "CG13",
+                "lineRef": "C13-C425",
+                "Name": "Les Roussures",
+                "Longitude": "5.07857000",
+                "Latitude": "43.34064200"
+            },
+            {
+                "id": "MAMP-22879",
+                "sqlilineNumber": "C425",
+                "operator": "CG13",
+                "lineRef": "C13-C425",
+                "Name": "Les Chapas",
+                "Longitude": "5.07079900",
+                "Latitude": "43.34053300"
+            },
+            {
+                "id": "MAMP-22524",
+                "sqlilineNumber": "C425",
+                "operator": "CG13",
+                "lineRef": "C13-C425",
+                "Name": "Rosette",
+                "Longitude": "5.06718300",
+                "Latitude": "43.33963600"
+            },
+            {
+                "id": "MAMP-23292",
+                "sqlilineNumber": "C425",
+                "operator": "CG13",
+                "lineRef": "C13-C425",
+                "Name": "Collet Redon",
+                "Longitude": "5.05970400",
+                "Latitude": "43.34035100"
+            },
+            {
+                "id": "MAMP-23538",
+                "sqlilineNumber": "C425",
+                "operator": "CG13",
+                "lineRef": "C13-C425",
+                "Name": "La Couronne",
+                "Longitude": "5.05353500",
+                "Latitude": "43.33904500"
+            },
+            {
+                "id": "MAMP-25969",
+                "sqlilineNumber": "C425",
+                "operator": "CG13",
+                "lineRef": "C13-C425",
+                "Name": "L'Eurre",
+                "Longitude": "5.05845400",
+                "Latitude": "43.34355300"
+            },
+            {
+                "id": "MAMP-22597",
+                "sqlilineNumber": "C425",
+                "operator": "CG13",
+                "lineRef": "C13-C425",
+                "Name": "Matraja / Les Terrasses",
+                "Longitude": "5.10143000",
+                "Latitude": "43.33946100"
+            }
+        ],
+        "C13-C425:1": [
+            {
+                "id": "MAMP-22597",
+                "sqlilineNumber": "C425",
+                "operator": "CG13",
+                "lineRef": "C13-C425",
+                "Name": "Matraja / Les Terrasses",
+                "Longitude": "5.10143000",
+                "Latitude": "43.33946100"
+            },
+            {
+                "id": "MAMP-23163",
+                "sqlilineNumber": "C425",
+                "operator": "CG13",
+                "lineRef": "C13-C425",
+                "Name": "Le Verdon",
+                "Longitude": "5.04908700",
+                "Latitude": "43.33581400"
+            },
+            {
+                "id": "MAMP-23854",
+                "sqlilineNumber": "C425",
+                "operator": "CG13",
+                "lineRef": "C13-C425",
+                "Name": "Le Baou Tailla",
+                "Longitude": "5.04696500",
+                "Latitude": "43.33285900"
+            },
+            {
+                "id": "MAMP-26208",
+                "sqlilineNumber": "C425",
+                "operator": "CG13",
+                "lineRef": "C13-C425",
+                "Name": "La Plage de Carro",
+                "Longitude": "5.04385300",
+                "Latitude": "43.33257600"
+            },
+            {
+                "id": "MAMP-20581",
+                "sqlilineNumber": "C425",
+                "operator": "CG13",
+                "lineRef": "C13-C425",
+                "Name": "Carro Le Port",
+                "Longitude": "5.03931900",
+                "Latitude": "43.33110000"
+            },
+            {
+                "id": "MAMP-23291",
+                "sqlilineNumber": "C425",
+                "operator": "CG13",
+                "lineRef": "C13-C425",
+                "Name": "St Julien Cimetière",
+                "Longitude": "5.09850200",
+                "Latitude": "43.36248500"
+            },
+            {
+                "id": "MAMP-23855",
+                "sqlilineNumber": "C425",
+                "operator": "CG13",
+                "lineRef": "C13-C425",
+                "Name": "Clos St Michel",
+                "Longitude": "5.09258000",
+                "Latitude": "43.36395000"
+            },
+            {
+                "id": "MAMP-20767",
+                "sqlilineNumber": "C425",
+                "operator": "CG13",
+                "lineRef": "C13-C425",
+                "Name": "St Julien Coopérative",
+                "Longitude": "5.08770200",
+                "Latitude": "43.36721400"
+            },
+            {
+                "id": "MAMP-24843",
+                "sqlilineNumber": "C425",
+                "operator": "CG13",
+                "lineRef": "C13-C425",
+                "Name": "Saint Julien Cormes",
+                "Longitude": "5.08077800",
+                "Latitude": "43.37042800"
+            },
+            {
+                "id": "MAMP-22837",
+                "sqlilineNumber": "C425",
+                "operator": "CG13",
+                "lineRef": "C13-C425",
+                "Name": "Les Cormes Les Torrels",
+                "Longitude": "5.07888700",
+                "Latitude": "43.37168100"
+            },
+            {
+                "id": "MAMP-25906",
+                "sqlilineNumber": "C425",
+                "operator": "CG13",
+                "lineRef": "C13-C425",
+                "Name": "St Julien Lavaux Est",
+                "Longitude": "5.07567000",
+                "Latitude": "43.37226700"
+            },
+            {
+                "id": "MAMP-20848",
+                "sqlilineNumber": "C425",
+                "operator": "CG13",
+                "lineRef": "C13-C425",
+                "Name": "La Croix d'Estrine",
+                "Longitude": "5.06794400",
+                "Latitude": "43.37356000"
+            },
+            {
+                "id": "MAMP-25023",
+                "sqlilineNumber": "C425",
+                "operator": "CG13",
+                "lineRef": "C13-C425",
+                "Name": "Les Ventrons",
+                "Longitude": "5.06483600",
+                "Latitude": "43.37680300"
+            },
+            {
+                "id": "MAMP-25025",
+                "sqlilineNumber": "C425",
+                "operator": "CG13",
+                "lineRef": "C13-C425",
+                "Name": "Tabouret",
+                "Longitude": "5.05983000",
+                "Latitude": "43.36606700"
+            },
+            {
+                "id": "MAMP-25869",
+                "sqlilineNumber": "C425",
+                "operator": "CG13",
+                "lineRef": "C13-C425",
+                "Name": "Les Vauclusiens",
+                "Longitude": "5.05059000",
+                "Latitude": "43.33610300"
+            },
+            {
+                "id": "MAMP-23538",
+                "sqlilineNumber": "C425",
+                "operator": "CG13",
+                "lineRef": "C13-C425",
+                "Name": "La Couronne",
+                "Longitude": "5.05353500",
+                "Latitude": "43.33904500"
+            },
+            {
+                "id": "MAMP-20881",
+                "sqlilineNumber": "C425",
+                "operator": "CG13",
+                "lineRef": "C13-C425",
+                "Name": "Chemin du Stade",
+                "Longitude": "5.06508900",
+                "Latitude": "43.33902200"
+            },
+            {
+                "id": "MAMP-22017",
+                "sqlilineNumber": "C425",
+                "operator": "CG13",
+                "lineRef": "C13-C425",
+                "Name": "La Saulce",
+                "Longitude": "5.06991700",
+                "Latitude": "43.33408000"
+            },
+            {
+                "id": "MAMP-20046",
+                "sqlilineNumber": "C425",
+                "operator": "CG13",
+                "lineRef": "C13-C425",
+                "Name": "Corsica",
+                "Longitude": "5.07447800",
+                "Latitude": "43.33243700"
+            },
+            {
+                "id": "MAMP-22472",
+                "sqlilineNumber": "C425",
+                "operator": "CG13",
+                "lineRef": "C13-C425",
+                "Name": "Les Tamaris Le Port",
+                "Longitude": "5.07898800",
+                "Latitude": "43.33043200"
+            },
+            {
+                "id": "MAMP-25022",
+                "sqlilineNumber": "C425",
+                "operator": "CG13",
+                "lineRef": "C13-C425",
+                "Name": "Les Rouges",
+                "Longitude": "5.08299300",
+                "Latitude": "43.33969500"
+            },
+            {
+                "id": "MAMP-20882",
+                "sqlilineNumber": "C425",
+                "operator": "CG13",
+                "lineRef": "C13-C425",
+                "Name": "Les Roussures",
+                "Longitude": "5.07857000",
+                "Latitude": "43.34064200"
+            },
+            {
+                "id": "MAMP-22879",
+                "sqlilineNumber": "C425",
+                "operator": "CG13",
+                "lineRef": "C13-C425",
+                "Name": "Les Chapas",
+                "Longitude": "5.07079900",
+                "Latitude": "43.34053300"
+            },
+            {
+                "id": "MAMP-22524",
+                "sqlilineNumber": "C425",
+                "operator": "CG13",
+                "lineRef": "C13-C425",
+                "Name": "Rosette",
+                "Longitude": "5.06718300",
+                "Latitude": "43.33963600"
+            },
+            {
+                "id": "MAMP-20048",
+                "sqlilineNumber": "C425",
+                "operator": "CG13",
+                "lineRef": "C13-C425",
+                "Name": "Les Bastides",
+                "Longitude": "5.06509300",
+                "Latitude": "43.33867300"
+            },
+            {
+                "id": "MAMP-24684",
+                "sqlilineNumber": "C425",
+                "operator": "CG13",
+                "lineRef": "C13-C425",
+                "Name": "Les Bastides",
+                "Longitude": "5.06720700",
+                "Latitude": "43.33953500"
+            },
+            {
+                "id": "MAMP-23292",
+                "sqlilineNumber": "C425",
+                "operator": "CG13",
+                "lineRef": "C13-C425",
+                "Name": "Collet Redon",
+                "Longitude": "5.05970400",
+                "Latitude": "43.34035100"
+            },
+            {
+                "id": "MAMP-23833",
+                "sqlilineNumber": "C425",
+                "operator": "CG13",
+                "lineRef": "C13-C425",
+                "Name": "L'Eurre",
+                "Longitude": "5.05835900",
+                "Latitude": "43.34366800"
+            }
+        ]
+    }
+}

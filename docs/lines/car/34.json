@@ -1,0 +1,203 @@
+{
+    "id": "C13-34",
+    "name": "34",
+    "directionIds": {
+        "Marseille": "C13-34:0",
+        "Martigues": "C13-34:1"
+    },
+    "stationIds": {
+        "C13-34:0": [
+            {
+                "id": "MAMP-33959",
+                "sqlilineNumber": "34",
+                "operator": "CG13",
+                "lineRef": "C13-34",
+                "Name": "Pôle d'Echange",
+                "Longitude": "5.04575900",
+                "Latitude": "43.40626600"
+            },
+            {
+                "id": "MAMP-25024",
+                "sqlilineNumber": "34",
+                "operator": "CG13",
+                "lineRef": "C13-34",
+                "Name": "Girondins",
+                "Longitude": "5.05453200",
+                "Latitude": "43.40748800"
+            },
+            {
+                "id": "MAMP-24108",
+                "sqlilineNumber": "34",
+                "operator": "CG13",
+                "lineRef": "C13-34",
+                "Name": "Eglise de Jonquières",
+                "Longitude": "5.05517500",
+                "Latitude": "43.40398600"
+            },
+            {
+                "id": "MAMP-22636",
+                "sqlilineNumber": "34",
+                "operator": "CG13",
+                "lineRef": "C13-34",
+                "Name": "L Degut",
+                "Longitude": "5.05052200",
+                "Latitude": "43.40317600"
+            },
+            {
+                "id": "MAMP-21385",
+                "sqlilineNumber": "34",
+                "operator": "CG13",
+                "lineRef": "C13-34",
+                "Name": "Font Sarade",
+                "Longitude": "5.04758500",
+                "Latitude": "43.39921000"
+            },
+            {
+                "id": "MAMP-25008",
+                "sqlilineNumber": "34",
+                "operator": "CG13",
+                "lineRef": "C13-34",
+                "Name": "Emile Zola",
+                "Longitude": "5.05950400",
+                "Latitude": "43.39949800"
+            },
+            {
+                "id": "MAMP-20425",
+                "sqlilineNumber": "34",
+                "operator": "CG13",
+                "lineRef": "C13-34",
+                "Name": "Sainte Anne",
+                "Longitude": "5.06299100",
+                "Latitude": "43.39931300"
+            },
+            {
+                "id": "MAMP-25568",
+                "sqlilineNumber": "34",
+                "operator": "CG13",
+                "lineRef": "C13-34",
+                "Name": "Khariessa",
+                "Longitude": "5.07253800",
+                "Latitude": "43.39844900"
+            },
+            {
+                "id": "MAMP-33956",
+                "sqlilineNumber": "34",
+                "operator": "CG13",
+                "lineRef": "C13-34",
+                "Name": "Euroméditerranée Arenc",
+                "Longitude": "5.36830500",
+                "Latitude": "43.31320600"
+            },
+            {
+                "id": "MAMP-33954",
+                "sqlilineNumber": "34",
+                "operator": "CG13",
+                "lineRef": "C13-34",
+                "Name": "Paris Forbin",
+                "Longitude": "5.37253800",
+                "Latitude": "43.30565300"
+            },
+            {
+                "id": "MAMP-26047",
+                "sqlilineNumber": "34",
+                "operator": "CG13",
+                "lineRef": "C13-34",
+                "Name": "Gare St Charles",
+                "Longitude": "5.37972300",
+                "Latitude": "43.30419300"
+            }
+        ],
+        "C13-34:1": [
+            {
+                "id": "MAMP-26047",
+                "sqlilineNumber": "34",
+                "operator": "CG13",
+                "lineRef": "C13-34",
+                "Name": "Gare St Charles",
+                "Longitude": "5.37972300",
+                "Latitude": "43.30419300"
+            },
+            {
+                "id": "MAMP-33955",
+                "sqlilineNumber": "34",
+                "operator": "CG13",
+                "lineRef": "C13-34",
+                "Name": "Place de Strasbourg",
+                "Longitude": "5.37347600",
+                "Latitude": "43.30612600"
+            },
+            {
+                "id": "MAMP-33956",
+                "sqlilineNumber": "34",
+                "operator": "CG13",
+                "lineRef": "C13-34",
+                "Name": "Euroméditerranée Arenc",
+                "Longitude": "5.36830500",
+                "Latitude": "43.31320600"
+            },
+            {
+                "id": "MAMP-25568",
+                "sqlilineNumber": "34",
+                "operator": "CG13",
+                "lineRef": "C13-34",
+                "Name": "Khariessa",
+                "Longitude": "5.07253800",
+                "Latitude": "43.39844900"
+            },
+            {
+                "id": "MAMP-24914",
+                "sqlilineNumber": "34",
+                "operator": "CG13",
+                "lineRef": "C13-34",
+                "Name": "Sainte Anne",
+                "Longitude": "5.06349900",
+                "Latitude": "43.39940100"
+            },
+            {
+                "id": "MAMP-25868",
+                "sqlilineNumber": "34",
+                "operator": "CG13",
+                "lineRef": "C13-34",
+                "Name": "Général Leclerc",
+                "Longitude": "5.05752100",
+                "Latitude": "43.40292000"
+            },
+            {
+                "id": "MAMP-26618",
+                "sqlilineNumber": "34",
+                "operator": "CG13",
+                "lineRef": "C13-34",
+                "Name": "L'Ile",
+                "Longitude": "5.05609500",
+                "Latitude": "43.40603900"
+            },
+            {
+                "id": "MAMP-24168",
+                "sqlilineNumber": "34",
+                "operator": "CG13",
+                "lineRef": "C13-34",
+                "Name": "Paradis",
+                "Longitude": "5.05309200",
+                "Latitude": "43.40805500"
+            },
+            {
+                "id": "MAMP-21754",
+                "sqlilineNumber": "34",
+                "operator": "CG13",
+                "lineRef": "C13-34",
+                "Name": "Coopérative",
+                "Longitude": "5.04904000",
+                "Latitude": "43.40916700"
+            },
+            {
+                "id": "MAMP-33959",
+                "sqlilineNumber": "34",
+                "operator": "CG13",
+                "lineRef": "C13-34",
+                "Name": "Pôle d'Echange",
+                "Longitude": "5.04575900",
+                "Latitude": "43.40626600"
+            }
+        ]
+    }
+}

@@ -1,0 +1,419 @@
+{
+    "id": "C13-69",
+    "name": "69",
+    "directionIds": {
+        "Aubagne": "C13-69:0",
+        "La Ciotat": "C13-69:1"
+    },
+    "stationIds": {
+        "C13-69:0": [
+            {
+                "id": "MAMP-24201",
+                "sqlilineNumber": "69",
+                "operator": "CG13",
+                "lineRef": "C13-69",
+                "Name": "Office de Tourisme",
+                "Longitude": "5.61040900",
+                "Latitude": "43.17376100"
+            },
+            {
+                "id": "MAMP-21327",
+                "sqlilineNumber": "69",
+                "operator": "CG13",
+                "lineRef": "C13-69",
+                "Name": "L'Eden",
+                "Longitude": "5.61082200",
+                "Latitude": "43.17662200"
+            },
+            {
+                "id": "MAMP-23004",
+                "sqlilineNumber": "69",
+                "operator": "CG13",
+                "lineRef": "C13-69",
+                "Name": "Port de Plaisance",
+                "Longitude": "5.61143900",
+                "Latitude": "43.17916100"
+            },
+            {
+                "id": "MAMP-23009",
+                "sqlilineNumber": "69",
+                "operator": "CG13",
+                "lineRef": "C13-69",
+                "Name": "Villa des Tours",
+                "Longitude": "5.61473400",
+                "Latitude": "43.18236900"
+            },
+            {
+                "id": "MAMP-23325",
+                "sqlilineNumber": "69",
+                "operator": "CG13",
+                "lineRef": "C13-69",
+                "Name": "Route de Marseille",
+                "Longitude": "5.61190700",
+                "Latitude": "43.18324700"
+            },
+            {
+                "id": "MAMP-21329",
+                "sqlilineNumber": "69",
+                "operator": "CG13",
+                "lineRef": "C13-69",
+                "Name": "Ernest Subila",
+                "Longitude": "5.60925700",
+                "Latitude": "43.18448000"
+            },
+            {
+                "id": "MAMP-20564",
+                "sqlilineNumber": "69",
+                "operator": "CG13",
+                "lineRef": "C13-69",
+                "Name": "Deruy",
+                "Longitude": "5.60442400",
+                "Latitude": "43.19061000"
+            },
+            {
+                "id": "MAMP-20979",
+                "sqlilineNumber": "69",
+                "operator": "CG13",
+                "lineRef": "C13-69",
+                "Name": "Rond Point des Voiles",
+                "Longitude": "5.60159500",
+                "Latitude": "43.20651700"
+            },
+            {
+                "id": "MAMP-21935",
+                "sqlilineNumber": "69",
+                "operator": "CG13",
+                "lineRef": "C13-69",
+                "Name": "Faubourg d'Entrepr",
+                "Longitude": "5.59798900",
+                "Latitude": "43.20193600"
+            },
+            {
+                "id": "MAMP-23413",
+                "sqlilineNumber": "69",
+                "operator": "CG13",
+                "lineRef": "C13-69",
+                "Name": "Plaine Brunette",
+                "Longitude": "5.59649200",
+                "Latitude": "43.20056800"
+            },
+            {
+                "id": "MAMP-23022",
+                "sqlilineNumber": "69",
+                "operator": "CG13",
+                "lineRef": "C13-69",
+                "Name": "Hôtel de Ville",
+                "Longitude": "5.59153900",
+                "Latitude": "43.24744700"
+            },
+            {
+                "id": "MAMP-26594",
+                "sqlilineNumber": "69",
+                "operator": "CG13",
+                "lineRef": "C13-69",
+                "Name": "La Crèche",
+                "Longitude": "5.58703200",
+                "Latitude": "43.24879400"
+            },
+            {
+                "id": "MAMP-23365",
+                "sqlilineNumber": "69",
+                "operator": "CG13",
+                "lineRef": "C13-69",
+                "Name": "Les Caniers",
+                "Longitude": "5.58414500",
+                "Latitude": "43.24995700"
+            },
+            {
+                "id": "MAMP-25593",
+                "sqlilineNumber": "69",
+                "operator": "CG13",
+                "lineRef": "C13-69",
+                "Name": "Pont des Barles",
+                "Longitude": "5.58626100",
+                "Latitude": "43.26584500"
+            },
+            {
+                "id": "MAMP-21787",
+                "sqlilineNumber": "69",
+                "operator": "CG13",
+                "lineRef": "C13-69",
+                "Name": "La Bourbonne",
+                "Longitude": "5.59454000",
+                "Latitude": "43.28354100"
+            },
+            {
+                "id": "MAMP-25925",
+                "sqlilineNumber": "69",
+                "operator": "CG13",
+                "lineRef": "C13-69",
+                "Name": "Douard",
+                "Longitude": "5.59584800",
+                "Latitude": "43.28644200"
+            },
+            {
+                "id": "MAMP-26477",
+                "sqlilineNumber": "69",
+                "operator": "CG13",
+                "lineRef": "C13-69",
+                "Name": "Agora",
+                "Longitude": "5.60166000",
+                "Latitude": "43.28684700"
+            },
+            {
+                "id": "MAMP-25649",
+                "sqlilineNumber": "69",
+                "operator": "CG13",
+                "lineRef": "C13-69",
+                "Name": "Vallat",
+                "Longitude": "5.59746500",
+                "Latitude": "43.28974700"
+            },
+            {
+                "id": "MAMP-20715",
+                "sqlilineNumber": "69",
+                "operator": "CG13",
+                "lineRef": "C13-69",
+                "Name": "La Martelle",
+                "Longitude": "5.59059400",
+                "Latitude": "43.29170100"
+            },
+            {
+                "id": "MAMP-30023",
+                "sqlilineNumber": "69",
+                "operator": "CG13",
+                "lineRef": "C13-69",
+                "Name": "Camp de Sarlier",
+                "Longitude": "5.58669500",
+                "Latitude": "43.29751100"
+            },
+            {
+                "id": "MAMP-23925",
+                "sqlilineNumber": "69",
+                "operator": "CG13",
+                "lineRef": "C13-69",
+                "Name": "Pont de Lamagnon",
+                "Longitude": "5.58256900",
+                "Latitude": "43.29638700"
+            },
+            {
+                "id": "MAMP-25645",
+                "sqlilineNumber": "69",
+                "operator": "CG13",
+                "lineRef": "C13-69",
+                "Name": "Les Défensions",
+                "Longitude": "5.57208200",
+                "Latitude": "43.29578700"
+            },
+            {
+                "id": "MAMP-21218",
+                "sqlilineNumber": "69",
+                "operator": "CG13",
+                "lineRef": "C13-69",
+                "Name": "Pôle d'Echanges",
+                "Longitude": "5.56551100",
+                "Latitude": "43.29538700"
+            }
+        ],
+        "C13-69:1": [
+            {
+                "id": "MAMP-21218",
+                "sqlilineNumber": "69",
+                "operator": "CG13",
+                "lineRef": "C13-69",
+                "Name": "Pôle d'Echanges",
+                "Longitude": "5.56551100",
+                "Latitude": "43.29538700"
+            },
+            {
+                "id": "MAMP-20956",
+                "sqlilineNumber": "69",
+                "operator": "CG13",
+                "lineRef": "C13-69",
+                "Name": "Les Défensions",
+                "Longitude": "5.57225100",
+                "Latitude": "43.29562000"
+            },
+            {
+                "id": "MAMP-25108",
+                "sqlilineNumber": "69",
+                "operator": "CG13",
+                "lineRef": "C13-69",
+                "Name": "Pont de Lamagnon",
+                "Longitude": "5.58205300",
+                "Latitude": "43.29619000"
+            },
+            {
+                "id": "MAMP-30022",
+                "sqlilineNumber": "69",
+                "operator": "CG13",
+                "lineRef": "C13-69",
+                "Name": "Camp de Sarlier",
+                "Longitude": "5.58715900",
+                "Latitude": "43.29744300"
+            },
+            {
+                "id": "MAMP-22679",
+                "sqlilineNumber": "69",
+                "operator": "CG13",
+                "lineRef": "C13-69",
+                "Name": "La Martelle",
+                "Longitude": "5.59069900",
+                "Latitude": "43.29161200"
+            },
+            {
+                "id": "MAMP-23388",
+                "sqlilineNumber": "69",
+                "operator": "CG13",
+                "lineRef": "C13-69",
+                "Name": "Vallat",
+                "Longitude": "5.59719500",
+                "Latitude": "43.28976500"
+            },
+            {
+                "id": "MAMP-20177",
+                "sqlilineNumber": "69",
+                "operator": "CG13",
+                "lineRef": "C13-69",
+                "Name": "Agora",
+                "Longitude": "5.60162000",
+                "Latitude": "43.28642900"
+            },
+            {
+                "id": "MAMP-24656",
+                "sqlilineNumber": "69",
+                "operator": "CG13",
+                "lineRef": "C13-69",
+                "Name": "Douard",
+                "Longitude": "5.59586100",
+                "Latitude": "43.28651000"
+            },
+            {
+                "id": "MAMP-25949",
+                "sqlilineNumber": "69",
+                "operator": "CG13",
+                "lineRef": "C13-69",
+                "Name": "Pont des Barles",
+                "Longitude": "5.58615000",
+                "Latitude": "43.26611000"
+            },
+            {
+                "id": "MAMP-30056",
+                "sqlilineNumber": "69",
+                "operator": "CG13",
+                "lineRef": "C13-69",
+                "Name": "Les Caniers",
+                "Longitude": "5.58382600",
+                "Latitude": "43.25015400"
+            },
+            {
+                "id": "MAMP-20506",
+                "sqlilineNumber": "69",
+                "operator": "CG13",
+                "lineRef": "C13-69",
+                "Name": "La Crèche",
+                "Longitude": "5.58667300",
+                "Latitude": "43.24870000"
+            },
+            {
+                "id": "MAMP-21764",
+                "sqlilineNumber": "69",
+                "operator": "CG13",
+                "lineRef": "C13-69",
+                "Name": "Ghirardelli",
+                "Longitude": "5.59168800",
+                "Latitude": "43.24656400"
+            },
+            {
+                "id": "MAMP-26400",
+                "sqlilineNumber": "69",
+                "operator": "CG13",
+                "lineRef": "C13-69",
+                "Name": "Plaine Brunette",
+                "Longitude": "5.59702200",
+                "Latitude": "43.20077600"
+            },
+            {
+                "id": "MAMP-24821",
+                "sqlilineNumber": "69",
+                "operator": "CG13",
+                "lineRef": "C13-69",
+                "Name": "Faubourg d'Entrepr",
+                "Longitude": "5.59824700",
+                "Latitude": "43.20206700"
+            },
+            {
+                "id": "MAMP-20979",
+                "sqlilineNumber": "69",
+                "operator": "CG13",
+                "lineRef": "C13-69",
+                "Name": "Rond Point des Voiles",
+                "Longitude": "5.60159500",
+                "Latitude": "43.20651700"
+            },
+            {
+                "id": "MAMP-22572",
+                "sqlilineNumber": "69",
+                "operator": "CG13",
+                "lineRef": "C13-69",
+                "Name": "Deruy",
+                "Longitude": "5.60403900",
+                "Latitude": "43.19048200"
+            },
+            {
+                "id": "MAMP-25051",
+                "sqlilineNumber": "69",
+                "operator": "CG13",
+                "lineRef": "C13-69",
+                "Name": "Ernest Subila",
+                "Longitude": "5.60844800",
+                "Latitude": "43.18508000"
+            },
+            {
+                "id": "MAMP-26306",
+                "sqlilineNumber": "69",
+                "operator": "CG13",
+                "lineRef": "C13-69",
+                "Name": "Vallat de Roubaud",
+                "Longitude": "5.61250600",
+                "Latitude": "43.18236100"
+            },
+            {
+                "id": "MAMP-25130",
+                "sqlilineNumber": "69",
+                "operator": "CG13",
+                "lineRef": "C13-69",
+                "Name": "Centre de rééducation",
+                "Longitude": "5.61170800",
+                "Latitude": "43.18061000"
+            },
+            {
+                "id": "MAMP-39334",
+                "sqlilineNumber": "69",
+                "operator": "CG13",
+                "lineRef": "C13-69",
+                "Name": "Square Mouton",
+                "Longitude": "5.61074600",
+                "Latitude": "43.17911600"
+            },
+            {
+                "id": "MAMP-20076",
+                "sqlilineNumber": "69",
+                "operator": "CG13",
+                "lineRef": "C13-69",
+                "Name": "L'Eden",
+                "Longitude": "5.61084100",
+                "Latitude": "43.17800900"
+            },
+            {
+                "id": "MAMP-24201",
+                "sqlilineNumber": "69",
+                "operator": "CG13",
+                "lineRef": "C13-69",
+                "Name": "Office de Tourisme",
+                "Longitude": "5.61040900",
+                "Latitude": "43.17376100"
+            }
+        ]
+    }
+}

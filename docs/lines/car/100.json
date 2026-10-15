@@ -1,0 +1,77 @@
+{
+    "id": "C13-100",
+    "name": "100",
+    "directionIds": {
+        "Marseille": "C13-100:0",
+        "Aubagne": "C13-100:1"
+    },
+    "stationIds": {
+        "C13-100:0": [
+            {
+                "id": "MAMP-21218",
+                "sqlilineNumber": "100",
+                "operator": "CG13",
+                "lineRef": "C13-100",
+                "Name": "Pôle d'Echanges",
+                "Longitude": "5.56551100",
+                "Latitude": "43.29538700"
+            },
+            {
+                "id": "MAMP-22304",
+                "sqlilineNumber": "100",
+                "operator": "CG13",
+                "lineRef": "C13-100",
+                "Name": "Les Lignières",
+                "Longitude": "5.56133900",
+                "Latitude": "43.29499300"
+            },
+            {
+                "id": "MAMP-20852",
+                "sqlilineNumber": "100",
+                "operator": "CG13",
+                "lineRef": "C13-100",
+                "Name": "Castellane Delphes",
+                "Longitude": "5.38784900",
+                "Latitude": "43.28434400"
+            }
+        ],
+        "C13-100:1": [
+            {
+                "id": "MAMP-20852",
+                "sqlilineNumber": "100",
+                "operator": "CG13",
+                "lineRef": "C13-100",
+                "Name": "Castellane Delphes",
+                "Longitude": "5.38784900",
+                "Latitude": "43.28434400"
+            },
+            {
+                "id": "MAMP-22992",
+                "sqlilineNumber": "100",
+                "operator": "CG13",
+                "lineRef": "C13-100",
+                "Name": "Parc du 26eCentenaire",
+                "Longitude": "5.39164100",
+                "Latitude": "43.28284800"
+            },
+            {
+                "id": "MAMP-25106",
+                "sqlilineNumber": "100",
+                "operator": "CG13",
+                "lineRef": "C13-100",
+                "Name": "Les Lignières",
+                "Longitude": "5.56192300",
+                "Latitude": "43.29486800"
+            },
+            {
+                "id": "MAMP-21218",
+                "sqlilineNumber": "100",
+                "operator": "CG13",
+                "lineRef": "C13-100",
+                "Name": "Pôle d'Echanges",
+                "Longitude": "5.56551100",
+                "Latitude": "43.29538700"
+            }
+        ]
+    }
+}

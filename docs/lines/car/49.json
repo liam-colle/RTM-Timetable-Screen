@@ -1,0 +1,347 @@
+{
+    "id": "C13-49",
+    "name": "49",
+    "directionIds": {
+        "Marseille": "C13-49:0",
+        "Aix-en-Provence": "C13-49:1"
+    },
+    "stationIds": {
+        "C13-49:0": [
+            {
+                "id": "MAMP-22683",
+                "sqlilineNumber": "49",
+                "operator": "CG13",
+                "lineRef": "C13-49",
+                "Name": "Bouffan",
+                "Longitude": "5.41539600",
+                "Latitude": "43.53474500"
+            },
+            {
+                "id": "MAMP-30031",
+                "sqlilineNumber": "49",
+                "operator": "CG13",
+                "lineRef": "C13-49",
+                "Name": "Lt Cl JeanPierre",
+                "Longitude": "5.41582300",
+                "Latitude": "43.53106100"
+            },
+            {
+                "id": "MAMP-20023",
+                "sqlilineNumber": "49",
+                "operator": "CG13",
+                "lineRef": "C13-49",
+                "Name": "Horloge",
+                "Longitude": "5.42016700",
+                "Latitude": "43.52982300"
+            },
+            {
+                "id": "MAMP-24770",
+                "sqlilineNumber": "49",
+                "operator": "CG13",
+                "lineRef": "C13-49",
+                "Name": "Stade Ouest",
+                "Longitude": "5.42261000",
+                "Latitude": "43.52912000"
+            },
+            {
+                "id": "MAMP-23523",
+                "sqlilineNumber": "49",
+                "operator": "CG13",
+                "lineRef": "C13-49",
+                "Name": "Corsy",
+                "Longitude": "5.42988600",
+                "Latitude": "43.52816400"
+            },
+            {
+                "id": "MAMP-23100",
+                "sqlilineNumber": "49",
+                "operator": "CG13",
+                "lineRef": "C13-49",
+                "Name": "Minimes",
+                "Longitude": "5.43627500",
+                "Latitude": "43.52860200"
+            },
+            {
+                "id": "MAMP-26202",
+                "sqlilineNumber": "49",
+                "operator": "CG13",
+                "lineRef": "C13-49",
+                "Name": "Nelson Mandela",
+                "Longitude": "5.43865500",
+                "Latitude": "43.52902700"
+            },
+            {
+                "id": "MAMP-27845",
+                "sqlilineNumber": "49",
+                "operator": "CG13",
+                "lineRef": "C13-49",
+                "Name": "Mouret-Gare Routière Quai 25",
+                "Longitude": "5.43670900",
+                "Latitude": "43.52311400"
+            },
+            {
+                "id": "MAMP-21353",
+                "sqlilineNumber": "49",
+                "operator": "CG13",
+                "lineRef": "C13-49",
+                "Name": "Mouret",
+                "Longitude": "5.43470000",
+                "Latitude": "43.52003000"
+            },
+            {
+                "id": "MAMP-24103",
+                "sqlilineNumber": "49",
+                "operator": "CG13",
+                "lineRef": "C13-49",
+                "Name": "Plan d'Aillane Quai 4",
+                "Longitude": "5.37040200",
+                "Latitude": "43.49803100"
+            },
+            {
+                "id": "MAMP-22985",
+                "sqlilineNumber": "49",
+                "operator": "CG13",
+                "lineRef": "C13-49",
+                "Name": "Zone Artisanale",
+                "Longitude": "5.36908100",
+                "Latitude": "43.49326700"
+            },
+            {
+                "id": "MAMP-29148",
+                "sqlilineNumber": "49",
+                "operator": "CG13",
+                "lineRef": "C13-49",
+                "Name": "Pôle d'Activités",
+                "Longitude": "5.37312300",
+                "Latitude": "43.49106900"
+            },
+            {
+                "id": "MAMP-26376",
+                "sqlilineNumber": "49",
+                "operator": "CG13",
+                "lineRef": "C13-49",
+                "Name": "Le Frère",
+                "Longitude": "5.37646600",
+                "Latitude": "43.48870500"
+            },
+            {
+                "id": "MAMP-22499",
+                "sqlilineNumber": "49",
+                "operator": "CG13",
+                "lineRef": "C13-49",
+                "Name": "Ampère",
+                "Longitude": "5.37958300",
+                "Latitude": "43.48627700"
+            },
+            {
+                "id": "MAMP-23272",
+                "sqlilineNumber": "49",
+                "operator": "CG13",
+                "lineRef": "C13-49",
+                "Name": "Bessemer",
+                "Longitude": "5.38225000",
+                "Latitude": "43.48422800"
+            },
+            {
+                "id": "MAMP-25614",
+                "sqlilineNumber": "49",
+                "operator": "CG13",
+                "lineRef": "C13-49",
+                "Name": "Eiffel",
+                "Longitude": "5.38534500",
+                "Latitude": "43.48214400"
+            },
+            {
+                "id": "MAMP-21611",
+                "sqlilineNumber": "49",
+                "operator": "CG13",
+                "lineRef": "C13-49",
+                "Name": "Maison d'Arrêt D59",
+                "Longitude": "5.39449600",
+                "Latitude": "43.47894600"
+            },
+            {
+                "id": "MAMP-20004",
+                "sqlilineNumber": "49",
+                "operator": "CG13",
+                "lineRef": "C13-49",
+                "Name": "Métro Bougainville",
+                "Longitude": "5.37138200",
+                "Latitude": "43.32023100"
+            },
+            {
+                "id": "MAMP-23266",
+                "sqlilineNumber": "49",
+                "operator": "CG13",
+                "lineRef": "C13-49",
+                "Name": "Arenc Euroméditerranée",
+                "Longitude": "5.36771800",
+                "Latitude": "43.31421700"
+            }
+        ],
+        "C13-49:1": [
+            {
+                "id": "MAMP-23266",
+                "sqlilineNumber": "49",
+                "operator": "CG13",
+                "lineRef": "C13-49",
+                "Name": "Arenc Euroméditerranée",
+                "Longitude": "5.36771800",
+                "Latitude": "43.31421700"
+            },
+            {
+                "id": "MAMP-38350",
+                "sqlilineNumber": "49",
+                "operator": "CG13",
+                "lineRef": "C13-49",
+                "Name": "Métro Bougainville",
+                "Longitude": "5.37108800",
+                "Latitude": "43.31932100"
+            },
+            {
+                "id": "MAMP-23668",
+                "sqlilineNumber": "49",
+                "operator": "CG13",
+                "lineRef": "C13-49",
+                "Name": "Maison d'Arrêt D59",
+                "Longitude": "5.39446500",
+                "Latitude": "43.47911100"
+            },
+            {
+                "id": "MAMP-22688",
+                "sqlilineNumber": "49",
+                "operator": "CG13",
+                "lineRef": "C13-49",
+                "Name": "Eiffel",
+                "Longitude": "5.38757200",
+                "Latitude": "43.48130900"
+            },
+            {
+                "id": "MAMP-24642",
+                "sqlilineNumber": "49",
+                "operator": "CG13",
+                "lineRef": "C13-49",
+                "Name": "Bessemer",
+                "Longitude": "5.38222200",
+                "Latitude": "43.48449600"
+            },
+            {
+                "id": "MAMP-25521",
+                "sqlilineNumber": "49",
+                "operator": "CG13",
+                "lineRef": "C13-49",
+                "Name": "Ampère",
+                "Longitude": "5.37953000",
+                "Latitude": "43.48658300"
+            },
+            {
+                "id": "MAMP-25851",
+                "sqlilineNumber": "49",
+                "operator": "CG13",
+                "lineRef": "C13-49",
+                "Name": "Le Frère",
+                "Longitude": "5.37658200",
+                "Latitude": "43.48886700"
+            },
+            {
+                "id": "MAMP-22086",
+                "sqlilineNumber": "49",
+                "operator": "CG13",
+                "lineRef": "C13-49",
+                "Name": "Pôle d'Activités",
+                "Longitude": "5.37351500",
+                "Latitude": "43.49123300"
+            },
+            {
+                "id": "MAMP-25036",
+                "sqlilineNumber": "49",
+                "operator": "CG13",
+                "lineRef": "C13-49",
+                "Name": "Zone Artisanale",
+                "Longitude": "5.36934900",
+                "Latitude": "43.49309100"
+            },
+            {
+                "id": "MAMP-24103",
+                "sqlilineNumber": "49",
+                "operator": "CG13",
+                "lineRef": "C13-49",
+                "Name": "Plan d'Aillane Quai 4",
+                "Longitude": "5.37040200",
+                "Latitude": "43.49803100"
+            },
+            {
+                "id": "MAMP-21702",
+                "sqlilineNumber": "49",
+                "operator": "CG13",
+                "lineRef": "C13-49",
+                "Name": "Mouret",
+                "Longitude": "5.43509500",
+                "Latitude": "43.52007100"
+            },
+            {
+                "id": "MAMP-23245",
+                "sqlilineNumber": "49",
+                "operator": "CG13",
+                "lineRef": "C13-49",
+                "Name": "Mouret-Gare Routière Quai 21",
+                "Longitude": "5.43728800",
+                "Latitude": "43.52312100"
+            },
+            {
+                "id": "MAMP-21924",
+                "sqlilineNumber": "49",
+                "operator": "CG13",
+                "lineRef": "C13-49",
+                "Name": "Minimes",
+                "Longitude": "5.43625900",
+                "Latitude": "43.52874500"
+            },
+            {
+                "id": "MAMP-23099",
+                "sqlilineNumber": "49",
+                "operator": "CG13",
+                "lineRef": "C13-49",
+                "Name": "Corsy",
+                "Longitude": "5.42975500",
+                "Latitude": "43.52834700"
+            },
+            {
+                "id": "MAMP-24404",
+                "sqlilineNumber": "49",
+                "operator": "CG13",
+                "lineRef": "C13-49",
+                "Name": "Stade Ouest",
+                "Longitude": "5.42514800",
+                "Latitude": "43.52851800"
+            },
+            {
+                "id": "MAMP-24645",
+                "sqlilineNumber": "49",
+                "operator": "CG13",
+                "lineRef": "C13-49",
+                "Name": "Horloge",
+                "Longitude": "5.42046400",
+                "Latitude": "43.52997300"
+            },
+            {
+                "id": "MAMP-30032",
+                "sqlilineNumber": "49",
+                "operator": "CG13",
+                "lineRef": "C13-49",
+                "Name": "Lt Cl JeanPierre",
+                "Longitude": "5.41616000",
+                "Latitude": "43.53105400"
+            },
+            {
+                "id": "MAMP-22683",
+                "sqlilineNumber": "49",
+                "operator": "CG13",
+                "lineRef": "C13-49",
+                "Name": "Bouffan",
+                "Longitude": "5.41539600",
+                "Latitude": "43.53474500"
+            }
+        ]
+    }
+}

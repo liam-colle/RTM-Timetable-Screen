@@ -1,0 +1,122 @@
+{
+    "id": "C13-102",
+    "name": "102",
+    "directionIds": {
+        "Marseille": "C13-102:0",
+        "Aubagne": "C13-102:1"
+    },
+    "stationIds": {
+        "C13-102:0": [
+            {
+                "id": "MAMP-22679",
+                "sqlilineNumber": "102",
+                "operator": "CG13",
+                "lineRef": "C13-102",
+                "Name": "La Martelle",
+                "Longitude": "5.59069900",
+                "Latitude": "43.29161200"
+            },
+            {
+                "id": "MAMP-23388",
+                "sqlilineNumber": "102",
+                "operator": "CG13",
+                "lineRef": "C13-102",
+                "Name": "Vallat",
+                "Longitude": "5.59719500",
+                "Latitude": "43.28976500"
+            },
+            {
+                "id": "MAMP-20177",
+                "sqlilineNumber": "102",
+                "operator": "CG13",
+                "lineRef": "C13-102",
+                "Name": "Agora",
+                "Longitude": "5.60162000",
+                "Latitude": "43.28642900"
+            },
+            {
+                "id": "MAMP-24656",
+                "sqlilineNumber": "102",
+                "operator": "CG13",
+                "lineRef": "C13-102",
+                "Name": "Douard",
+                "Longitude": "5.59586100",
+                "Latitude": "43.28651000"
+            },
+            {
+                "id": "MAMP-20852",
+                "sqlilineNumber": "102",
+                "operator": "CG13",
+                "lineRef": "C13-102",
+                "Name": "Castellane Delphes",
+                "Longitude": "5.38784900",
+                "Latitude": "43.28434400"
+            }
+        ],
+        "C13-102:1": [
+            {
+                "id": "MAMP-20852",
+                "sqlilineNumber": "102",
+                "operator": "CG13",
+                "lineRef": "C13-102",
+                "Name": "Castellane Delphes",
+                "Longitude": "5.38784900",
+                "Latitude": "43.28434400"
+            },
+            {
+                "id": "MAMP-22992",
+                "sqlilineNumber": "102",
+                "operator": "CG13",
+                "lineRef": "C13-102",
+                "Name": "Parc du 26eCentenaire",
+                "Longitude": "5.39164100",
+                "Latitude": "43.28284800"
+            },
+            {
+                "id": "MAMP-21787",
+                "sqlilineNumber": "102",
+                "operator": "CG13",
+                "lineRef": "C13-102",
+                "Name": "La Bourbonne",
+                "Longitude": "5.59454000",
+                "Latitude": "43.28354100"
+            },
+            {
+                "id": "MAMP-25925",
+                "sqlilineNumber": "102",
+                "operator": "CG13",
+                "lineRef": "C13-102",
+                "Name": "Douard",
+                "Longitude": "5.59584800",
+                "Latitude": "43.28644200"
+            },
+            {
+                "id": "MAMP-26477",
+                "sqlilineNumber": "102",
+                "operator": "CG13",
+                "lineRef": "C13-102",
+                "Name": "Agora",
+                "Longitude": "5.60166000",
+                "Latitude": "43.28684700"
+            },
+            {
+                "id": "MAMP-25649",
+                "sqlilineNumber": "102",
+                "operator": "CG13",
+                "lineRef": "C13-102",
+                "Name": "Vallat",
+                "Longitude": "5.59746500",
+                "Latitude": "43.28974700"
+            },
+            {
+                "id": "MAMP-20715",
+                "sqlilineNumber": "102",
+                "operator": "CG13",
+                "lineRef": "C13-102",
+                "Name": "La Martelle",
+                "Longitude": "5.59059400",
+                "Latitude": "43.29170100"
+            }
+        ]
+    }
+}

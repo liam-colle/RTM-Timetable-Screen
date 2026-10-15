@@ -1,0 +1,563 @@
+{
+    "id": "C13-36",
+    "name": "36",
+    "directionIds": {
+        "Marseille": "C13-36:0",
+        "Marseille (Retour)": "C13-36:1"
+    },
+    "stationIds": {
+        "C13-36:0": [
+            {
+                "id": "MAMP-39349",
+                "sqlilineNumber": "36",
+                "operator": "CG13",
+                "lineRef": "C13-36",
+                "Name": "Arenc Euroméditeranée",
+                "Longitude": "5.36760990",
+                "Latitude": "43.31439804"
+            },
+            {
+                "id": "MAMP-38350",
+                "sqlilineNumber": "36",
+                "operator": "CG13",
+                "lineRef": "C13-36",
+                "Name": "Métro Bougainville",
+                "Longitude": "5.37108800",
+                "Latitude": "43.31932100"
+            },
+            {
+                "id": "MAMP-22437",
+                "sqlilineNumber": "36",
+                "operator": "CG13",
+                "lineRef": "C13-36",
+                "Name": "Anjoly",
+                "Longitude": "5.26696800",
+                "Latitude": "43.42123504"
+            },
+            {
+                "id": "MAMP-25694",
+                "sqlilineNumber": "36",
+                "operator": "CG13",
+                "lineRef": "C13-36",
+                "Name": "Europe C. de Gaulle",
+                "Longitude": "5.26068630",
+                "Latitude": "43.42292604"
+            },
+            {
+                "id": "MAMP-21873",
+                "sqlilineNumber": "36",
+                "operator": "CG13",
+                "lineRef": "C13-36",
+                "Name": "Europe Berlin",
+                "Longitude": "5.25341210",
+                "Latitude": "43.42276204"
+            },
+            {
+                "id": "MAMP-23479",
+                "sqlilineNumber": "36",
+                "operator": "CG13",
+                "lineRef": "C13-36",
+                "Name": "Europe Madrid",
+                "Longitude": "5.25061730",
+                "Latitude": "43.42461304"
+            },
+            {
+                "id": "MAMP-20194",
+                "sqlilineNumber": "36",
+                "operator": "CG13",
+                "lineRef": "C13-36",
+                "Name": "Europe CD 9",
+                "Longitude": "5.25004330",
+                "Latitude": "43.42670904"
+            },
+            {
+                "id": "MAMP-24333",
+                "sqlilineNumber": "36",
+                "operator": "CG13",
+                "lineRef": "C13-36",
+                "Name": "Europe Poids Public",
+                "Longitude": "5.24717870",
+                "Latitude": "43.43242804"
+            },
+            {
+                "id": "MAMP-28343",
+                "sqlilineNumber": "36",
+                "operator": "CG13",
+                "lineRef": "C13-36",
+                "Name": "Estroublans Centre Vie 2",
+                "Longitude": "5.24343970",
+                "Latitude": "43.43396704"
+            },
+            {
+                "id": "MAMP-23892",
+                "sqlilineNumber": "36",
+                "operator": "CG13",
+                "lineRef": "C13-36",
+                "Name": "Londres Athènes",
+                "Longitude": "5.24183030",
+                "Latitude": "43.43203804"
+            },
+            {
+                "id": "MAMP-26087",
+                "sqlilineNumber": "36",
+                "operator": "CG13",
+                "lineRef": "C13-36",
+                "Name": "Londres Bruxelles",
+                "Longitude": "5.23765150",
+                "Latitude": "43.42881304"
+            },
+            {
+                "id": "MAMP-23497",
+                "sqlilineNumber": "36",
+                "operator": "CG13",
+                "lineRef": "C13-36",
+                "Name": "Airbus Helicopters",
+                "Longitude": "5.23416000",
+                "Latitude": "43.43459000"
+            },
+            {
+                "id": "MAMP-20600",
+                "sqlilineNumber": "36",
+                "operator": "CG13",
+                "lineRef": "C13-36",
+                "Name": "Gabriel Voisin",
+                "Longitude": "5.23313200",
+                "Latitude": "43.42226900"
+            },
+            {
+                "id": "MAMP-26111",
+                "sqlilineNumber": "36",
+                "operator": "CG13",
+                "lineRef": "C13-36",
+                "Name": "08-mai-45",
+                "Longitude": "5.22343000",
+                "Latitude": "43.41490800"
+            },
+            {
+                "id": "MAMP-20180",
+                "sqlilineNumber": "36",
+                "operator": "CG13",
+                "lineRef": "C13-36",
+                "Name": "Clémenceau",
+                "Longitude": "5.22057000",
+                "Latitude": "43.41435400"
+            },
+            {
+                "id": "MAMP-21809",
+                "sqlilineNumber": "36",
+                "operator": "CG13",
+                "lineRef": "C13-36",
+                "Name": "Le Gabian",
+                "Longitude": "5.22463600",
+                "Latitude": "43.41973500"
+            },
+            {
+                "id": "MAMP-26055",
+                "sqlilineNumber": "36",
+                "operator": "CG13",
+                "lineRef": "C13-36",
+                "Name": "Galagovière",
+                "Longitude": "5.22081000",
+                "Latitude": "43.41894300"
+            },
+            {
+                "id": "MAMP-20201",
+                "sqlilineNumber": "36",
+                "operator": "CG13",
+                "lineRef": "C13-36",
+                "Name": "Parc Camoin Quai",
+                "Longitude": "5.21950000",
+                "Latitude": "43.41766700"
+            },
+            {
+                "id": "MAMP-26075",
+                "sqlilineNumber": "36",
+                "operator": "CG13",
+                "lineRef": "C13-36",
+                "Name": "Mistral",
+                "Longitude": "5.21692900",
+                "Latitude": "43.41421800"
+            },
+            {
+                "id": "MAMP-24320",
+                "sqlilineNumber": "36",
+                "operator": "CG13",
+                "lineRef": "C13-36",
+                "Name": "Sainte Anne",
+                "Longitude": "5.21859600",
+                "Latitude": "43.41211500"
+            },
+            {
+                "id": "MAMP-20200",
+                "sqlilineNumber": "36",
+                "operator": "CG13",
+                "lineRef": "C13-36",
+                "Name": "La Chaume",
+                "Longitude": "5.22116700",
+                "Latitude": "43.40800000"
+            },
+            {
+                "id": "MAMP-29154",
+                "sqlilineNumber": "36",
+                "operator": "CG13",
+                "lineRef": "C13-36",
+                "Name": "Collège E. Mirabeau",
+                "Longitude": "5.22322300",
+                "Latitude": "43.40475000"
+            },
+            {
+                "id": "MAMP-23960",
+                "sqlilineNumber": "36",
+                "operator": "CG13",
+                "lineRef": "C13-36",
+                "Name": "LE TUNNEL",
+                "Longitude": "5.22621300",
+                "Latitude": "43.39996700"
+            },
+            {
+                "id": "MAMP-24744",
+                "sqlilineNumber": "36",
+                "operator": "CG13",
+                "lineRef": "C13-36",
+                "Name": "Lèbre St Louis",
+                "Longitude": "5.23041500",
+                "Latitude": "43.39520000"
+            },
+            {
+                "id": "MAMP-25603",
+                "sqlilineNumber": "36",
+                "operator": "CG13",
+                "lineRef": "C13-36",
+                "Name": "La Rose",
+                "Longitude": "5.23159000",
+                "Latitude": "43.39346900"
+            },
+            {
+                "id": "MAMP-21679",
+                "sqlilineNumber": "36",
+                "operator": "CG13",
+                "lineRef": "C13-36",
+                "Name": "Jean de Florette",
+                "Longitude": "5.23183600",
+                "Latitude": "43.39041100"
+            },
+            {
+                "id": "MAMP-21011",
+                "sqlilineNumber": "36",
+                "operator": "CG13",
+                "lineRef": "C13-36",
+                "Name": "Poussaraque",
+                "Longitude": "5.22939400",
+                "Latitude": "43.38777500"
+            },
+            {
+                "id": "MAMP-23908",
+                "sqlilineNumber": "36",
+                "operator": "CG13",
+                "lineRef": "C13-36",
+                "Name": "Pré Fleuri",
+                "Longitude": "5.22269200",
+                "Latitude": "43.38668200"
+            },
+            {
+                "id": "MAMP-25187",
+                "sqlilineNumber": "36",
+                "operator": "CG13",
+                "lineRef": "C13-36",
+                "Name": "Les Acacias",
+                "Longitude": "5.21927400",
+                "Latitude": "43.38549100"
+            },
+            {
+                "id": "MAMP-20004",
+                "sqlilineNumber": "36",
+                "operator": "CG13",
+                "lineRef": "C13-36",
+                "Name": "Métro Bougainville",
+                "Longitude": "5.37138200",
+                "Latitude": "43.32023100"
+            },
+            {
+                "id": "MAMP-39349",
+                "sqlilineNumber": "36",
+                "operator": "CG13",
+                "lineRef": "C13-36",
+                "Name": "Arenc Euroméditeranée",
+                "Longitude": "5.36760990",
+                "Latitude": "43.31439804"
+            }
+        ],
+        "C13-36:1": [
+            {
+                "id": "MAMP-39349",
+                "sqlilineNumber": "36",
+                "operator": "CG13",
+                "lineRef": "C13-36",
+                "Name": "Arenc Euroméditeranée",
+                "Longitude": "5.36760990",
+                "Latitude": "43.31439804"
+            },
+            {
+                "id": "MAMP-38350",
+                "sqlilineNumber": "36",
+                "operator": "CG13",
+                "lineRef": "C13-36",
+                "Name": "Métro Bougainville",
+                "Longitude": "5.37108800",
+                "Latitude": "43.31932100"
+            },
+            {
+                "id": "MAMP-20699",
+                "sqlilineNumber": "36",
+                "operator": "CG13",
+                "lineRef": "C13-36",
+                "Name": "Les Acacias",
+                "Longitude": "5.21989800",
+                "Latitude": "43.38567500"
+            },
+            {
+                "id": "MAMP-21836",
+                "sqlilineNumber": "36",
+                "operator": "CG13",
+                "lineRef": "C13-36",
+                "Name": "Pré Fleuri",
+                "Longitude": "5.22327800",
+                "Latitude": "43.38677200"
+            },
+            {
+                "id": "MAMP-22293",
+                "sqlilineNumber": "36",
+                "operator": "CG13",
+                "lineRef": "C13-36",
+                "Name": "Poussaraque",
+                "Longitude": "5.22946900",
+                "Latitude": "43.38774600"
+            },
+            {
+                "id": "MAMP-22963",
+                "sqlilineNumber": "36",
+                "operator": "CG13",
+                "lineRef": "C13-36",
+                "Name": "Jean de Florette",
+                "Longitude": "5.23202100",
+                "Latitude": "43.39055800"
+            },
+            {
+                "id": "MAMP-25603",
+                "sqlilineNumber": "36",
+                "operator": "CG13",
+                "lineRef": "C13-36",
+                "Name": "La Rose",
+                "Longitude": "5.23159000",
+                "Latitude": "43.39346900"
+            },
+            {
+                "id": "MAMP-25169",
+                "sqlilineNumber": "36",
+                "operator": "CG13",
+                "lineRef": "C13-36",
+                "Name": "Lèbre St Louis",
+                "Longitude": "5.23048700",
+                "Latitude": "43.39525000"
+            },
+            {
+                "id": "MAMP-21903",
+                "sqlilineNumber": "36",
+                "operator": "CG13",
+                "lineRef": "C13-36",
+                "Name": "LE TUNNEL",
+                "Longitude": "5.22618900",
+                "Latitude": "43.40022800"
+            },
+            {
+                "id": "MAMP-29155",
+                "sqlilineNumber": "36",
+                "operator": "CG13",
+                "lineRef": "C13-36",
+                "Name": "Collège E. Mirabeau",
+                "Longitude": "5.22330900",
+                "Latitude": "43.40468300"
+            },
+            {
+                "id": "MAMP-21427",
+                "sqlilineNumber": "36",
+                "operator": "CG13",
+                "lineRef": "C13-36",
+                "Name": "La Chaume",
+                "Longitude": "5.22116700",
+                "Latitude": "43.40816700"
+            },
+            {
+                "id": "MAMP-21498",
+                "sqlilineNumber": "36",
+                "operator": "CG13",
+                "lineRef": "C13-36",
+                "Name": "Sainte Anne",
+                "Longitude": "5.21862600",
+                "Latitude": "43.41222800"
+            },
+            {
+                "id": "MAMP-22345",
+                "sqlilineNumber": "36",
+                "operator": "CG13",
+                "lineRef": "C13-36",
+                "Name": "Mistral",
+                "Longitude": "5.21700000",
+                "Latitude": "43.41416700"
+            },
+            {
+                "id": "MAMP-23962",
+                "sqlilineNumber": "36",
+                "operator": "CG13",
+                "lineRef": "C13-36",
+                "Name": "Georges Clémenceau",
+                "Longitude": "5.21901500",
+                "Latitude": "43.41434200"
+            },
+            {
+                "id": "MAMP-23109",
+                "sqlilineNumber": "36",
+                "operator": "CG13",
+                "lineRef": "C13-36",
+                "Name": "08-mai-45",
+                "Longitude": "5.22363200",
+                "Latitude": "43.41488200"
+            },
+            {
+                "id": "MAMP-26455",
+                "sqlilineNumber": "36",
+                "operator": "CG13",
+                "lineRef": "C13-36",
+                "Name": "Parc Camoin Quai 2",
+                "Longitude": "5.21966700",
+                "Latitude": "43.41766700"
+            },
+            {
+                "id": "MAMP-21809",
+                "sqlilineNumber": "36",
+                "operator": "CG13",
+                "lineRef": "C13-36",
+                "Name": "Le Gabian",
+                "Longitude": "5.22463600",
+                "Latitude": "43.41973500"
+            },
+            {
+                "id": "MAMP-24250",
+                "sqlilineNumber": "36",
+                "operator": "CG13",
+                "lineRef": "C13-36",
+                "Name": "Gabriel Voisin",
+                "Longitude": "5.23244000",
+                "Latitude": "43.42169800"
+            },
+            {
+                "id": "MAMP-23497",
+                "sqlilineNumber": "36",
+                "operator": "CG13",
+                "lineRef": "C13-36",
+                "Name": "Airbus Helicopters",
+                "Longitude": "5.23416000",
+                "Latitude": "43.43459000"
+            },
+            {
+                "id": "MAMP-25609",
+                "sqlilineNumber": "36",
+                "operator": "CG13",
+                "lineRef": "C13-36",
+                "Name": "Londres Bruxelles",
+                "Longitude": "5.23815570",
+                "Latitude": "43.42911304"
+            },
+            {
+                "id": "MAMP-24334",
+                "sqlilineNumber": "36",
+                "operator": "CG13",
+                "lineRef": "C13-36",
+                "Name": "Londres Athènes",
+                "Longitude": "5.24218980",
+                "Latitude": "43.43222504"
+            },
+            {
+                "id": "MAMP-28344",
+                "sqlilineNumber": "36",
+                "operator": "CG13",
+                "lineRef": "C13-36",
+                "Name": "Estroublans Centre Vie 2",
+                "Longitude": "5.24347190",
+                "Latitude": "43.43390804"
+            },
+            {
+                "id": "MAMP-26458",
+                "sqlilineNumber": "36",
+                "operator": "CG13",
+                "lineRef": "C13-36",
+                "Name": "Europe Poids Public",
+                "Longitude": "5.24751660",
+                "Latitude": "43.43224504"
+            },
+            {
+                "id": "MAMP-22350",
+                "sqlilineNumber": "36",
+                "operator": "CG13",
+                "lineRef": "C13-36",
+                "Name": "Europe CD 9",
+                "Longitude": "5.25001650",
+                "Latitude": "43.42665404"
+            },
+            {
+                "id": "MAMP-25615",
+                "sqlilineNumber": "36",
+                "operator": "CG13",
+                "lineRef": "C13-36",
+                "Name": "Europe Madrid",
+                "Longitude": "5.25059040",
+                "Latitude": "43.42449204"
+            },
+            {
+                "id": "MAMP-26457",
+                "sqlilineNumber": "36",
+                "operator": "CG13",
+                "lineRef": "C13-36",
+                "Name": "Europe Berlin",
+                "Longitude": "5.25378230",
+                "Latitude": "43.42283204"
+            },
+            {
+                "id": "MAMP-20193",
+                "sqlilineNumber": "36",
+                "operator": "CG13",
+                "lineRef": "C13-36",
+                "Name": "Europe C. de Gaulle",
+                "Longitude": "5.26124950",
+                "Latitude": "43.42268004"
+            },
+            {
+                "id": "MAMP-21225",
+                "sqlilineNumber": "36",
+                "operator": "CG13",
+                "lineRef": "C13-36",
+                "Name": "Anjoly",
+                "Longitude": "5.26740790",
+                "Latitude": "43.42105904"
+            },
+            {
+                "id": "MAMP-20004",
+                "sqlilineNumber": "36",
+                "operator": "CG13",
+                "lineRef": "C13-36",
+                "Name": "Métro Bougainville",
+                "Longitude": "5.37138200",
+                "Latitude": "43.32023100"
+            },
+            {
+                "id": "MAMP-39349",
+                "sqlilineNumber": "36",
+                "operator": "CG13",
+                "lineRef": "C13-36",
+                "Name": "Arenc Euroméditeranée",
+                "Longitude": "5.36760990",
+                "Latitude": "43.31439804"
+            }
+        ]
+    }
+}

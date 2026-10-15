@@ -1,0 +1,266 @@
+{
+    "id": "C13-5069",
+    "name": "5069",
+    "directionIds": {
+        "Aubagne": "C13-5069:0",
+        "La Ciotat": "C13-5069:1"
+    },
+    "stationIds": {
+        "C13-5069:0": [
+            {
+                "id": "MAMP-22166",
+                "sqlilineNumber": "5069",
+                "operator": "CG13",
+                "lineRef": "C13-5069",
+                "Name": "Lycée Méditerranée",
+                "Longitude": "5.61266500",
+                "Latitude": "43.19074100"
+            },
+            {
+                "id": "MAMP-20911",
+                "sqlilineNumber": "5069",
+                "operator": "CG13",
+                "lineRef": "C13-5069",
+                "Name": "Lycée Lumière",
+                "Longitude": "5.60476100",
+                "Latitude": "43.18435200"
+            },
+            {
+                "id": "MAMP-20910",
+                "sqlilineNumber": "5069",
+                "operator": "CG13",
+                "lineRef": "C13-5069",
+                "Name": "Centre Commercial",
+                "Longitude": "5.60041800",
+                "Latitude": "43.18636700"
+            },
+            {
+                "id": "MAMP-23835",
+                "sqlilineNumber": "5069",
+                "operator": "CG13",
+                "lineRef": "C13-5069",
+                "Name": "Rond Point Bodin",
+                "Longitude": "5.60324100",
+                "Latitude": "43.18941200"
+            },
+            {
+                "id": "MAMP-23022",
+                "sqlilineNumber": "5069",
+                "operator": "CG13",
+                "lineRef": "C13-5069",
+                "Name": "Hôtel de Ville",
+                "Longitude": "5.59153900",
+                "Latitude": "43.24744700"
+            },
+            {
+                "id": "MAMP-26594",
+                "sqlilineNumber": "5069",
+                "operator": "CG13",
+                "lineRef": "C13-5069",
+                "Name": "La Crèche",
+                "Longitude": "5.58703200",
+                "Latitude": "43.24879400"
+            },
+            {
+                "id": "MAMP-23365",
+                "sqlilineNumber": "5069",
+                "operator": "CG13",
+                "lineRef": "C13-5069",
+                "Name": "Les Caniers",
+                "Longitude": "5.58414500",
+                "Latitude": "43.24995700"
+            },
+            {
+                "id": "MAMP-25593",
+                "sqlilineNumber": "5069",
+                "operator": "CG13",
+                "lineRef": "C13-5069",
+                "Name": "Pont des Barles",
+                "Longitude": "5.58626100",
+                "Latitude": "43.26584500"
+            },
+            {
+                "id": "MAMP-26481",
+                "sqlilineNumber": "5069",
+                "operator": "CG13",
+                "lineRef": "C13-5069",
+                "Name": "Robespierre",
+                "Longitude": "5.58438800",
+                "Latitude": "43.28709100"
+            },
+            {
+                "id": "MAMP-23911",
+                "sqlilineNumber": "5069",
+                "operator": "CG13",
+                "lineRef": "C13-5069",
+                "Name": "Avenue Jean Mermoz",
+                "Longitude": "5.57809400",
+                "Latitude": "43.28623800"
+            },
+            {
+                "id": "MAMP-24758",
+                "sqlilineNumber": "5069",
+                "operator": "CG13",
+                "lineRef": "C13-5069",
+                "Name": "Résidence Jean Mermoz",
+                "Longitude": "5.57394700",
+                "Latitude": "43.28697600"
+            },
+            {
+                "id": "MAMP-20645",
+                "sqlilineNumber": "5069",
+                "operator": "CG13",
+                "lineRef": "C13-5069",
+                "Name": "Av. du 19 mars 1962",
+                "Longitude": "5.56960000",
+                "Latitude": "43.28901200"
+            },
+            {
+                "id": "MAMP-24735",
+                "sqlilineNumber": "5069",
+                "operator": "CG13",
+                "lineRef": "C13-5069",
+                "Name": "Hôpital d'Aubagne",
+                "Longitude": "5.56454800",
+                "Latitude": "43.29120900"
+            },
+            {
+                "id": "MAMP-21218",
+                "sqlilineNumber": "5069",
+                "operator": "CG13",
+                "lineRef": "C13-5069",
+                "Name": "Pôle d'Echanges",
+                "Longitude": "5.56551100",
+                "Latitude": "43.29538700"
+            }
+        ],
+        "C13-5069:1": [
+            {
+                "id": "MAMP-21218",
+                "sqlilineNumber": "5069",
+                "operator": "CG13",
+                "lineRef": "C13-5069",
+                "Name": "Pôle d'Echanges",
+                "Longitude": "5.56551100",
+                "Latitude": "43.29538700"
+            },
+            {
+                "id": "MAMP-26046",
+                "sqlilineNumber": "5069",
+                "operator": "CG13",
+                "lineRef": "C13-5069",
+                "Name": "Hôpital d'Aubagne",
+                "Longitude": "5.56358400",
+                "Latitude": "43.29136400"
+            },
+            {
+                "id": "MAMP-23438",
+                "sqlilineNumber": "5069",
+                "operator": "CG13",
+                "lineRef": "C13-5069",
+                "Name": "Av. du 19 mars 1962",
+                "Longitude": "5.56952000",
+                "Latitude": "43.28899100"
+            },
+            {
+                "id": "MAMP-24267",
+                "sqlilineNumber": "5069",
+                "operator": "CG13",
+                "lineRef": "C13-5069",
+                "Name": "Résidence Jean Mermoz",
+                "Longitude": "5.57313800",
+                "Latitude": "43.28727800"
+            },
+            {
+                "id": "MAMP-26062",
+                "sqlilineNumber": "5069",
+                "operator": "CG13",
+                "lineRef": "C13-5069",
+                "Name": "Avenue Jean Mermoz",
+                "Longitude": "5.57819100",
+                "Latitude": "43.28616700"
+            },
+            {
+                "id": "MAMP-26010",
+                "sqlilineNumber": "5069",
+                "operator": "CG13",
+                "lineRef": "C13-5069",
+                "Name": "Robespierre",
+                "Longitude": "5.58398500",
+                "Latitude": "43.28707600"
+            },
+            {
+                "id": "MAMP-25949",
+                "sqlilineNumber": "5069",
+                "operator": "CG13",
+                "lineRef": "C13-5069",
+                "Name": "Pont des Barles",
+                "Longitude": "5.58615000",
+                "Latitude": "43.26611000"
+            },
+            {
+                "id": "MAMP-30056",
+                "sqlilineNumber": "5069",
+                "operator": "CG13",
+                "lineRef": "C13-5069",
+                "Name": "Les Caniers",
+                "Longitude": "5.58382600",
+                "Latitude": "43.25015400"
+            },
+            {
+                "id": "MAMP-20506",
+                "sqlilineNumber": "5069",
+                "operator": "CG13",
+                "lineRef": "C13-5069",
+                "Name": "La Crèche",
+                "Longitude": "5.58667300",
+                "Latitude": "43.24870000"
+            },
+            {
+                "id": "MAMP-21764",
+                "sqlilineNumber": "5069",
+                "operator": "CG13",
+                "lineRef": "C13-5069",
+                "Name": "Ghirardelli",
+                "Longitude": "5.59168800",
+                "Latitude": "43.24656400"
+            },
+            {
+                "id": "MAMP-25972",
+                "sqlilineNumber": "5069",
+                "operator": "CG13",
+                "lineRef": "C13-5069",
+                "Name": "Rond Point Bodin",
+                "Longitude": "5.60256700",
+                "Latitude": "43.18930200"
+            },
+            {
+                "id": "MAMP-21729",
+                "sqlilineNumber": "5069",
+                "operator": "CG13",
+                "lineRef": "C13-5069",
+                "Name": "Puits du Brunet",
+                "Longitude": "5.60037800",
+                "Latitude": "43.18687100"
+            },
+            {
+                "id": "MAMP-25505",
+                "sqlilineNumber": "5069",
+                "operator": "CG13",
+                "lineRef": "C13-5069",
+                "Name": "Lycée Lumière",
+                "Longitude": "5.60505500",
+                "Latitude": "43.18424700"
+            },
+            {
+                "id": "MAMP-22166",
+                "sqlilineNumber": "5069",
+                "operator": "CG13",
+                "lineRef": "C13-5069",
+                "Name": "Lycée Méditerranée",
+                "Longitude": "5.61266500",
+                "Latitude": "43.19074100"
+            }
+        ]
+    }
+}

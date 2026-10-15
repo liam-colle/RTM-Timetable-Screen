@@ -1,0 +1,293 @@
+{
+    "id": "C13-16",
+    "name": "16",
+    "directionIds": {
+        "Aix-en-Provence": "C13-16:0",
+        "Lançon-Provence / La Fare-les-Oliviers": "C13-16:1"
+    },
+    "stationIds": {
+        "C13-16:0": [
+            {
+                "id": "MAMP-20015",
+                "sqlilineNumber": "16",
+                "operator": "CG13",
+                "lineRef": "C13-16",
+                "Name": "Sibourg le Stade",
+                "Longitude": "5.21086160",
+                "Latitude": "43.58066704"
+            },
+            {
+                "id": "MAMP-25018",
+                "sqlilineNumber": "16",
+                "operator": "CG13",
+                "lineRef": "C13-16",
+                "Name": "Val de Sibourg",
+                "Longitude": "5.21125320",
+                "Latitude": "43.58451804"
+            },
+            {
+                "id": "MAMP-23133",
+                "sqlilineNumber": "16",
+                "operator": "CG13",
+                "lineRef": "C13-16",
+                "Name": "Fanets",
+                "Longitude": "5.18779990",
+                "Latitude": "43.58774304"
+            },
+            {
+                "id": "MAMP-20769",
+                "sqlilineNumber": "16",
+                "operator": "CG13",
+                "lineRef": "C13-16",
+                "Name": "Coste",
+                "Longitude": "5.13934850",
+                "Latitude": "43.58743604"
+            },
+            {
+                "id": "MAMP-20014",
+                "sqlilineNumber": "16",
+                "operator": "CG13",
+                "lineRef": "C13-16",
+                "Name": "Moulin de Laure",
+                "Longitude": "5.13382850",
+                "Latitude": "43.58830604"
+            },
+            {
+                "id": "MAMP-23013",
+                "sqlilineNumber": "16",
+                "operator": "CG13",
+                "lineRef": "C13-16",
+                "Name": "Médiathèque",
+                "Longitude": "5.12556730",
+                "Latitude": "43.58965404"
+            },
+            {
+                "id": "MAMP-25305",
+                "sqlilineNumber": "16",
+                "operator": "CG13",
+                "lineRef": "C13-16",
+                "Name": "Marcel Pagnol",
+                "Longitude": "5.12358250",
+                "Latitude": "43.59038104"
+            },
+            {
+                "id": "MAMP-20686",
+                "sqlilineNumber": "16",
+                "operator": "CG13",
+                "lineRef": "C13-16",
+                "Name": "Gramenieres",
+                "Longitude": "5.18507480",
+                "Latitude": "43.55027404"
+            },
+            {
+                "id": "MAMP-26589",
+                "sqlilineNumber": "16",
+                "operator": "CG13",
+                "lineRef": "C13-16",
+                "Name": "Grand Jas",
+                "Longitude": "5.19443570",
+                "Latitude": "43.55475704"
+            },
+            {
+                "id": "MAMP-25947",
+                "sqlilineNumber": "16",
+                "operator": "CG13",
+                "lineRef": "C13-16",
+                "Name": "Favier",
+                "Longitude": "5.20370540",
+                "Latitude": "43.55057804"
+            },
+            {
+                "id": "MAMP-21674",
+                "sqlilineNumber": "16",
+                "operator": "CG13",
+                "lineRef": "C13-16",
+                "Name": "Giraude",
+                "Longitude": "5.21025000",
+                "Latitude": "43.55052704"
+            },
+            {
+                "id": "MAMP-25451",
+                "sqlilineNumber": "16",
+                "operator": "CG13",
+                "lineRef": "C13-16",
+                "Name": "Chemin Meunier",
+                "Longitude": "5.21825910",
+                "Latitude": "43.55044504"
+            },
+            {
+                "id": "MAMP-23193",
+                "sqlilineNumber": "16",
+                "operator": "CG13",
+                "lineRef": "C13-16",
+                "Name": "Barrales",
+                "Longitude": "5.22450860",
+                "Latitude": "43.55037204"
+            },
+            {
+                "id": "MAMP-21667",
+                "sqlilineNumber": "16",
+                "operator": "CG13",
+                "lineRef": "C13-16",
+                "Name": "La Fourane",
+                "Longitude": "5.44473950",
+                "Latitude": "43.51338604"
+            },
+            {
+                "id": "MAMP-26380",
+                "sqlilineNumber": "16",
+                "operator": "CG13",
+                "lineRef": "C13-16",
+                "Name": "Fenouilleres",
+                "Longitude": "5.44835510",
+                "Latitude": "43.51350204"
+            },
+            {
+                "id": "MAMP-25918",
+                "sqlilineNumber": "16",
+                "operator": "CG13",
+                "lineRef": "C13-16",
+                "Name": "P+R Krypton",
+                "Longitude": "5.44876400",
+                "Latitude": "43.51144700"
+            }
+        ],
+        "C13-16:1": [
+            {
+                "id": "MAMP-25918",
+                "sqlilineNumber": "16",
+                "operator": "CG13",
+                "lineRef": "C13-16",
+                "Name": "P+R Krypton",
+                "Longitude": "5.44876400",
+                "Latitude": "43.51144700"
+            },
+            {
+                "id": "MAMP-24138",
+                "sqlilineNumber": "16",
+                "operator": "CG13",
+                "lineRef": "C13-16",
+                "Name": "Fenouilleres",
+                "Longitude": "5.44825320",
+                "Latitude": "43.51354504"
+            },
+            {
+                "id": "MAMP-21351",
+                "sqlilineNumber": "16",
+                "operator": "CG13",
+                "lineRef": "C13-16",
+                "Name": "La Fourane",
+                "Longitude": "5.44468580",
+                "Latitude": "43.51343204"
+            },
+            {
+                "id": "MAMP-26333",
+                "sqlilineNumber": "16",
+                "operator": "CG13",
+                "lineRef": "C13-16",
+                "Name": "Barrales",
+                "Longitude": "5.22493240",
+                "Latitude": "43.55043804"
+            },
+            {
+                "id": "MAMP-20005",
+                "sqlilineNumber": "16",
+                "operator": "CG13",
+                "lineRef": "C13-16",
+                "Name": "Chemin Meunier",
+                "Longitude": "5.22026540",
+                "Latitude": "43.55029804"
+            },
+            {
+                "id": "MAMP-22960",
+                "sqlilineNumber": "16",
+                "operator": "CG13",
+                "lineRef": "C13-16",
+                "Name": "Giraude",
+                "Longitude": "5.21091520",
+                "Latitude": "43.55055804"
+            },
+            {
+                "id": "MAMP-26372",
+                "sqlilineNumber": "16",
+                "operator": "CG13",
+                "lineRef": "C13-16",
+                "Name": "Favier",
+                "Longitude": "5.20398970",
+                "Latitude": "43.55064404"
+            },
+            {
+                "id": "MAMP-20496",
+                "sqlilineNumber": "16",
+                "operator": "CG13",
+                "lineRef": "C13-16",
+                "Name": "Grand Jas",
+                "Longitude": "5.19393150",
+                "Latitude": "43.55480004"
+            },
+            {
+                "id": "MAMP-20222",
+                "sqlilineNumber": "16",
+                "operator": "CG13",
+                "lineRef": "C13-16",
+                "Name": "Gramenieres",
+                "Longitude": "5.18508550",
+                "Latitude": "43.55034004"
+            },
+            {
+                "id": "MAMP-23288",
+                "sqlilineNumber": "16",
+                "operator": "CG13",
+                "lineRef": "C13-16",
+                "Name": "Médiathèque",
+                "Longitude": "5.12503090",
+                "Latitude": "43.58959604"
+            },
+            {
+                "id": "MAMP-22972",
+                "sqlilineNumber": "16",
+                "operator": "CG13",
+                "lineRef": "C13-16",
+                "Name": "Moulin de Laure",
+                "Longitude": "5.13371050",
+                "Latitude": "43.58827504"
+            },
+            {
+                "id": "MAMP-22928",
+                "sqlilineNumber": "16",
+                "operator": "CG13",
+                "lineRef": "C13-16",
+                "Name": "Coste",
+                "Longitude": "5.13930560",
+                "Latitude": "43.58731904"
+            },
+            {
+                "id": "MAMP-20258",
+                "sqlilineNumber": "16",
+                "operator": "CG13",
+                "lineRef": "C13-16",
+                "Name": "Fanets",
+                "Longitude": "5.18761220",
+                "Latitude": "43.58786304"
+            },
+            {
+                "id": "MAMP-24681",
+                "sqlilineNumber": "16",
+                "operator": "CG13",
+                "lineRef": "C13-16",
+                "Name": "Val de Sibourg",
+                "Longitude": "5.21093130",
+                "Latitude": "43.58462304"
+            },
+            {
+                "id": "MAMP-23805",
+                "sqlilineNumber": "16",
+                "operator": "CG13",
+                "lineRef": "C13-16",
+                "Name": "Sibourg le Stade",
+                "Longitude": "5.21080260",
+                "Latitude": "43.58067104"
+            }
+        ]
+    }
+}

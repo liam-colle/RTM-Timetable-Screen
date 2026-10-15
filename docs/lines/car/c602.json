@@ -1,0 +1,194 @@
+{
+    "id": "C13-C602",
+    "name": "C602",
+    "directionIds": {
+        "Aix-en-Provence": "C13-C602:0",
+        "Sausset-les-Pins / Carry-le-Rouet": "C13-C602:1"
+    },
+    "stationIds": {
+        "C13-C602:0": [
+            {
+                "id": "MAMP-22597",
+                "sqlilineNumber": "C602",
+                "operator": "CG13",
+                "lineRef": "C13-C602",
+                "Name": "Matraja / Les Terrasses",
+                "Longitude": "5.10143000",
+                "Latitude": "43.33946100"
+            },
+            {
+                "id": "MAMP-33824",
+                "sqlilineNumber": "C602",
+                "operator": "CG13",
+                "lineRef": "C13-C602",
+                "Name": "Gare SNCF",
+                "Longitude": "5.15361400",
+                "Latitude": "43.33617700"
+            },
+            {
+                "id": "MAMP-20914",
+                "sqlilineNumber": "C602",
+                "operator": "CG13",
+                "lineRef": "C13-C602",
+                "Name": "La Vierge",
+                "Longitude": "5.20681900",
+                "Latitude": "43.35699700"
+            },
+            {
+                "id": "MAMP-24241",
+                "sqlilineNumber": "C602",
+                "operator": "CG13",
+                "lineRef": "C13-C602",
+                "Name": "Le Douard RD 568",
+                "Longitude": "5.24082400",
+                "Latitude": "43.36613200"
+            },
+            {
+                "id": "MAMP-20699",
+                "sqlilineNumber": "C602",
+                "operator": "CG13",
+                "lineRef": "C13-C602",
+                "Name": "Les Acacias",
+                "Longitude": "5.21989800",
+                "Latitude": "43.38567500"
+            },
+            {
+                "id": "MAMP-26455",
+                "sqlilineNumber": "C602",
+                "operator": "CG13",
+                "lineRef": "C13-C602",
+                "Name": "Parc Camoin Quai 2",
+                "Longitude": "5.21966700",
+                "Latitude": "43.41766700"
+            },
+            {
+                "id": "MAMP-26058",
+                "sqlilineNumber": "C602",
+                "operator": "CG13",
+                "lineRef": "C13-C602",
+                "Name": "Caucadis",
+                "Longitude": "5.24029700",
+                "Latitude": "43.45029600"
+            },
+            {
+                "id": "MAMP-21098",
+                "sqlilineNumber": "C602",
+                "operator": "CG13",
+                "lineRef": "C13-C602",
+                "Name": "Lycée Mendès",
+                "Longitude": "5.24718300",
+                "Latitude": "43.44722800"
+            },
+            {
+                "id": "MAMP-26088",
+                "sqlilineNumber": "C602",
+                "operator": "CG13",
+                "lineRef": "C13-C602",
+                "Name": "Lycée Jean Monnet",
+                "Longitude": "5.27144900",
+                "Latitude": "43.42426400"
+            },
+            {
+                "id": "MAMP-20002",
+                "sqlilineNumber": "C602",
+                "operator": "CG13",
+                "lineRef": "C13-C602",
+                "Name": "Arc Meyran Zola",
+                "Longitude": "5.46200000",
+                "Latitude": "43.51201200"
+            }
+        ],
+        "C13-C602:1": [
+            {
+                "id": "MAMP-20002",
+                "sqlilineNumber": "C602",
+                "operator": "CG13",
+                "lineRef": "C13-C602",
+                "Name": "Arc Meyran Zola",
+                "Longitude": "5.46200000",
+                "Latitude": "43.51201200"
+            },
+            {
+                "id": "MAMP-26088",
+                "sqlilineNumber": "C602",
+                "operator": "CG13",
+                "lineRef": "C13-C602",
+                "Name": "Lycée Jean Monnet",
+                "Longitude": "5.27144900",
+                "Latitude": "43.42426400"
+            },
+            {
+                "id": "MAMP-26058",
+                "sqlilineNumber": "C602",
+                "operator": "CG13",
+                "lineRef": "C13-C602",
+                "Name": "Caucadis",
+                "Longitude": "5.24029700",
+                "Latitude": "43.45029600"
+            },
+            {
+                "id": "MAMP-21098",
+                "sqlilineNumber": "C602",
+                "operator": "CG13",
+                "lineRef": "C13-C602",
+                "Name": "Lycée Mendès",
+                "Longitude": "5.24718300",
+                "Latitude": "43.44722800"
+            },
+            {
+                "id": "MAMP-20201",
+                "sqlilineNumber": "C602",
+                "operator": "CG13",
+                "lineRef": "C13-C602",
+                "Name": "Parc Camoin Quai",
+                "Longitude": "5.21950000",
+                "Latitude": "43.41766700"
+            },
+            {
+                "id": "MAMP-25187",
+                "sqlilineNumber": "C602",
+                "operator": "CG13",
+                "lineRef": "C13-C602",
+                "Name": "Les Acacias",
+                "Longitude": "5.21927400",
+                "Latitude": "43.38549100"
+            },
+            {
+                "id": "MAMP-20589",
+                "sqlilineNumber": "C602",
+                "operator": "CG13",
+                "lineRef": "C13-C602",
+                "Name": "Le Douard RD 568",
+                "Longitude": "5.24046700",
+                "Latitude": "43.36602800"
+            },
+            {
+                "id": "MAMP-20914",
+                "sqlilineNumber": "C602",
+                "operator": "CG13",
+                "lineRef": "C13-C602",
+                "Name": "La Vierge",
+                "Longitude": "5.20681900",
+                "Latitude": "43.35699700"
+            },
+            {
+                "id": "MAMP-20073",
+                "sqlilineNumber": "C602",
+                "operator": "CG13",
+                "lineRef": "C13-C602",
+                "Name": "Gare SNCF",
+                "Longitude": "5.15384200",
+                "Latitude": "43.33644700"
+            },
+            {
+                "id": "MAMP-22597",
+                "sqlilineNumber": "C602",
+                "operator": "CG13",
+                "lineRef": "C13-C602",
+                "Name": "Matraja / Les Terrasses",
+                "Longitude": "5.10143000",
+                "Latitude": "43.33946100"
+            }
+        ]
+    }
+}

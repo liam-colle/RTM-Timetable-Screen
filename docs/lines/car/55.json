@@ -1,0 +1,842 @@
+{
+    "id": "C13-55",
+    "name": "55",
+    "directionIds": {
+        "Martigues": "C13-55:0",
+        "Marignane": "C13-55:1"
+    },
+    "stationIds": {
+        "C13-55:0": [
+            {
+                "id": "MAMP-20201",
+                "sqlilineNumber": "55",
+                "operator": "CG13",
+                "lineRef": "C13-55",
+                "Name": "Parc Camoin Quai",
+                "Longitude": "5.21950000",
+                "Latitude": "43.41766700"
+            },
+            {
+                "id": "MAMP-26075",
+                "sqlilineNumber": "55",
+                "operator": "CG13",
+                "lineRef": "C13-55",
+                "Name": "Mistral",
+                "Longitude": "5.21692900",
+                "Latitude": "43.41421800"
+            },
+            {
+                "id": "MAMP-24320",
+                "sqlilineNumber": "55",
+                "operator": "CG13",
+                "lineRef": "C13-55",
+                "Name": "Sainte Anne",
+                "Longitude": "5.21859600",
+                "Latitude": "43.41211500"
+            },
+            {
+                "id": "MAMP-20200",
+                "sqlilineNumber": "55",
+                "operator": "CG13",
+                "lineRef": "C13-55",
+                "Name": "La Chaume",
+                "Longitude": "5.22116700",
+                "Latitude": "43.40800000"
+            },
+            {
+                "id": "MAMP-29154",
+                "sqlilineNumber": "55",
+                "operator": "CG13",
+                "lineRef": "C13-55",
+                "Name": "Collège E. Mirabeau",
+                "Longitude": "5.22322300",
+                "Latitude": "43.40475000"
+            },
+            {
+                "id": "MAMP-23960",
+                "sqlilineNumber": "55",
+                "operator": "CG13",
+                "lineRef": "C13-55",
+                "Name": "LE TUNNEL",
+                "Longitude": "5.22621300",
+                "Latitude": "43.39996700"
+            },
+            {
+                "id": "MAMP-24744",
+                "sqlilineNumber": "55",
+                "operator": "CG13",
+                "lineRef": "C13-55",
+                "Name": "Lèbre St Louis",
+                "Longitude": "5.23041500",
+                "Latitude": "43.39520000"
+            },
+            {
+                "id": "MAMP-25603",
+                "sqlilineNumber": "55",
+                "operator": "CG13",
+                "lineRef": "C13-55",
+                "Name": "La Rose",
+                "Longitude": "5.23159000",
+                "Latitude": "43.39346900"
+            },
+            {
+                "id": "MAMP-21679",
+                "sqlilineNumber": "55",
+                "operator": "CG13",
+                "lineRef": "C13-55",
+                "Name": "Jean de Florette",
+                "Longitude": "5.23183600",
+                "Latitude": "43.39041100"
+            },
+            {
+                "id": "MAMP-21011",
+                "sqlilineNumber": "55",
+                "operator": "CG13",
+                "lineRef": "C13-55",
+                "Name": "Poussaraque",
+                "Longitude": "5.22939400",
+                "Latitude": "43.38777500"
+            },
+            {
+                "id": "MAMP-23908",
+                "sqlilineNumber": "55",
+                "operator": "CG13",
+                "lineRef": "C13-55",
+                "Name": "Pré Fleuri",
+                "Longitude": "5.22269200",
+                "Latitude": "43.38668200"
+            },
+            {
+                "id": "MAMP-25187",
+                "sqlilineNumber": "55",
+                "operator": "CG13",
+                "lineRef": "C13-55",
+                "Name": "Les Acacias",
+                "Longitude": "5.21927400",
+                "Latitude": "43.38549100"
+            },
+            {
+                "id": "MAMP-20589",
+                "sqlilineNumber": "55",
+                "operator": "CG13",
+                "lineRef": "C13-55",
+                "Name": "Le Douard RD 568",
+                "Longitude": "5.24046700",
+                "Latitude": "43.36602800"
+            },
+            {
+                "id": "MAMP-21875",
+                "sqlilineNumber": "55",
+                "operator": "CG13",
+                "lineRef": "C13-55",
+                "Name": "Mairie",
+                "Longitude": "5.20638000",
+                "Latitude": "43.35730200"
+            },
+            {
+                "id": "MAMP-20525",
+                "sqlilineNumber": "55",
+                "operator": "CG13",
+                "lineRef": "C13-55",
+                "Name": "Ensuès Côte Bleue",
+                "Longitude": "5.19966300",
+                "Latitude": "43.35603300"
+            },
+            {
+                "id": "MAMP-21108",
+                "sqlilineNumber": "55",
+                "operator": "CG13",
+                "lineRef": "C13-55",
+                "Name": "Val de Ricard",
+                "Longitude": "5.18870300",
+                "Latitude": "43.35523700"
+            },
+            {
+                "id": "MAMP-22160",
+                "sqlilineNumber": "55",
+                "operator": "CG13",
+                "lineRef": "C13-55",
+                "Name": "Le Rouet",
+                "Longitude": "5.17653600",
+                "Latitude": "43.33651700"
+            },
+            {
+                "id": "MAMP-21430",
+                "sqlilineNumber": "55",
+                "operator": "CG13",
+                "lineRef": "C13-55",
+                "Name": "Général Leclerc",
+                "Longitude": "5.16350900",
+                "Latitude": "43.33234100"
+            },
+            {
+                "id": "MAMP-20073",
+                "sqlilineNumber": "55",
+                "operator": "CG13",
+                "lineRef": "C13-55",
+                "Name": "Gare SNCF",
+                "Longitude": "5.15384200",
+                "Latitude": "43.33644700"
+            },
+            {
+                "id": "MAMP-23782",
+                "sqlilineNumber": "55",
+                "operator": "CG13",
+                "lineRef": "C13-55",
+                "Name": "Jean Jaurès",
+                "Longitude": "5.15218900",
+                "Latitude": "43.33134900"
+            },
+            {
+                "id": "MAMP-20074",
+                "sqlilineNumber": "55",
+                "operator": "CG13",
+                "lineRef": "C13-55",
+                "Name": "La Fontaine",
+                "Longitude": "5.14531100",
+                "Latitude": "43.32882700"
+            },
+            {
+                "id": "MAMP-22952",
+                "sqlilineNumber": "55",
+                "operator": "CG13",
+                "lineRef": "C13-55",
+                "Name": "La Tuilière",
+                "Longitude": "5.14149900",
+                "Latitude": "43.32988300"
+            },
+            {
+                "id": "MAMP-21323",
+                "sqlilineNumber": "55",
+                "operator": "CG13",
+                "lineRef": "C13-55",
+                "Name": "Le Camping",
+                "Longitude": "5.13588600",
+                "Latitude": "43.33002800"
+            },
+            {
+                "id": "MAMP-23733",
+                "sqlilineNumber": "55",
+                "operator": "CG13",
+                "lineRef": "C13-55",
+                "Name": "Les Coquillages",
+                "Longitude": "5.12915700",
+                "Latitude": "43.32926900"
+            },
+            {
+                "id": "MAMP-23030",
+                "sqlilineNumber": "55",
+                "operator": "CG13",
+                "lineRef": "C13-55",
+                "Name": "Marcel Bodelle",
+                "Longitude": "5.12404600",
+                "Latitude": "43.33202100"
+            },
+            {
+                "id": "MAMP-20536",
+                "sqlilineNumber": "55",
+                "operator": "CG13",
+                "lineRef": "C13-55",
+                "Name": "Parc de Loisirs",
+                "Longitude": "5.11904200",
+                "Latitude": "43.33129100"
+            },
+            {
+                "id": "MAMP-21178",
+                "sqlilineNumber": "55",
+                "operator": "CG13",
+                "lineRef": "C13-55",
+                "Name": "Charles Roux / Gare SNCF",
+                "Longitude": "5.11144800",
+                "Latitude": "43.33110800"
+            },
+            {
+                "id": "MAMP-24339",
+                "sqlilineNumber": "55",
+                "operator": "CG13",
+                "lineRef": "C13-55",
+                "Name": "Le Brulot / Gare",
+                "Longitude": "5.10849200",
+                "Latitude": "43.33357600"
+            },
+            {
+                "id": "MAMP-22597",
+                "sqlilineNumber": "55",
+                "operator": "CG13",
+                "lineRef": "C13-55",
+                "Name": "Matraja / Les Terrasses",
+                "Longitude": "5.10143000",
+                "Latitude": "43.33946100"
+            },
+            {
+                "id": "MAMP-23291",
+                "sqlilineNumber": "55",
+                "operator": "CG13",
+                "lineRef": "C13-55",
+                "Name": "St Julien Cimetière",
+                "Longitude": "5.09850200",
+                "Latitude": "43.36248500"
+            },
+            {
+                "id": "MAMP-23855",
+                "sqlilineNumber": "55",
+                "operator": "CG13",
+                "lineRef": "C13-55",
+                "Name": "Clos St Michel",
+                "Longitude": "5.09258000",
+                "Latitude": "43.36395000"
+            },
+            {
+                "id": "MAMP-20767",
+                "sqlilineNumber": "55",
+                "operator": "CG13",
+                "lineRef": "C13-55",
+                "Name": "St Julien Coopérative",
+                "Longitude": "5.08770200",
+                "Latitude": "43.36721400"
+            },
+            {
+                "id": "MAMP-24843",
+                "sqlilineNumber": "55",
+                "operator": "CG13",
+                "lineRef": "C13-55",
+                "Name": "Saint Julien Cormes",
+                "Longitude": "5.08077800",
+                "Latitude": "43.37042800"
+            },
+            {
+                "id": "MAMP-20848",
+                "sqlilineNumber": "55",
+                "operator": "CG13",
+                "lineRef": "C13-55",
+                "Name": "La Croix d'Estrine",
+                "Longitude": "5.06794400",
+                "Latitude": "43.37356000"
+            },
+            {
+                "id": "MAMP-25023",
+                "sqlilineNumber": "55",
+                "operator": "CG13",
+                "lineRef": "C13-55",
+                "Name": "Les Ventrons",
+                "Longitude": "5.06483600",
+                "Latitude": "43.37680300"
+            },
+            {
+                "id": "MAMP-23016",
+                "sqlilineNumber": "55",
+                "operator": "CG13",
+                "lineRef": "C13-55",
+                "Name": "Route St Pierre",
+                "Longitude": "5.05251200",
+                "Latitude": "43.39550400"
+            },
+            {
+                "id": "MAMP-25008",
+                "sqlilineNumber": "55",
+                "operator": "CG13",
+                "lineRef": "C13-55",
+                "Name": "Emile Zola",
+                "Longitude": "5.05950400",
+                "Latitude": "43.39949800"
+            },
+            {
+                "id": "MAMP-25868",
+                "sqlilineNumber": "55",
+                "operator": "CG13",
+                "lineRef": "C13-55",
+                "Name": "Général Leclerc",
+                "Longitude": "5.05752100",
+                "Latitude": "43.40292000"
+            },
+            {
+                "id": "MAMP-26618",
+                "sqlilineNumber": "55",
+                "operator": "CG13",
+                "lineRef": "C13-55",
+                "Name": "L'Ile",
+                "Longitude": "5.05609500",
+                "Latitude": "43.40603900"
+            },
+            {
+                "id": "MAMP-24168",
+                "sqlilineNumber": "55",
+                "operator": "CG13",
+                "lineRef": "C13-55",
+                "Name": "Paradis",
+                "Longitude": "5.05309200",
+                "Latitude": "43.40805500"
+            },
+            {
+                "id": "MAMP-21754",
+                "sqlilineNumber": "55",
+                "operator": "CG13",
+                "lineRef": "C13-55",
+                "Name": "Coopérative",
+                "Longitude": "5.04904000",
+                "Latitude": "43.40916700"
+            },
+            {
+                "id": "MAMP-20010",
+                "sqlilineNumber": "55",
+                "operator": "CG13",
+                "lineRef": "C13-55",
+                "Name": "Lycée Paul Langevin",
+                "Longitude": "5.05780900",
+                "Latitude": "43.42119100"
+            },
+            {
+                "id": "MAMP-23294",
+                "sqlilineNumber": "55",
+                "operator": "CG13",
+                "lineRef": "C13-55",
+                "Name": "Lycée Brise Lames",
+                "Longitude": "5.04004300",
+                "Latitude": "43.41784200"
+            },
+            {
+                "id": "MAMP-20047",
+                "sqlilineNumber": "55",
+                "operator": "CG13",
+                "lineRef": "C13-55",
+                "Name": "Lycée Jean Lurçat",
+                "Longitude": "5.03687700",
+                "Latitude": "43.41781600"
+            },
+            {
+                "id": "MAMP-33959",
+                "sqlilineNumber": "55",
+                "operator": "CG13",
+                "lineRef": "C13-55",
+                "Name": "Pôle d'Echange",
+                "Longitude": "5.04575900",
+                "Latitude": "43.40626600"
+            }
+        ],
+        "C13-55:1": [
+            {
+                "id": "MAMP-20010",
+                "sqlilineNumber": "55",
+                "operator": "CG13",
+                "lineRef": "C13-55",
+                "Name": "Lycée Paul Langevin",
+                "Longitude": "5.05780900",
+                "Latitude": "43.42119100"
+            },
+            {
+                "id": "MAMP-23294",
+                "sqlilineNumber": "55",
+                "operator": "CG13",
+                "lineRef": "C13-55",
+                "Name": "Lycée Brise Lames",
+                "Longitude": "5.04004300",
+                "Latitude": "43.41784200"
+            },
+            {
+                "id": "MAMP-20047",
+                "sqlilineNumber": "55",
+                "operator": "CG13",
+                "lineRef": "C13-55",
+                "Name": "Lycée Jean Lurçat",
+                "Longitude": "5.03687700",
+                "Latitude": "43.41781600"
+            },
+            {
+                "id": "MAMP-33959",
+                "sqlilineNumber": "55",
+                "operator": "CG13",
+                "lineRef": "C13-55",
+                "Name": "Pôle d'Echange",
+                "Longitude": "5.04575900",
+                "Latitude": "43.40626600"
+            },
+            {
+                "id": "MAMP-25024",
+                "sqlilineNumber": "55",
+                "operator": "CG13",
+                "lineRef": "C13-55",
+                "Name": "Girondins",
+                "Longitude": "5.05453200",
+                "Latitude": "43.40748800"
+            },
+            {
+                "id": "MAMP-23293",
+                "sqlilineNumber": "55",
+                "operator": "CG13",
+                "lineRef": "C13-55",
+                "Name": "Eglise de Jonquières",
+                "Longitude": "5.05618400",
+                "Latitude": "43.40371800"
+            },
+            {
+                "id": "MAMP-22636",
+                "sqlilineNumber": "55",
+                "operator": "CG13",
+                "lineRef": "C13-55",
+                "Name": "L Degut",
+                "Longitude": "5.05052200",
+                "Latitude": "43.40317600"
+            },
+            {
+                "id": "MAMP-21385",
+                "sqlilineNumber": "55",
+                "operator": "CG13",
+                "lineRef": "C13-55",
+                "Name": "Font Sarade",
+                "Longitude": "5.04758500",
+                "Latitude": "43.39921000"
+            },
+            {
+                "id": "MAMP-20049",
+                "sqlilineNumber": "55",
+                "operator": "CG13",
+                "lineRef": "C13-55",
+                "Name": "Route St Pierre",
+                "Longitude": "5.05229100",
+                "Latitude": "43.39546800"
+            },
+            {
+                "id": "MAMP-23015",
+                "sqlilineNumber": "55",
+                "operator": "CG13",
+                "lineRef": "C13-55",
+                "Name": "Les Ventrons",
+                "Longitude": "5.06347600",
+                "Latitude": "43.37926300"
+            },
+            {
+                "id": "MAMP-25453",
+                "sqlilineNumber": "55",
+                "operator": "CG13",
+                "lineRef": "C13-55",
+                "Name": "La Croix d'Estrine",
+                "Longitude": "5.06790400",
+                "Latitude": "43.37339900"
+            },
+            {
+                "id": "MAMP-25404",
+                "sqlilineNumber": "55",
+                "operator": "CG13",
+                "lineRef": "C13-55",
+                "Name": "Saint Julien Cormes",
+                "Longitude": "5.08088900",
+                "Latitude": "43.37016400"
+            },
+            {
+                "id": "MAMP-24591",
+                "sqlilineNumber": "55",
+                "operator": "CG13",
+                "lineRef": "C13-55",
+                "Name": "St Julien Coopérative",
+                "Longitude": "5.08713300",
+                "Latitude": "43.36735300"
+            },
+            {
+                "id": "MAMP-21691",
+                "sqlilineNumber": "55",
+                "operator": "CG13",
+                "lineRef": "C13-55",
+                "Name": "Clos St Michel",
+                "Longitude": "5.09234400",
+                "Latitude": "43.36389000"
+            },
+            {
+                "id": "MAMP-22107",
+                "sqlilineNumber": "55",
+                "operator": "CG13",
+                "lineRef": "C13-55",
+                "Name": "Maison Pour Tous",
+                "Longitude": "5.09605400",
+                "Latitude": "43.36284400"
+            },
+            {
+                "id": "MAMP-22597",
+                "sqlilineNumber": "55",
+                "operator": "CG13",
+                "lineRef": "C13-55",
+                "Name": "Matraja / Les Terrasses",
+                "Longitude": "5.10143000",
+                "Latitude": "43.33946100"
+            },
+            {
+                "id": "MAMP-23375",
+                "sqlilineNumber": "55",
+                "operator": "CG13",
+                "lineRef": "C13-55",
+                "Name": "Charles Roux / Gare SNCF",
+                "Longitude": "5.10989000",
+                "Latitude": "43.33104700"
+            },
+            {
+                "id": "MAMP-20118",
+                "sqlilineNumber": "55",
+                "operator": "CG13",
+                "lineRef": "C13-55",
+                "Name": "Rive d'Or",
+                "Longitude": "5.11356800",
+                "Latitude": "43.33058200"
+            },
+            {
+                "id": "MAMP-25867",
+                "sqlilineNumber": "55",
+                "operator": "CG13",
+                "lineRef": "C13-55",
+                "Name": "Parc de Loisirs",
+                "Longitude": "5.11785000",
+                "Latitude": "43.33113600"
+            },
+            {
+                "id": "MAMP-21777",
+                "sqlilineNumber": "55",
+                "operator": "CG13",
+                "lineRef": "C13-55",
+                "Name": "Marcel Bodelle",
+                "Longitude": "5.12410000",
+                "Latitude": "43.33192600"
+            },
+            {
+                "id": "MAMP-20849",
+                "sqlilineNumber": "55",
+                "operator": "CG13",
+                "lineRef": "C13-55",
+                "Name": "Les Coquillages",
+                "Longitude": "5.12891600",
+                "Latitude": "43.32923800"
+            },
+            {
+                "id": "MAMP-23318",
+                "sqlilineNumber": "55",
+                "operator": "CG13",
+                "lineRef": "C13-55",
+                "Name": "Le Camping",
+                "Longitude": "5.13602500",
+                "Latitude": "43.32993900"
+            },
+            {
+                "id": "MAMP-25932",
+                "sqlilineNumber": "55",
+                "operator": "CG13",
+                "lineRef": "C13-55",
+                "Name": "La Tuilière",
+                "Longitude": "5.14136400",
+                "Latitude": "43.32984200"
+            },
+            {
+                "id": "MAMP-25501",
+                "sqlilineNumber": "55",
+                "operator": "CG13",
+                "lineRef": "C13-55",
+                "Name": "La Fontaine",
+                "Longitude": "5.14593300",
+                "Latitude": "43.32865500"
+            },
+            {
+                "id": "MAMP-21720",
+                "sqlilineNumber": "55",
+                "operator": "CG13",
+                "lineRef": "C13-55",
+                "Name": "Don Camillo",
+                "Longitude": "5.15003500",
+                "Latitude": "43.32807500"
+            },
+            {
+                "id": "MAMP-23317",
+                "sqlilineNumber": "55",
+                "operator": "CG13",
+                "lineRef": "C13-55",
+                "Name": "Jean Jaurès",
+                "Longitude": "5.15230300",
+                "Latitude": "43.33138800"
+            },
+            {
+                "id": "MAMP-24616",
+                "sqlilineNumber": "55",
+                "operator": "CG13",
+                "lineRef": "C13-55",
+                "Name": "Gare SNCF",
+                "Longitude": "5.15390200",
+                "Latitude": "43.33627400"
+            },
+            {
+                "id": "MAMP-25212",
+                "sqlilineNumber": "55",
+                "operator": "CG13",
+                "lineRef": "C13-55",
+                "Name": "La Crèche",
+                "Longitude": "5.15804100",
+                "Latitude": "43.33706500"
+            },
+            {
+                "id": "MAMP-23485",
+                "sqlilineNumber": "55",
+                "operator": "CG13",
+                "lineRef": "C13-55",
+                "Name": "Les Restanques",
+                "Longitude": "5.15846100",
+                "Latitude": "43.33448800"
+            },
+            {
+                "id": "MAMP-20204",
+                "sqlilineNumber": "55",
+                "operator": "CG13",
+                "lineRef": "C13-55",
+                "Name": "Général Leclerc",
+                "Longitude": "5.16372700",
+                "Latitude": "43.33232500"
+            },
+            {
+                "id": "MAMP-20904",
+                "sqlilineNumber": "55",
+                "operator": "CG13",
+                "lineRef": "C13-55",
+                "Name": "Le Rouet",
+                "Longitude": "5.17638200",
+                "Latitude": "43.33614100"
+            },
+            {
+                "id": "MAMP-22362",
+                "sqlilineNumber": "55",
+                "operator": "CG13",
+                "lineRef": "C13-55",
+                "Name": "Val de Ricard",
+                "Longitude": "5.18807700",
+                "Latitude": "43.35510600"
+            },
+            {
+                "id": "MAMP-22551",
+                "sqlilineNumber": "55",
+                "operator": "CG13",
+                "lineRef": "C13-55",
+                "Name": "Ensuès Côte Bleue",
+                "Longitude": "5.20034100",
+                "Latitude": "43.35607400"
+            },
+            {
+                "id": "MAMP-23050",
+                "sqlilineNumber": "55",
+                "operator": "CG13",
+                "lineRef": "C13-55",
+                "Name": "Mairie",
+                "Longitude": "5.20620000",
+                "Latitude": "43.35714300"
+            },
+            {
+                "id": "MAMP-24241",
+                "sqlilineNumber": "55",
+                "operator": "CG13",
+                "lineRef": "C13-55",
+                "Name": "Le Douard RD 568",
+                "Longitude": "5.24082400",
+                "Latitude": "43.36613200"
+            },
+            {
+                "id": "MAMP-20699",
+                "sqlilineNumber": "55",
+                "operator": "CG13",
+                "lineRef": "C13-55",
+                "Name": "Les Acacias",
+                "Longitude": "5.21989800",
+                "Latitude": "43.38567500"
+            },
+            {
+                "id": "MAMP-21836",
+                "sqlilineNumber": "55",
+                "operator": "CG13",
+                "lineRef": "C13-55",
+                "Name": "Pré Fleuri",
+                "Longitude": "5.22327800",
+                "Latitude": "43.38677200"
+            },
+            {
+                "id": "MAMP-22293",
+                "sqlilineNumber": "55",
+                "operator": "CG13",
+                "lineRef": "C13-55",
+                "Name": "Poussaraque",
+                "Longitude": "5.22946900",
+                "Latitude": "43.38774600"
+            },
+            {
+                "id": "MAMP-22963",
+                "sqlilineNumber": "55",
+                "operator": "CG13",
+                "lineRef": "C13-55",
+                "Name": "Jean de Florette",
+                "Longitude": "5.23202100",
+                "Latitude": "43.39055800"
+            },
+            {
+                "id": "MAMP-22619",
+                "sqlilineNumber": "55",
+                "operator": "CG13",
+                "lineRef": "C13-55",
+                "Name": "La Rose",
+                "Longitude": "5.23156000",
+                "Latitude": "43.39366800"
+            },
+            {
+                "id": "MAMP-25169",
+                "sqlilineNumber": "55",
+                "operator": "CG13",
+                "lineRef": "C13-55",
+                "Name": "Lèbre St Louis",
+                "Longitude": "5.23048700",
+                "Latitude": "43.39525000"
+            },
+            {
+                "id": "MAMP-21903",
+                "sqlilineNumber": "55",
+                "operator": "CG13",
+                "lineRef": "C13-55",
+                "Name": "LE TUNNEL",
+                "Longitude": "5.22618900",
+                "Latitude": "43.40022800"
+            },
+            {
+                "id": "MAMP-29155",
+                "sqlilineNumber": "55",
+                "operator": "CG13",
+                "lineRef": "C13-55",
+                "Name": "Collège E. Mirabeau",
+                "Longitude": "5.22330900",
+                "Latitude": "43.40468300"
+            },
+            {
+                "id": "MAMP-21427",
+                "sqlilineNumber": "55",
+                "operator": "CG13",
+                "lineRef": "C13-55",
+                "Name": "La Chaume",
+                "Longitude": "5.22116700",
+                "Latitude": "43.40816700"
+            },
+            {
+                "id": "MAMP-21498",
+                "sqlilineNumber": "55",
+                "operator": "CG13",
+                "lineRef": "C13-55",
+                "Name": "Sainte Anne",
+                "Longitude": "5.21862600",
+                "Latitude": "43.41222800"
+            },
+            {
+                "id": "MAMP-22345",
+                "sqlilineNumber": "55",
+                "operator": "CG13",
+                "lineRef": "C13-55",
+                "Name": "Mistral",
+                "Longitude": "5.21700000",
+                "Latitude": "43.41416700"
+            },
+            {
+                "id": "MAMP-26455",
+                "sqlilineNumber": "55",
+                "operator": "CG13",
+                "lineRef": "C13-55",
+                "Name": "Parc Camoin Quai 2",
+                "Longitude": "5.21966700",
+                "Latitude": "43.41766700"
+            }
+        ]
+    }
+}

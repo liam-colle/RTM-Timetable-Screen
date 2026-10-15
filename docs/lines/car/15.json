@@ -1,0 +1,491 @@
+{
+    "id": "C13-15",
+    "name": "15",
+    "directionIds": {
+        "Aix-en-Provence": "C13-15:0",
+        "Berre-l'Étang / Rognac": "C13-15:1"
+    },
+    "stationIds": {
+        "C13-15:0": [
+            {
+                "id": "MAMP-25129",
+                "sqlilineNumber": "15",
+                "operator": "CG13",
+                "lineRef": "C13-15",
+                "Name": "Drignon",
+                "Longitude": "5.16570390",
+                "Latitude": "43.47362104"
+            },
+            {
+                "id": "MAMP-25222",
+                "sqlilineNumber": "15",
+                "operator": "CG13",
+                "lineRef": "C13-15",
+                "Name": "Frédéric Mistral",
+                "Longitude": "5.16880450",
+                "Latitude": "43.47375004"
+            },
+            {
+                "id": "MAMP-24303",
+                "sqlilineNumber": "15",
+                "operator": "CG13",
+                "lineRef": "C13-15",
+                "Name": "Jean Monnet",
+                "Longitude": "5.16850950",
+                "Latitude": "43.47642804"
+            },
+            {
+                "id": "MAMP-24721",
+                "sqlilineNumber": "15",
+                "operator": "CG13",
+                "lineRef": "C13-15",
+                "Name": "Jardins de Cabrianne",
+                "Longitude": "5.16951260",
+                "Latitude": "43.47758404"
+            },
+            {
+                "id": "MAMP-23431",
+                "sqlilineNumber": "15",
+                "operator": "CG13",
+                "lineRef": "C13-15",
+                "Name": "08 Mai 1945",
+                "Longitude": "5.17280100",
+                "Latitude": "43.47942504"
+            },
+            {
+                "id": "MAMP-25606",
+                "sqlilineNumber": "15",
+                "operator": "CG13",
+                "lineRef": "C13-15",
+                "Name": "Parc Henri Fabre",
+                "Longitude": "5.17664190",
+                "Latitude": "43.48139904"
+            },
+            {
+                "id": "MAMP-26450",
+                "sqlilineNumber": "15",
+                "operator": "CG13",
+                "lineRef": "C13-15",
+                "Name": "Mouettes",
+                "Longitude": "5.18005370",
+                "Latitude": "43.48321204"
+            },
+            {
+                "id": "MAMP-20202",
+                "sqlilineNumber": "15",
+                "operator": "CG13",
+                "lineRef": "C13-15",
+                "Name": "Clinique",
+                "Longitude": "5.22087160",
+                "Latitude": "43.48850604"
+            },
+            {
+                "id": "MAMP-21042",
+                "sqlilineNumber": "15",
+                "operator": "CG13",
+                "lineRef": "C13-15",
+                "Name": "Rockenhausen",
+                "Longitude": "5.22323190",
+                "Latitude": "43.48576204"
+            },
+            {
+                "id": "MAMP-22643",
+                "sqlilineNumber": "15",
+                "operator": "CG13",
+                "lineRef": "C13-15",
+                "Name": "Gare Rockenhausen",
+                "Longitude": "5.22863920",
+                "Latitude": "43.48644704"
+            },
+            {
+                "id": "MAMP-25126",
+                "sqlilineNumber": "15",
+                "operator": "CG13",
+                "lineRef": "C13-15",
+                "Name": "Gare",
+                "Longitude": "5.23036660",
+                "Latitude": "43.48710804"
+            },
+            {
+                "id": "MAMP-26056",
+                "sqlilineNumber": "15",
+                "operator": "CG13",
+                "lineRef": "C13-15",
+                "Name": "Centre Ville",
+                "Longitude": "5.22999110",
+                "Latitude": "43.48835804"
+            },
+            {
+                "id": "MAMP-21028",
+                "sqlilineNumber": "15",
+                "operator": "CG13",
+                "lineRef": "C13-15",
+                "Name": "Charles de Gaulle",
+                "Longitude": "5.22976040",
+                "Latitude": "43.49112504"
+            },
+            {
+                "id": "MAMP-21806",
+                "sqlilineNumber": "15",
+                "operator": "CG13",
+                "lineRef": "C13-15",
+                "Name": "Cimetière",
+                "Longitude": "5.22971210",
+                "Latitude": "43.49349104"
+            },
+            {
+                "id": "MAMP-21861",
+                "sqlilineNumber": "15",
+                "operator": "CG13",
+                "lineRef": "C13-15",
+                "Name": "Grande Bastide CD20",
+                "Longitude": "5.22148310",
+                "Latitude": "43.50473304"
+            },
+            {
+                "id": "MAMP-22640",
+                "sqlilineNumber": "15",
+                "operator": "CG13",
+                "lineRef": "C13-15",
+                "Name": "Gerbine CD 20",
+                "Longitude": "5.22540990",
+                "Latitude": "43.50951504"
+            },
+            {
+                "id": "MAMP-22681",
+                "sqlilineNumber": "15",
+                "operator": "CG13",
+                "lineRef": "C13-15",
+                "Name": "Verdière",
+                "Longitude": "5.23204570",
+                "Latitude": "43.51829104"
+            },
+            {
+                "id": "MAMP-23404",
+                "sqlilineNumber": "15",
+                "operator": "CG13",
+                "lineRef": "C13-15",
+                "Name": "Verane",
+                "Longitude": "5.23686290",
+                "Latitude": "43.52832704"
+            },
+            {
+                "id": "MAMP-21840",
+                "sqlilineNumber": "15",
+                "operator": "CG13",
+                "lineRef": "C13-15",
+                "Name": "Halte Routière",
+                "Longitude": "5.24966780",
+                "Latitude": "43.53337504"
+            },
+            {
+                "id": "MAMP-20192",
+                "sqlilineNumber": "15",
+                "operator": "CG13",
+                "lineRef": "C13-15",
+                "Name": "4 Tours",
+                "Longitude": "5.25380910",
+                "Latitude": "43.53239904"
+            },
+            {
+                "id": "MAMP-21429",
+                "sqlilineNumber": "15",
+                "operator": "CG13",
+                "lineRef": "C13-15",
+                "Name": "Restoubles",
+                "Longitude": "5.25574560",
+                "Latitude": "43.53019004"
+            },
+            {
+                "id": "MAMP-25592",
+                "sqlilineNumber": "15",
+                "operator": "CG13",
+                "lineRef": "C13-15",
+                "Name": "Centre Commercial",
+                "Longitude": "5.25710280",
+                "Latitude": "43.52829904"
+            },
+            {
+                "id": "MAMP-22682",
+                "sqlilineNumber": "15",
+                "operator": "CG13",
+                "lineRef": "C13-15",
+                "Name": "Chemin du Levun",
+                "Longitude": "5.25588510",
+                "Latitude": "43.53472804"
+            },
+            {
+                "id": "MAMP-20918",
+                "sqlilineNumber": "15",
+                "operator": "CG13",
+                "lineRef": "C13-15",
+                "Name": "Moulin du Pont",
+                "Longitude": "5.25907160",
+                "Latitude": "43.54303804"
+            },
+            {
+                "id": "MAMP-21667",
+                "sqlilineNumber": "15",
+                "operator": "CG13",
+                "lineRef": "C13-15",
+                "Name": "La Fourane",
+                "Longitude": "5.44473950",
+                "Latitude": "43.51338604"
+            },
+            {
+                "id": "MAMP-26380",
+                "sqlilineNumber": "15",
+                "operator": "CG13",
+                "lineRef": "C13-15",
+                "Name": "Fenouilleres",
+                "Longitude": "5.44835510",
+                "Latitude": "43.51350204"
+            },
+            {
+                "id": "MAMP-25918",
+                "sqlilineNumber": "15",
+                "operator": "CG13",
+                "lineRef": "C13-15",
+                "Name": "P+R Krypton",
+                "Longitude": "5.44876400",
+                "Latitude": "43.51144700"
+            }
+        ],
+        "C13-15:1": [
+            {
+                "id": "MAMP-25918",
+                "sqlilineNumber": "15",
+                "operator": "CG13",
+                "lineRef": "C13-15",
+                "Name": "P+R Krypton",
+                "Longitude": "5.44876400",
+                "Latitude": "43.51144700"
+            },
+            {
+                "id": "MAMP-24138",
+                "sqlilineNumber": "15",
+                "operator": "CG13",
+                "lineRef": "C13-15",
+                "Name": "Fenouilleres",
+                "Longitude": "5.44825320",
+                "Latitude": "43.51354504"
+            },
+            {
+                "id": "MAMP-21351",
+                "sqlilineNumber": "15",
+                "operator": "CG13",
+                "lineRef": "C13-15",
+                "Name": "La Fourane",
+                "Longitude": "5.44468580",
+                "Latitude": "43.51343204"
+            },
+            {
+                "id": "MAMP-29971",
+                "sqlilineNumber": "15",
+                "operator": "CG13",
+                "lineRef": "C13-15",
+                "Name": "Moulin du Pont",
+                "Longitude": "5.25913060",
+                "Latitude": "43.54205904"
+            },
+            {
+                "id": "MAMP-24719",
+                "sqlilineNumber": "15",
+                "operator": "CG13",
+                "lineRef": "C13-15",
+                "Name": "Chemin du Levun",
+                "Longitude": "5.25586900",
+                "Latitude": "43.53487204"
+            },
+            {
+                "id": "MAMP-20192",
+                "sqlilineNumber": "15",
+                "operator": "CG13",
+                "lineRef": "C13-15",
+                "Name": "4 Tours",
+                "Longitude": "5.25380910",
+                "Latitude": "43.53239904"
+            },
+            {
+                "id": "MAMP-21429",
+                "sqlilineNumber": "15",
+                "operator": "CG13",
+                "lineRef": "C13-15",
+                "Name": "Restoubles",
+                "Longitude": "5.25574560",
+                "Latitude": "43.53019004"
+            },
+            {
+                "id": "MAMP-25592",
+                "sqlilineNumber": "15",
+                "operator": "CG13",
+                "lineRef": "C13-15",
+                "Name": "Centre Commercial",
+                "Longitude": "5.25710280",
+                "Latitude": "43.52829904"
+            },
+            {
+                "id": "MAMP-21428",
+                "sqlilineNumber": "15",
+                "operator": "CG13",
+                "lineRef": "C13-15",
+                "Name": "Bastide Bertin",
+                "Longitude": "5.24835880",
+                "Latitude": "43.53325004"
+            },
+            {
+                "id": "MAMP-24716",
+                "sqlilineNumber": "15",
+                "operator": "CG13",
+                "lineRef": "C13-15",
+                "Name": "Verane",
+                "Longitude": "5.23675560",
+                "Latitude": "43.52834204"
+            },
+            {
+                "id": "MAMP-22271",
+                "sqlilineNumber": "15",
+                "operator": "CG13",
+                "lineRef": "C13-15",
+                "Name": "Verdière",
+                "Longitude": "5.23187400",
+                "Latitude": "43.51830304"
+            },
+            {
+                "id": "MAMP-24740",
+                "sqlilineNumber": "15",
+                "operator": "CG13",
+                "lineRef": "C13-15",
+                "Name": "Gerbine CD 20",
+                "Longitude": "5.22493780",
+                "Latitude": "43.50888804"
+            },
+            {
+                "id": "MAMP-23123",
+                "sqlilineNumber": "15",
+                "operator": "CG13",
+                "lineRef": "C13-15",
+                "Name": "Grande Bastide CD20",
+                "Longitude": "5.22123100",
+                "Latitude": "43.50467504"
+            },
+            {
+                "id": "MAMP-20622",
+                "sqlilineNumber": "15",
+                "operator": "CG13",
+                "lineRef": "C13-15",
+                "Name": "Cimetière",
+                "Longitude": "5.22974430",
+                "Latitude": "43.49417604"
+            },
+            {
+                "id": "MAMP-22347",
+                "sqlilineNumber": "15",
+                "operator": "CG13",
+                "lineRef": "C13-15",
+                "Name": "Charles de Gaulle",
+                "Longitude": "5.22965850",
+                "Latitude": "43.49118704"
+            },
+            {
+                "id": "MAMP-23068",
+                "sqlilineNumber": "15",
+                "operator": "CG13",
+                "lineRef": "C13-15",
+                "Name": "Centre Ville",
+                "Longitude": "5.22985160",
+                "Latitude": "43.48871604"
+            },
+            {
+                "id": "MAMP-24713",
+                "sqlilineNumber": "15",
+                "operator": "CG13",
+                "lineRef": "C13-15",
+                "Name": "Gare",
+                "Longitude": "5.23037200",
+                "Latitude": "43.48668004"
+            },
+            {
+                "id": "MAMP-24741",
+                "sqlilineNumber": "15",
+                "operator": "CG13",
+                "lineRef": "C13-15",
+                "Name": "Gare Rockenhausen",
+                "Longitude": "5.22873580",
+                "Latitude": "43.48647804"
+            },
+            {
+                "id": "MAMP-22272",
+                "sqlilineNumber": "15",
+                "operator": "CG13",
+                "lineRef": "C13-15",
+                "Name": "Rockenhausen",
+                "Longitude": "5.22373080",
+                "Latitude": "43.48593304"
+            },
+            {
+                "id": "MAMP-23046",
+                "sqlilineNumber": "15",
+                "operator": "CG13",
+                "lineRef": "C13-15",
+                "Name": "Clinique",
+                "Longitude": "5.22148850",
+                "Latitude": "43.48779304"
+            },
+            {
+                "id": "MAMP-20150",
+                "sqlilineNumber": "15",
+                "operator": "CG13",
+                "lineRef": "C13-15",
+                "Name": "Mouettes",
+                "Longitude": "5.18021460",
+                "Latitude": "43.48336404"
+            },
+            {
+                "id": "MAMP-24330",
+                "sqlilineNumber": "15",
+                "operator": "CG13",
+                "lineRef": "C13-15",
+                "Name": "Parc Henri Fabre",
+                "Longitude": "5.17668490",
+                "Latitude": "43.48152704"
+            },
+            {
+                "id": "MAMP-25627",
+                "sqlilineNumber": "15",
+                "operator": "CG13",
+                "lineRef": "C13-15",
+                "Name": "08 Mai 1945",
+                "Longitude": "5.17301020",
+                "Latitude": "43.47957304"
+            },
+            {
+                "id": "MAMP-26090",
+                "sqlilineNumber": "15",
+                "operator": "CG13",
+                "lineRef": "C13-15",
+                "Name": "Jardins de Cabrianne",
+                "Longitude": "5.16942140",
+                "Latitude": "43.47757204"
+            },
+            {
+                "id": "MAMP-23044",
+                "sqlilineNumber": "15",
+                "operator": "CG13",
+                "lineRef": "C13-15",
+                "Name": "Place du Souvenir",
+                "Longitude": "5.16708250",
+                "Latitude": "43.47583204"
+            },
+            {
+                "id": "MAMP-25129",
+                "sqlilineNumber": "15",
+                "operator": "CG13",
+                "lineRef": "C13-15",
+                "Name": "Drignon",
+                "Longitude": "5.16570390",
+                "Latitude": "43.47362104"
+            }
+        ]
+    }
+}

@@ -1,0 +1,104 @@
+{
+    "id": "C13-C604",
+    "name": "C604",
+    "directionIds": {
+        "Marseille": "C13-C604:0",
+        "La Penne-sur-Huveaune": "C13-C604:1"
+    },
+    "stationIds": {
+        "C13-C604:0": [
+            {
+                "id": "MAMP-23617",
+                "sqlilineNumber": "C604",
+                "operator": "CG13",
+                "lineRef": "C13-C604",
+                "Name": "La Bourgade",
+                "Longitude": "5.52370500",
+                "Latitude": "43.28176200"
+            },
+            {
+                "id": "MAMP-24233",
+                "sqlilineNumber": "C604",
+                "operator": "CG13",
+                "lineRef": "C13-C604",
+                "Name": "La Poste",
+                "Longitude": "5.51877900",
+                "Latitude": "43.28123800"
+            },
+            {
+                "id": "MAMP-22645",
+                "sqlilineNumber": "C604",
+                "operator": "CG13",
+                "lineRef": "C13-C604",
+                "Name": "La Penne",
+                "Longitude": "5.51435400",
+                "Latitude": "43.28180100"
+            },
+            {
+                "id": "MAMP-20965",
+                "sqlilineNumber": "C604",
+                "operator": "CG13",
+                "lineRef": "C13-C604",
+                "Name": "Le Mouton",
+                "Longitude": "5.50910400",
+                "Latitude": "43.28222400"
+            },
+            {
+                "id": "MAMP-20045",
+                "sqlilineNumber": "C604",
+                "operator": "CG13",
+                "lineRef": "C13-C604",
+                "Name": "Collège Chât. Forbin",
+                "Longitude": "5.47147200",
+                "Latitude": "43.28587700"
+            }
+        ],
+        "C13-C604:1": [
+            {
+                "id": "MAMP-20045",
+                "sqlilineNumber": "C604",
+                "operator": "CG13",
+                "lineRef": "C13-C604",
+                "Name": "Collège Chât. Forbin",
+                "Longitude": "5.47147200",
+                "Latitude": "43.28587700"
+            },
+            {
+                "id": "MAMP-20660",
+                "sqlilineNumber": "C604",
+                "operator": "CG13",
+                "lineRef": "C13-C604",
+                "Name": "Le Mouton",
+                "Longitude": "5.50986300",
+                "Latitude": "43.28199500"
+            },
+            {
+                "id": "MAMP-22294",
+                "sqlilineNumber": "C604",
+                "operator": "CG13",
+                "lineRef": "C13-C604",
+                "Name": "La Penne",
+                "Longitude": "5.51444900",
+                "Latitude": "43.28169300"
+            },
+            {
+                "id": "MAMP-22240",
+                "sqlilineNumber": "C604",
+                "operator": "CG13",
+                "lineRef": "C13-C604",
+                "Name": "La Poste",
+                "Longitude": "5.51661800",
+                "Latitude": "43.28133200"
+            },
+            {
+                "id": "MAMP-24031",
+                "sqlilineNumber": "C604",
+                "operator": "CG13",
+                "lineRef": "C13-C604",
+                "Name": "La Bourgade",
+                "Longitude": "5.52455000",
+                "Latitude": "43.28177300"
+            }
+        ]
+    }
+}
