@@ -9,6 +9,7 @@
     "preview": "vite preview",
     "typecheck": "tsc --noEmit",
     "scrape": "node scripts/scrape-lines.mjs",
+    "scrape:cars": "node scripts/scrape-gtfs.mjs",
     "docs:lines": "node scripts/generate-lines-doc.mjs"
   },
   "dependencies": {
@@ -20,6 +21,7 @@
     "@types/react": "^18.3.12",
     "@types/react-dom": "^18.3.1",
     "@vitejs/plugin-react": "^4.3.4",
+    "fflate": "^0.8.3",
     "typescript": "^5.6.3",
     "vite": "^5.4.11"
   }
