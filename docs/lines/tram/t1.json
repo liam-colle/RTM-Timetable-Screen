@@ -1,0 +1,266 @@
+{
+    "id": "RTM:LNE:2",
+    "name": "T1",
+    "directionIds": {
+        "Les Caillols": "RTM:RTE:90002RTMA",
+        "Noailles": "RTM:RTE:90002RTMR"
+    },
+    "stationIds": {
+        "RTM:RTE:90002RTMA": [
+            {
+                "id": "RTM:PNT:00003459",
+                "sqlilineNumber": "T1",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:2",
+                "Name": "Noailles",
+                "Longitude": "5.381109",
+                "Latitude": "43.297158"
+            },
+            {
+                "id": "RTM:PNT:00003411",
+                "sqlilineNumber": "T1",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:2",
+                "Name": "Eugène Pierre",
+                "Longitude": "5.389714",
+                "Latitude": "43.295118"
+            },
+            {
+                "id": "RTM:PNT:00003413",
+                "sqlilineNumber": "T1",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:2",
+                "Name": "Camas",
+                "Longitude": "5.393169",
+                "Latitude": "43.295345"
+            },
+            {
+                "id": "RTM:PNT:00003414",
+                "sqlilineNumber": "T1",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:2",
+                "Name": "George",
+                "Longitude": "5.397439",
+                "Latitude": "43.295579"
+            },
+            {
+                "id": "RTM:PNT:00003415",
+                "sqlilineNumber": "T1",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:2",
+                "Name": "Jean Martin",
+                "Longitude": "5.401762",
+                "Latitude": "43.29584"
+            },
+            {
+                "id": "RTM:PNT:00003416",
+                "sqlilineNumber": "T1",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:2",
+                "Name": "La Blancarde",
+                "Longitude": "5.40622",
+                "Latitude": "43.295697"
+            },
+            {
+                "id": "RTM:PNT:00003229",
+                "sqlilineNumber": "T1",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:2",
+                "Name": "Sainte-Thérèse",
+                "Longitude": "5.409555",
+                "Latitude": "43.294141"
+            },
+            {
+                "id": "RTM:PNT:00003232",
+                "sqlilineNumber": "T1",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:2",
+                "Name": "Saint-Pierre",
+                "Longitude": "5.414219",
+                "Latitude": "43.291797"
+            },
+            {
+                "id": "RTM:PNT:00003233",
+                "sqlilineNumber": "T1",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:2",
+                "Name": "La Parette",
+                "Longitude": "5.419242",
+                "Latitude": "43.29497"
+            },
+            {
+                "id": "RTM:PNT:00003234",
+                "sqlilineNumber": "T1",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:2",
+                "Name": "La Boiseraie",
+                "Longitude": "5.422569",
+                "Latitude": "43.294904"
+            },
+            {
+                "id": "RTM:PNT:00003236",
+                "sqlilineNumber": "T1",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:2",
+                "Name": "Air Bel",
+                "Longitude": "5.429054",
+                "Latitude": "43.294265"
+            },
+            {
+                "id": "RTM:PNT:00003237",
+                "sqlilineNumber": "T1",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:2",
+                "Name": "La Grognarde",
+                "Longitude": "5.432329",
+                "Latitude": "43.294587"
+            },
+            {
+                "id": "RTM:PNT:00003238",
+                "sqlilineNumber": "T1",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:2",
+                "Name": "William Booth",
+                "Longitude": "5.436877",
+                "Latitude": "43.292623"
+            },
+            {
+                "id": "RTM:PNT:00003240",
+                "sqlilineNumber": "T1",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:2",
+                "Name": "Les Caillols",
+                "Longitude": "5.444134",
+                "Latitude": "43.294718"
+            }
+        ],
+        "RTM:RTE:90002RTMR": [
+            {
+                "id": "RTM:PNT:00003247",
+                "sqlilineNumber": "T1",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:2",
+                "Name": "Les Caillols",
+                "Longitude": "5.443973",
+                "Latitude": "43.294775"
+            },
+            {
+                "id": "RTM:PNT:00003249",
+                "sqlilineNumber": "T1",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:2",
+                "Name": "William Booth",
+                "Longitude": "5.436803",
+                "Latitude": "43.292699"
+            },
+            {
+                "id": "RTM:PNT:00003250",
+                "sqlilineNumber": "T1",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:2",
+                "Name": "La Grognarde",
+                "Longitude": "5.432284",
+                "Latitude": "43.294662"
+            },
+            {
+                "id": "RTM:PNT:00003251",
+                "sqlilineNumber": "T1",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:2",
+                "Name": "Air Bel",
+                "Longitude": "5.429061",
+                "Latitude": "43.294348"
+            },
+            {
+                "id": "RTM:PNT:00003253",
+                "sqlilineNumber": "T1",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:2",
+                "Name": "La Boiseraie",
+                "Longitude": "5.422531",
+                "Latitude": "43.294999"
+            },
+            {
+                "id": "RTM:PNT:00003254",
+                "sqlilineNumber": "T1",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:2",
+                "Name": "La Parette",
+                "Longitude": "5.419242",
+                "Latitude": "43.295052"
+            },
+            {
+                "id": "RTM:PNT:00003255",
+                "sqlilineNumber": "T1",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:2",
+                "Name": "Saint-Pierre",
+                "Longitude": "5.414205",
+                "Latitude": "43.291897"
+            },
+            {
+                "id": "RTM:PNT:00003258",
+                "sqlilineNumber": "T1",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:2",
+                "Name": "Sainte-Thérèse",
+                "Longitude": "5.409683",
+                "Latitude": "43.294093"
+            },
+            {
+                "id": "RTM:PNT:00003417",
+                "sqlilineNumber": "T1",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:2",
+                "Name": "La Blancarde",
+                "Longitude": "5.406303",
+                "Latitude": "43.29578"
+            },
+            {
+                "id": "RTM:PNT:00003419",
+                "sqlilineNumber": "T1",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:2",
+                "Name": "Jean Martin",
+                "Longitude": "5.401652",
+                "Latitude": "43.295964"
+            },
+            {
+                "id": "RTM:PNT:00003420",
+                "sqlilineNumber": "T1",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:2",
+                "Name": "George",
+                "Longitude": "5.397289",
+                "Latitude": "43.295689"
+            },
+            {
+                "id": "RTM:PNT:00003421",
+                "sqlilineNumber": "T1",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:2",
+                "Name": "Camas",
+                "Longitude": "5.393121",
+                "Latitude": "43.295463"
+            },
+            {
+                "id": "RTM:PNT:00003464",
+                "sqlilineNumber": "T1",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:2",
+                "Name": "Eugène Pierre",
+                "Longitude": "5.38959",
+                "Latitude": "43.29525"
+            },
+            {
+                "id": "RTM:PNT:00003459",
+                "sqlilineNumber": "T1",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:2",
+                "Name": "Noailles",
+                "Longitude": "5.381109",
+                "Latitude": "43.297158"
+            }
+        ]
+    }
+}

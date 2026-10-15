@@ -1,0 +1,284 @@
+{
+    "id": "RTM:LNE:47",
+    "name": "T2",
+    "directionIds": {
+        "La Blancarde": "RTM:RTE:900047RTMA",
+        "Arenc Euroméditerranée": "RTM:RTE:900047RTMR"
+    },
+    "stationIds": {
+        "RTM:RTE:900047RTMA": [
+            {
+                "id": "RTM:PNT:00003554",
+                "sqlilineNumber": "T2",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:47",
+                "Name": "Arenc Euroméditerranée",
+                "Longitude": "5.368079",
+                "Latitude": "43.313317"
+            },
+            {
+                "id": "RTM:PNT:00003206",
+                "sqlilineNumber": "T2",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:47",
+                "Name": "Euroméditerranée Le Silo",
+                "Longitude": "5.368107",
+                "Latitude": "43.30871"
+            },
+            {
+                "id": "RTM:PNT:00003209",
+                "sqlilineNumber": "T2",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:47",
+                "Name": "Joliette",
+                "Longitude": "5.367157",
+                "Latitude": "43.305473"
+            },
+            {
+                "id": "RTM:PNT:00003210",
+                "sqlilineNumber": "T2",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:47",
+                "Name": "République Dames",
+                "Longitude": "5.369293",
+                "Latitude": "43.302172"
+            },
+            {
+                "id": "RTM:PNT:00003211",
+                "sqlilineNumber": "T2",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:47",
+                "Name": "Sadi Carnot",
+                "Longitude": "5.371209",
+                "Latitude": "43.299863"
+            },
+            {
+                "id": "RTM:PNT:00003213",
+                "sqlilineNumber": "T2",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:47",
+                "Name": "Belsunce Alcazar",
+                "Longitude": "5.3766",
+                "Latitude": "43.298488"
+            },
+            {
+                "id": "RTM:PNT:00004119",
+                "sqlilineNumber": "T2",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:47",
+                "Name": "Canebière Capucins",
+                "Longitude": "5.378976",
+                "Latitude": "43.296743"
+            },
+            {
+                "id": "RTM:PNT:00003217",
+                "sqlilineNumber": "T2",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:47",
+                "Name": "Noailles",
+                "Longitude": "5.381626",
+                "Latitude": "43.29771"
+            },
+            {
+                "id": "RTM:PNT:00003218",
+                "sqlilineNumber": "T2",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:47",
+                "Name": "Réformés Canebière",
+                "Longitude": "5.385559",
+                "Latitude": "43.300018"
+            },
+            {
+                "id": "RTM:PNT:00003220",
+                "sqlilineNumber": "T2",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:47",
+                "Name": "Longchamp National",
+                "Longitude": "5.388689",
+                "Latitude": "43.301506"
+            },
+            {
+                "id": "RTM:PNT:00003221",
+                "sqlilineNumber": "T2",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:47",
+                "Name": "Palais Longchamp",
+                "Longitude": "5.392459",
+                "Latitude": "43.303228"
+            },
+            {
+                "id": "RTM:PNT:00003285",
+                "sqlilineNumber": "T2",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:47",
+                "Name": "Cinq Avenues",
+                "Longitude": "5.397063",
+                "Latitude": "43.302278"
+            },
+            {
+                "id": "RTM:PNT:00003222",
+                "sqlilineNumber": "T2",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:47",
+                "Name": "Foch Sakakini",
+                "Longitude": "5.400062",
+                "Latitude": "43.300277"
+            },
+            {
+                "id": "RTM:PNT:00003223",
+                "sqlilineNumber": "T2",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:47",
+                "Name": "Foch Boisson",
+                "Longitude": "5.403277",
+                "Latitude": "43.298096"
+            },
+            {
+                "id": "RTM:PNT:00003227",
+                "sqlilineNumber": "T2",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:47",
+                "Name": "La Blancarde",
+                "Longitude": "5.405477",
+                "Latitude": "43.296653"
+            }
+        ],
+        "RTM:RTE:900047RTMR": [
+            {
+                "id": "RTM:PNT:00003227",
+                "sqlilineNumber": "T2",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:47",
+                "Name": "La Blancarde",
+                "Longitude": "5.405477",
+                "Latitude": "43.296653"
+            },
+            {
+                "id": "RTM:PNT:00003265",
+                "sqlilineNumber": "T2",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:47",
+                "Name": "Foch Boisson",
+                "Longitude": "5.403308",
+                "Latitude": "43.298167"
+            },
+            {
+                "id": "RTM:PNT:00003266",
+                "sqlilineNumber": "T2",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:47",
+                "Name": "Foch Sakakini",
+                "Longitude": "5.40014",
+                "Latitude": "43.300322"
+            },
+            {
+                "id": "RTM:PNT:00003267",
+                "sqlilineNumber": "T2",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:47",
+                "Name": "Cinq Avenues",
+                "Longitude": "5.397134",
+                "Latitude": "43.302338"
+            },
+            {
+                "id": "RTM:PNT:00003268",
+                "sqlilineNumber": "T2",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:47",
+                "Name": "Palais Longchamp",
+                "Longitude": "5.392395",
+                "Latitude": "43.30337"
+            },
+            {
+                "id": "RTM:PNT:00003269",
+                "sqlilineNumber": "T2",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:47",
+                "Name": "Longchamp National",
+                "Longitude": "5.388536",
+                "Latitude": "43.301586"
+            },
+            {
+                "id": "RTM:PNT:00003271",
+                "sqlilineNumber": "T2",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:47",
+                "Name": "Réformés Canebière",
+                "Longitude": "5.385477",
+                "Latitude": "43.300114"
+            },
+            {
+                "id": "RTM:PNT:00003272",
+                "sqlilineNumber": "T2",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:47",
+                "Name": "Noailles",
+                "Longitude": "5.381482",
+                "Latitude": "43.297928"
+            },
+            {
+                "id": "RTM:PNT:00004128",
+                "sqlilineNumber": "T2",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:47",
+                "Name": "Canebière Capucins",
+                "Longitude": "5.37887",
+                "Latitude": "43.296923"
+            },
+            {
+                "id": "RTM:PNT:00003275",
+                "sqlilineNumber": "T2",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:47",
+                "Name": "Belsunce Alcazar",
+                "Longitude": "5.376773",
+                "Latitude": "43.298525"
+            },
+            {
+                "id": "RTM:PNT:00003277",
+                "sqlilineNumber": "T2",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:47",
+                "Name": "Sadi Carnot",
+                "Longitude": "5.371309",
+                "Latitude": "43.299905"
+            },
+            {
+                "id": "RTM:PNT:00003278",
+                "sqlilineNumber": "T2",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:47",
+                "Name": "République Dames",
+                "Longitude": "5.369424",
+                "Latitude": "43.302202"
+            },
+            {
+                "id": "RTM:PNT:00003279",
+                "sqlilineNumber": "T2",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:47",
+                "Name": "Joliette",
+                "Longitude": "5.367262",
+                "Latitude": "43.30539"
+            },
+            {
+                "id": "RTM:PNT:00003281",
+                "sqlilineNumber": "T2",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:47",
+                "Name": "Euroméditerranée Le Silo",
+                "Longitude": "5.368196",
+                "Latitude": "43.308679"
+            },
+            {
+                "id": "RTM:PNT:00003556",
+                "sqlilineNumber": "T2",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:47",
+                "Name": "Arenc Euroméditerranée",
+                "Longitude": "5.368208",
+                "Latitude": "43.313315"
+            }
+        ]
+    }
+}

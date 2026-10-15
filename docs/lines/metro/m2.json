@@ -1,0 +1,248 @@
+{
+    "id": "RTM:LNE:125",
+    "name": "M2",
+    "directionIds": {
+        "Sainte-Marguerite Dromel": "RTM:RTE:9000125RTMA",
+        "Gèze": "RTM:RTE:9000125RTMR"
+    },
+    "stationIds": {
+        "RTM:RTE:9000125RTMA": [
+            {
+                "id": "RTM:PNT:00004263",
+                "sqlilineNumber": "M2",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:125",
+                "Name": "Gèze",
+                "Longitude": "5.36724843",
+                "Latitude": "43.32792836"
+            },
+            {
+                "id": "RTM:PNT:00002304",
+                "sqlilineNumber": "M2",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:125",
+                "Name": "Bougainville",
+                "Longitude": "5.371352",
+                "Latitude": "43.3208465"
+            },
+            {
+                "id": "RTM:PNT:00002305",
+                "sqlilineNumber": "M2",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:125",
+                "Name": "National",
+                "Longitude": "5.372969",
+                "Latitude": "43.3151235"
+            },
+            {
+                "id": "RTM:PNT:00002306",
+                "sqlilineNumber": "M2",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:125",
+                "Name": "Désirée Clary",
+                "Longitude": "5.3723195",
+                "Latitude": "43.309399"
+            },
+            {
+                "id": "RTM:PNT:00002307",
+                "sqlilineNumber": "M2",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:125",
+                "Name": "Joliette",
+                "Longitude": "5.367867",
+                "Latitude": "43.3038805"
+            },
+            {
+                "id": "RTM:PNT:00002308",
+                "sqlilineNumber": "M2",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:125",
+                "Name": "Jules Guesde",
+                "Longitude": "5.374025",
+                "Latitude": "43.301957"
+            },
+            {
+                "id": "RTM:PNT:00002309",
+                "sqlilineNumber": "M2",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:125",
+                "Name": "Saint-Charles",
+                "Longitude": "5.380007",
+                "Latitude": "43.302284"
+            },
+            {
+                "id": "RTM:PNT:00002310",
+                "sqlilineNumber": "M2",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:125",
+                "Name": "Noailles",
+                "Longitude": "5.381212",
+                "Latitude": "43.2967805"
+            },
+            {
+                "id": "RTM:PNT:00002311",
+                "sqlilineNumber": "M2",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:125",
+                "Name": "Notre-Dame du Mont",
+                "Longitude": "5.3836365",
+                "Latitude": "43.292812"
+            },
+            {
+                "id": "RTM:PNT:00002313",
+                "sqlilineNumber": "M2",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:125",
+                "Name": "Castellane",
+                "Longitude": "5.384331",
+                "Latitude": "43.2851435"
+            },
+            {
+                "id": "RTM:PNT:00002314",
+                "sqlilineNumber": "M2",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:125",
+                "Name": "Périer",
+                "Longitude": "5.387588",
+                "Latitude": "43.2793795"
+            },
+            {
+                "id": "RTM:PNT:00002315",
+                "sqlilineNumber": "M2",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:125",
+                "Name": "Rond-Point du Prado",
+                "Longitude": "5.392494",
+                "Latitude": "43.271387"
+            },
+            {
+                "id": "RTM:PNT:00002316",
+                "sqlilineNumber": "M2",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:125",
+                "Name": "Sainte-Marguerite Dromel",
+                "Longitude": "5.4021975",
+                "Latitude": "43.2705445"
+            }
+        ],
+        "RTM:RTE:9000125RTMR": [
+            {
+                "id": "RTM:PNT:00002327",
+                "sqlilineNumber": "M2",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:125",
+                "Name": "Sainte-Marguerite Dromel",
+                "Longitude": "5.4021315",
+                "Latitude": "43.270618"
+            },
+            {
+                "id": "RTM:PNT:00002326",
+                "sqlilineNumber": "M2",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:125",
+                "Name": "Rond-Point du Prado",
+                "Longitude": "5.392652",
+                "Latitude": "43.27143"
+            },
+            {
+                "id": "RTM:PNT:00002325",
+                "sqlilineNumber": "M2",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:125",
+                "Name": "Périer",
+                "Longitude": "5.3876895",
+                "Latitude": "43.279405"
+            },
+            {
+                "id": "RTM:PNT:00002324",
+                "sqlilineNumber": "M2",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:125",
+                "Name": "Castellane",
+                "Longitude": "5.3844335",
+                "Latitude": "43.2851755"
+            },
+            {
+                "id": "RTM:PNT:00002323",
+                "sqlilineNumber": "M2",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:125",
+                "Name": "Notre-Dame du Mont",
+                "Longitude": "5.3836905",
+                "Latitude": "43.2928265"
+            },
+            {
+                "id": "RTM:PNT:00002322",
+                "sqlilineNumber": "M2",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:125",
+                "Name": "Noailles",
+                "Longitude": "5.381277",
+                "Latitude": "43.2967735"
+            },
+            {
+                "id": "RTM:PNT:00002321",
+                "sqlilineNumber": "M2",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:125",
+                "Name": "Saint-Charles",
+                "Longitude": "5.3802575",
+                "Latitude": "43.302408"
+            },
+            {
+                "id": "RTM:PNT:00002320",
+                "sqlilineNumber": "M2",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:125",
+                "Name": "Jules Guesde",
+                "Longitude": "5.3739855",
+                "Latitude": "43.302"
+            },
+            {
+                "id": "RTM:PNT:00002319",
+                "sqlilineNumber": "M2",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:125",
+                "Name": "Joliette",
+                "Longitude": "5.3679735",
+                "Latitude": "43.3039105"
+            },
+            {
+                "id": "RTM:PNT:00002318",
+                "sqlilineNumber": "M2",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:125",
+                "Name": "Désirée Clary",
+                "Longitude": "5.3723755",
+                "Latitude": "43.3093295"
+            },
+            {
+                "id": "RTM:PNT:00002317",
+                "sqlilineNumber": "M2",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:125",
+                "Name": "National",
+                "Longitude": "5.37307901",
+                "Latitude": "43.3151245"
+            },
+            {
+                "id": "RTM:PNT:00002333",
+                "sqlilineNumber": "M2",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:125",
+                "Name": "Bougainville",
+                "Longitude": "5.3714625",
+                "Latitude": "43.320844"
+            },
+            {
+                "id": "RTM:PNT:00004265",
+                "sqlilineNumber": "M2",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:125",
+                "Name": "Gèze",
+                "Longitude": "5.36735773",
+                "Latitude": "43.32794836"
+            }
+        ]
+    }
+}

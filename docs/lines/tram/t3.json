@@ -1,0 +1,410 @@
+{
+    "id": "RTM:LNE:48",
+    "name": "T3",
+    "directionIds": {
+        "La Gaye": "RTM:RTE:900048RTMA",
+        "Gèze": "RTM:RTE:900048RTMR"
+    },
+    "stationIds": {
+        "RTM:RTE:900048RTMA": [
+            {
+                "id": "RTM:PNT:00004749",
+                "sqlilineNumber": "T3",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:48",
+                "Name": "Gèze",
+                "Longitude": "5.36621267",
+                "Latitude": "43.32701699"
+            },
+            {
+                "id": "RTM:PNT:00004752",
+                "sqlilineNumber": "T3",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:48",
+                "Name": "Salengro Cougit",
+                "Longitude": "5.3675283",
+                "Latitude": "43.32155044"
+            },
+            {
+                "id": "RTM:PNT:00004753",
+                "sqlilineNumber": "T3",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:48",
+                "Name": "Salengro Bachas",
+                "Longitude": "5.36876947",
+                "Latitude": "43.31720397"
+            },
+            {
+                "id": "RTM:PNT:00003554",
+                "sqlilineNumber": "T3",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:48",
+                "Name": "Arenc Euroméditerranée",
+                "Longitude": "5.368079",
+                "Latitude": "43.313317"
+            },
+            {
+                "id": "RTM:PNT:00003206",
+                "sqlilineNumber": "T3",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:48",
+                "Name": "Euroméditerranée Le Silo",
+                "Longitude": "5.368107",
+                "Latitude": "43.30871"
+            },
+            {
+                "id": "RTM:PNT:00003209",
+                "sqlilineNumber": "T3",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:48",
+                "Name": "Joliette",
+                "Longitude": "5.367157",
+                "Latitude": "43.305473"
+            },
+            {
+                "id": "RTM:PNT:00003210",
+                "sqlilineNumber": "T3",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:48",
+                "Name": "République Dames",
+                "Longitude": "5.369293",
+                "Latitude": "43.302172"
+            },
+            {
+                "id": "RTM:PNT:00003211",
+                "sqlilineNumber": "T3",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:48",
+                "Name": "Sadi Carnot",
+                "Longitude": "5.371209",
+                "Latitude": "43.299863"
+            },
+            {
+                "id": "RTM:PNT:00003213",
+                "sqlilineNumber": "T3",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:48",
+                "Name": "Belsunce Alcazar",
+                "Longitude": "5.3766",
+                "Latitude": "43.298488"
+            },
+            {
+                "id": "RTM:PNT:00004120",
+                "sqlilineNumber": "T3",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:48",
+                "Name": "Cours Saint-Louis",
+                "Longitude": "5.377919",
+                "Latitude": "43.295856"
+            },
+            {
+                "id": "RTM:PNT:00004121",
+                "sqlilineNumber": "T3",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:48",
+                "Name": "Rome Davso",
+                "Longitude": "5.379262",
+                "Latitude": "43.293544"
+            },
+            {
+                "id": "RTM:PNT:00004122",
+                "sqlilineNumber": "T3",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:48",
+                "Name": "Place de Rome",
+                "Longitude": "5.380621",
+                "Latitude": "43.291433"
+            },
+            {
+                "id": "RTM:PNT:00004123",
+                "sqlilineNumber": "T3",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:48",
+                "Name": "Rome Dragon",
+                "Longitude": "5.381918",
+                "Latitude": "43.289099"
+            },
+            {
+                "id": "RTM:PNT:00004124",
+                "sqlilineNumber": "T3",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:48",
+                "Name": "Castellane",
+                "Longitude": "5.38463689",
+                "Latitude": "43.28539789"
+            },
+            {
+                "id": "RTM:PNT:00004755",
+                "sqlilineNumber": "T3",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:48",
+                "Name": "Parc du 26ème Centenaire",
+                "Longitude": "5.39029352",
+                "Latitude": "43.28234566"
+            },
+            {
+                "id": "RTM:PNT:00004757",
+                "sqlilineNumber": "T3",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:48",
+                "Name": "Cantini Rouet",
+                "Longitude": "5.39485011",
+                "Latitude": "43.2798504"
+            },
+            {
+                "id": "RTM:PNT:00004759",
+                "sqlilineNumber": "T3",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:48",
+                "Name": "Place Ferrié",
+                "Longitude": "5.39922898",
+                "Latitude": "43.27696496"
+            },
+            {
+                "id": "RTM:PNT:00004761",
+                "sqlilineNumber": "T3",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:48",
+                "Name": "Sainte-Marguerite Dromel",
+                "Longitude": "5.40203575",
+                "Latitude": "43.27119803"
+            },
+            {
+                "id": "RTM:PNT:00004763",
+                "sqlilineNumber": "T3",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:48",
+                "Name": "Aubert Ganay",
+                "Longitude": "5.40307931",
+                "Latitude": "43.26601387"
+            },
+            {
+                "id": "RTM:PNT:00004765",
+                "sqlilineNumber": "T3",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:48",
+                "Name": "Parc Sévigné",
+                "Longitude": "5.40483793",
+                "Latitude": "43.26182613"
+            },
+            {
+                "id": "RTM:PNT:00004767",
+                "sqlilineNumber": "T3",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:48",
+                "Name": "Hôpital Sainte-Marguerite",
+                "Longitude": "5.4087146",
+                "Latitude": "43.25941285"
+            },
+            {
+                "id": "RTM:PNT:00004770",
+                "sqlilineNumber": "T3",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:48",
+                "Name": "La Gaye",
+                "Longitude": "5.41120976",
+                "Latitude": "43.25654769"
+            }
+        ],
+        "RTM:RTE:900048RTMR": [
+            {
+                "id": "RTM:PNT:00004770",
+                "sqlilineNumber": "T3",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:48",
+                "Name": "La Gaye",
+                "Longitude": "5.41120976",
+                "Latitude": "43.25654769"
+            },
+            {
+                "id": "RTM:PNT:00004768",
+                "sqlilineNumber": "T3",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:48",
+                "Name": "Hôpital Sainte-Marguerite",
+                "Longitude": "5.40876439",
+                "Latitude": "43.25945587"
+            },
+            {
+                "id": "RTM:PNT:00004766",
+                "sqlilineNumber": "T3",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:48",
+                "Name": "Parc Sévigné",
+                "Longitude": "5.40489251",
+                "Latitude": "43.26187135"
+            },
+            {
+                "id": "RTM:PNT:00004764",
+                "sqlilineNumber": "T3",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:48",
+                "Name": "Aubert Ganay",
+                "Longitude": "5.40315162",
+                "Latitude": "43.2660307"
+            },
+            {
+                "id": "RTM:PNT:00004762",
+                "sqlilineNumber": "T3",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:48",
+                "Name": "Sainte-Marguerite Dromel",
+                "Longitude": "5.40211044",
+                "Latitude": "43.27121516"
+            },
+            {
+                "id": "RTM:PNT:00004760",
+                "sqlilineNumber": "T3",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:48",
+                "Name": "Place Ferrié",
+                "Longitude": "5.39930789",
+                "Latitude": "43.27697568"
+            },
+            {
+                "id": "RTM:PNT:00004758",
+                "sqlilineNumber": "T3",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:48",
+                "Name": "Cantini Rouet",
+                "Longitude": "5.39489573",
+                "Latitude": "43.27989698"
+            },
+            {
+                "id": "RTM:PNT:00004756",
+                "sqlilineNumber": "T3",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:48",
+                "Name": "Parc du 26ème Centenaire",
+                "Longitude": "5.39033569",
+                "Latitude": "43.28239281"
+            },
+            {
+                "id": "RTM:PNT:00004129",
+                "sqlilineNumber": "T3",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:48",
+                "Name": "Castellane",
+                "Longitude": "5.38468254",
+                "Latitude": "43.28544531"
+            },
+            {
+                "id": "RTM:PNT:00004130",
+                "sqlilineNumber": "T3",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:48",
+                "Name": "Rome Dragon",
+                "Longitude": "5.382025",
+                "Latitude": "43.289134"
+            },
+            {
+                "id": "RTM:PNT:00004131",
+                "sqlilineNumber": "T3",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:48",
+                "Name": "Place de Rome",
+                "Longitude": "5.380716",
+                "Latitude": "43.291407"
+            },
+            {
+                "id": "RTM:PNT:00004132",
+                "sqlilineNumber": "T3",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:48",
+                "Name": "Rome Davso",
+                "Longitude": "5.379481",
+                "Latitude": "43.29362"
+            },
+            {
+                "id": "RTM:PNT:00004133",
+                "sqlilineNumber": "T3",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:48",
+                "Name": "Cours Saint-Louis",
+                "Longitude": "5.378159",
+                "Latitude": "43.29594"
+            },
+            {
+                "id": "RTM:PNT:00003275",
+                "sqlilineNumber": "T3",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:48",
+                "Name": "Belsunce Alcazar",
+                "Longitude": "5.376773",
+                "Latitude": "43.298525"
+            },
+            {
+                "id": "RTM:PNT:00003277",
+                "sqlilineNumber": "T3",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:48",
+                "Name": "Sadi Carnot",
+                "Longitude": "5.371309",
+                "Latitude": "43.299905"
+            },
+            {
+                "id": "RTM:PNT:00003278",
+                "sqlilineNumber": "T3",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:48",
+                "Name": "République Dames",
+                "Longitude": "5.369424",
+                "Latitude": "43.302202"
+            },
+            {
+                "id": "RTM:PNT:00003279",
+                "sqlilineNumber": "T3",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:48",
+                "Name": "Joliette",
+                "Longitude": "5.367262",
+                "Latitude": "43.30539"
+            },
+            {
+                "id": "RTM:PNT:00003281",
+                "sqlilineNumber": "T3",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:48",
+                "Name": "Euroméditerranée Le Silo",
+                "Longitude": "5.368196",
+                "Latitude": "43.308679"
+            },
+            {
+                "id": "RTM:PNT:00003556",
+                "sqlilineNumber": "T3",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:48",
+                "Name": "Arenc Euroméditerranée",
+                "Longitude": "5.368208",
+                "Latitude": "43.313315"
+            },
+            {
+                "id": "RTM:PNT:00004754",
+                "sqlilineNumber": "T3",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:48",
+                "Name": "Salengro Bachas",
+                "Longitude": "5.36930667",
+                "Latitude": "43.31723625"
+            },
+            {
+                "id": "RTM:PNT:00004751",
+                "sqlilineNumber": "T3",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:48",
+                "Name": "Salengro Cougit",
+                "Longitude": "5.36764339",
+                "Latitude": "43.32154048"
+            },
+            {
+                "id": "RTM:PNT:00004750",
+                "sqlilineNumber": "T3",
+                "operator": "RTM",
+                "lineRef": "RTM:LNE:48",
+                "Name": "Gèze",
+                "Longitude": "5.36633849",
+                "Latitude": "43.32703425"
+            }
+        ]
+    }
+}
