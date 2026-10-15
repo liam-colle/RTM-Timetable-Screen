@@ -9,6 +9,7 @@ const TYPES = [
   ['metro', 'Métro'],
   ['tram', 'Tramway'],
   ['bus', 'Bus'],
+  ['car', 'Cars lecar / Cartreize (scheduled only, see CAR_LINES.md)'],
 ]
 
 const out = [

@@ -17,6 +17,7 @@ case- and accent-insensitive; a stop name only needs to be a unique-enough part 
 | Métro | `M1`, `M2` |
 | Tramway | `T1`, `T2`, `T3` |
 | Bus | `B1`, `B1E`, `B2`, `B3`, `B4`, `B5`, `B14`, `BM1A`, `BM1B`, `BM2` |
+| Cars lecar / Cartreize (scheduled only, see CAR_LINES.md) | `15`, `16`, `25`, `33`, `34`, `36`, `38`, `39`, `48`, `49`, `50`, `51`, `53`, `55`, `64`, `68`, `69`, `72`, `78`, `79`, `88`, `89`, `100`, `102`, `240`, `2072`, `5015`, `5069`, `5711`, `A1`, `A2`, `C257`, `C303`, `C425`, `C480`, `C602`, `C604`, `C612` |
 
 ## Métro
 
@@ -203,3 +204,461 @@ Gèze → Place Bougainville → Métro National → Joliette → Métro Jules G
 **Towards Gèze** (`RTM:RTE:9000192RTMR`, 12 stops):
 
 Sainte-Marguerite Dromel → Métro Rond Point du Prado → Prado Périer → Castellane → Métro Notre Dame du Mont → Noailles → Bourdet St Charles → Métro Jules Guesde → Joliette → Métro National → Métro Bougainville → Gèze
+
+## Cars lecar / Cartreize (scheduled only, see CAR_LINES.md)
+
+### 15
+
+API id: `C13-15`
+
+**Towards Aix-en-Provence** (`C13-15:0`, 27 stops):
+
+Drignon → Frédéric Mistral → Jean Monnet → Jardins de Cabrianne → 08 Mai 1945 → Parc Henri Fabre → Mouettes → Clinique → Rockenhausen → Gare Rockenhausen → Gare → Centre Ville → Charles de Gaulle → Cimetière → Grande Bastide CD20 → Gerbine CD 20 → Verdière → Verane → Halte Routière → 4 Tours → Restoubles → Centre Commercial → Chemin du Levun → Moulin du Pont → La Fourane → Fenouilleres → P+R Krypton
+
+**Towards Berre-l'Étang / Rognac** (`C13-15:1`, 26 stops):
+
+P+R Krypton → Fenouilleres → La Fourane → Moulin du Pont → Chemin du Levun → 4 Tours → Restoubles → Centre Commercial → Bastide Bertin → Verane → Verdière → Gerbine CD 20 → Grande Bastide CD20 → Cimetière → Charles de Gaulle → Centre Ville → Gare → Gare Rockenhausen → Rockenhausen → Clinique → Mouettes → Parc Henri Fabre → 08 Mai 1945 → Jardins de Cabrianne → Place du Souvenir → Drignon
+
+### 16
+
+API id: `C13-16`
+
+**Towards Aix-en-Provence** (`C13-16:0`, 16 stops):
+
+Sibourg le Stade → Val de Sibourg → Fanets → Coste → Moulin de Laure → Médiathèque → Marcel Pagnol → Gramenieres → Grand Jas → Favier → Giraude → Chemin Meunier → Barrales → La Fourane → Fenouilleres → P+R Krypton
+
+**Towards Lançon-Provence / La Fare-les-Oliviers** (`C13-16:1`, 15 stops):
+
+P+R Krypton → Fenouilleres → La Fourane → Barrales → Chemin Meunier → Giraude → Favier → Grand Jas → Gramenieres → Médiathèque → Moulin de Laure → Coste → Fanets → Val de Sibourg → Sibourg le Stade
+
+### 25
+
+API id: `C13-25`
+
+**Towards Aix-en-Provence** (`C13-25:0`, 15 stops):
+
+Gare SNCF → Briand Tristani → Centre Ville → Briand Sully → Briand Avenir → Chantegrive → Aires de la Dime → Taille → Gare Routière → St Roch → Roi René → Guynemer → La Beauvalle → Sous Préfecture → Gare Routière
+
+**Towards Salon-de-Provence** (`C13-25:1`, 14 stops):
+
+Gare Routière → Sous Préfecture → La Beauvalle → Guynemer → Roi René → St Roch → Gare Routière → Taille → Aires de la Dime → Chantegrive → Briand Avenir → Centre Ville → Briand Tristani → Gare SNCF
+
+### 33
+
+API id: `C13-33`
+
+**Towards Marseille** (`C13-33:0`, 20 stops):
+
+Raffinerie → La Poste La Mède → Mairie Annexe → La Sablière → La Glacière → Le Leou → Le Vallon → Sécurité Sociale / Ferry → Vieux Cimetière → La Chapelle → Bastide Neuve Collège → Pas de Baudre → Les Aiguilles → Le Tholonet → Le Bayon → Cotton → Les Piélettes → Euroméditerranée Arenc → Paris Forbin → Gare St Charles
+
+**Towards Châteauneuf-les-Martigues** (`C13-33:1`, 22 stops):
+
+Gare St Charles → Place de Strasbourg → Euroméditerranée Arenc → Les Piélettes → Cotton → Le Bayon → Le Tholonet → Les Aiguilles → Pas de Baudre → Bastide Neuve → Amandeirets / Collège → Le Stade → Obélisque → La Poste Chateauneuf → Sécurité Sociale / Curie → Le Vallon → Le Leou → La Glacière → La Sablière → Mairie Annexe → La Poste La Mède → La Raffinerie
+
+### 34
+
+API id: `C13-34`
+
+**Towards Marseille** (`C13-34:0`, 11 stops):
+
+Pôle d'Echange → Girondins → Eglise de Jonquières → L Degut → Font Sarade → Emile Zola → Sainte Anne → Khariessa → Euroméditerranée Arenc → Paris Forbin → Gare St Charles
+
+**Towards Martigues** (`C13-34:1`, 10 stops):
+
+Gare St Charles → Place de Strasbourg → Euroméditerranée Arenc → Khariessa → Sainte Anne → Général Leclerc → L'Ile → Paradis → Coopérative → Pôle d'Echange
+
+### 36
+
+API id: `C13-36`
+
+**Towards Marseille** (`C13-36:0`, 31 stops):
+
+Arenc Euroméditeranée → Métro Bougainville → Anjoly → Europe C. de Gaulle → Europe Berlin → Europe Madrid → Europe CD 9 → Europe Poids Public → Estroublans Centre Vie 2 → Londres Athènes → Londres Bruxelles → Airbus Helicopters → Gabriel Voisin → 08-mai-45 → Clémenceau → Le Gabian → Galagovière → Parc Camoin Quai → Mistral → Sainte Anne → La Chaume → Collège E. Mirabeau → LE TUNNEL → Lèbre St Louis → La Rose → Jean de Florette → Poussaraque → Pré Fleuri → Les Acacias → Métro Bougainville → Arenc Euroméditeranée
+
+**Towards Marseille (Retour)** (`C13-36:1`, 30 stops):
+
+Arenc Euroméditeranée → Métro Bougainville → Les Acacias → Pré Fleuri → Poussaraque → Jean de Florette → La Rose → Lèbre St Louis → LE TUNNEL → Collège E. Mirabeau → La Chaume → Sainte Anne → Mistral → Georges Clémenceau → 08-mai-45 → Parc Camoin Quai 2 → Le Gabian → Gabriel Voisin → Airbus Helicopters → Londres Bruxelles → Londres Athènes → Estroublans Centre Vie 2 → Europe Poids Public → Europe CD 9 → Europe Madrid → Europe Berlin → Europe C. de Gaulle → Anjoly → Métro Bougainville → Arenc Euroméditeranée
+
+### 38
+
+API id: `C13-38`
+
+**Towards Marignane** (`C13-38:0`, 43 stops):
+
+Pôle d'Echange → Girondins → Eglise de Jonquières → L Degut → Font Sarade → Emile Zola → Sainte Anne → Khariessa → Raffinerie → La Poste La Mède → Mairie Annexe → La Sablière → La Glacière → Le Leou → Le Vallon → Sécurité Sociale / Ferry → Vieux Cimetière → La Chapelle → Bastide Neuve Collège → Pas de Baudre → Les Aiguilles → Le Tholonet → Le Bayon → Cotton → Les Piélettes → Les Acacias → Pré Fleuri → Poussaraque → Jean de Florette → La Rose → Lèbre St Louis → LE TUNNEL → Collège E. Mirabeau → La Chaume → Sainte Anne → Mistral → Georges Clémenceau → 08-mai-45 → Parc Camoin Quai 2 → Le Gabian → Gabriel Voisin → Airbus Helicopters → Aéroport Marseille Provence
+
+**Towards Martigues** (`C13-38:1`, 45 stops):
+
+Aéroport Marseille Provence → Airbus Helicopters → Gabriel Voisin → 08-mai-45 → Clémenceau → Le Gabian → Galagovière → Parc Camoin Quai → Mistral → Sainte Anne → La Chaume → Collège E. Mirabeau → LE TUNNEL → Lèbre St Louis → La Rose → Jean de Florette → Poussaraque → Pré Fleuri → Les Acacias → Les Piélettes → Cotton → Le Bayon → Le Tholonet → Les Aiguilles → Pas de Baudre → Bastide Neuve → Amandeirets / Collège → Le Stade → Obélisque → La Poste Chateauneuf → Sécurité Sociale / Curie → Le Vallon → Le Leou → La Glacière → La Sablière → Mairie Annexe → La Poste La Mède → La Raffinerie → Khariessa → Sainte Anne → Général Leclerc → L'Ile → Paradis → Coopérative → Pôle d'Echange
+
+### 39
+
+API id: `C13-39`
+
+**Towards Aix-en-Provence** (`C13-39:0`, 36 stops):
+
+Pôle d'Echange → Girondins → Eglise de Jonquières → L Degut → Font Sarade → Emile Zola → Sainte Anne → Khariessa → Raffinerie → La Poste La Mède → Mairie Annexe → La Sablière → La Glacière → Le Leou → Le Vallon → Sécurité Sociale / Ferry → Vieux Cimetière → La Chapelle → Bastide Neuve Collège → Pas de Baudre → Les Aiguilles → Le Tholonet → Le Bayon → Cotton → Les Piélettes → Les Acacias → Pré Fleuri → Poussaraque → Jean de Florette → La Rose → Fortunees → La Culasse → Square de Gaulle Quai 4 → La Beauvalle → Sous Préfecture → Brossolette
+
+**Towards Martigues** (`C13-39:1`, 36 stops):
+
+Brossolette → Sous Préfecture → La Beauvalle → Square de Gaulle Quai 3 → La Laiterie → La Rose → Jean de Florette → Poussaraque → Pré Fleuri → Les Acacias → Les Piélettes → Cotton → Le Bayon → Le Tholonet → Les Aiguilles → Pas de Baudre → Bastide Neuve → Amandeirets / Collège → Le Stade → Obélisque → La Poste Chateauneuf → Sécurité Sociale / Curie → Le Vallon → Le Leou → La Glacière → La Sablière → Mairie Annexe → La Poste La Mède → La Raffinerie → Khariessa → Sainte Anne → Général Leclerc → L'Ile → Paradis → Coopérative → Pôle d'Echange
+
+### 48
+
+API id: `C13-48`
+
+**Towards Marseille** (`C13-48:0`, 10 stops):
+
+Mauriat → Infirmeries → Meyran → Krypton → Pauliane → Pont de l'Arc Prados → Armelière → La Parade → Champ de Foire → Gare St Charles
+
+**Towards Aix-en-Provence** (`C13-48:1`, 10 stops):
+
+Gare St Charles → Champ de Foire → La Parade → Armelière → Pont de l'Arc → Pauliane → P+R Krypton → Meyran → Infirmeries → Mauriat
+
+### 49
+
+API id: `C13-49`
+
+**Towards Marseille** (`C13-49:0`, 19 stops):
+
+Bouffan → Lt Cl JeanPierre → Horloge → Stade Ouest → Corsy → Minimes → Nelson Mandela → Mouret-Gare Routière Quai 25 → Mouret → Plan d'Aillane Quai 4 → Zone Artisanale → Pôle d'Activités → Le Frère → Ampère → Bessemer → Eiffel → Maison d'Arrêt D59 → Métro Bougainville → Arenc Euroméditerranée
+
+**Towards Aix-en-Provence** (`C13-49:1`, 18 stops):
+
+Arenc Euroméditerranée → Métro Bougainville → Maison d'Arrêt D59 → Eiffel → Bessemer → Ampère → Le Frère → Pôle d'Activités → Zone Artisanale → Plan d'Aillane Quai 4 → Mouret → Mouret-Gare Routière Quai 21 → Minimes → Corsy → Stade Ouest → Horloge → Lt Cl JeanPierre → Bouffan
+
+### 50
+
+API id: `C13-50`
+
+**Towards Marseille** (`C13-50:0`, 5 stops):
+
+Gare Routière → Sous Préfecture → La Beauvalle → Plan de Campagne → Gare St Charles
+
+**Towards Aix-en-Provence** (`C13-50:1`, 5 stops):
+
+Gare St Charles → Plan de Campagne → La Beauvalle → Sous Préfecture → Gare Routière
+
+### 51
+
+API id: `C13-51`
+
+**Towards Marseille** (`C13-51:0`, 41 stops):
+
+Gare Routière → Sous Préfecture → La Beauvalle → Pont de l'Arc → Hôpital Provence D8N → Les Frères Gris → Bon Rencontre → La Blaque → Chapuis → Luynes Sud → Lycée International de Luynes → Rampelin → Trois Pigeons → La Mounine → CC Rhin et Danube → La Mûle → La Croix d'Or → Pont de Bouc → Plan Marseillais → Violési → Petites Bastides → La Malle → Plan de Campagne → Parc Aquatique → La Tubie → Tubié Barbusse → Mandela Ecole → Crèche Mandela → Peyrets Fabrégoules → Collège Ferrandi → Septèmes Gare → Septèmes Nord → Centre → Septèmes Sud → La Rougière → Notre Dame → Place Gabriel Péri → Hôpital Edouard Toulouse → Bourrely Dramard → Fabrettes Autoroute → Gare St Charles
+
+**Towards Aix-en-Provence** (`C13-51:1`, 40 stops):
+
+Gare St Charles → Bourrely Dramard → Hôpital Edouard Toulouse → Notre Dame Limite → Place Gabriel Péri → Notre Dame → La Rougière → Septèmes Sud → Centre → Septèmes Nord → Septèmes Gare → Collège Ferrandi → Peyrets Fabrégoules → Crèche Mandela → Mandela Ecole → La Tubie → Parc Aquatique → Plan de Campagne → La Malle → Petites Bastides → Violési → Plan Marseillais → Pont de Bouc → La Croix d'Or → La Mûle → CC Rhin et Danube → La Mounine → Trois Pigeons → Rampelin → Lycée International de Luynes → Luynes Sud → Chapuis → La Blaque → Bon Rencontre → Les Frères Gris → Hôpital Provence D8N → Pont de l'Arc → La Beauvalle → Sous Préfecture → Gare Routière
+
+### 53
+
+API id: `C13-53`
+
+**Towards Marseille** (`C13-53:0`, 32 stops):
+
+Europôle Arbois → Archimède → Philibert → Descartes → Fresnel → Arago → De Broglie → Foucault → Parc Club Golf → Pichaury → Les Grottes → La Robole → Berthier → Bessemer → Ampère → Le Frère → Pôle d'Activités → Pôle d'Activités → Le Frère → Ampère → Bessemer → Eiffel → Maison d'Arrêt D59 → La Mounine → CC Rhin et Danube → La Mûle → La Croix d'Or → Pont de Bouc → Plan Marseillais → Violési → Petites Bastides → Gare St Charles
+
+**Towards Aix-en-Provence** (`C13-53:1`, 32 stops):
+
+Gare St Charles → Petites Bastides → Violési → Plan Marseillais → Pont de Bouc → La Croix d'Or → La Mûle → CC Rhin et Danube → La Mounine → Maison d'Arrêt D59 → Eiffel → Bessemer → Ampère → Le Frère → Pôle d'Activités → Le Frère → Ampère → Bessemer → Berthier → La Robole → Les Grottes → Pichaury → Parc Club Golf → Zone Artisanale → Foucault → De Broglie → Arago → Fresnel → Descartes → Philibert → Archimède → Europôle Arbois
+
+### 55
+
+API id: `C13-55`
+
+**Towards Martigues** (`C13-55:0`, 45 stops):
+
+Parc Camoin Quai → Mistral → Sainte Anne → La Chaume → Collège E. Mirabeau → LE TUNNEL → Lèbre St Louis → La Rose → Jean de Florette → Poussaraque → Pré Fleuri → Les Acacias → Le Douard RD 568 → Mairie → Ensuès Côte Bleue → Val de Ricard → Le Rouet → Général Leclerc → Gare SNCF → Jean Jaurès → La Fontaine → La Tuilière → Le Camping → Les Coquillages → Marcel Bodelle → Parc de Loisirs → Charles Roux / Gare SNCF → Le Brulot / Gare → Matraja / Les Terrasses → St Julien Cimetière → Clos St Michel → St Julien Coopérative → Saint Julien Cormes → La Croix d'Estrine → Les Ventrons → Route St Pierre → Emile Zola → Général Leclerc → L'Ile → Paradis → Coopérative → Lycée Paul Langevin → Lycée Brise Lames → Lycée Jean Lurçat → Pôle d'Echange
+
+**Towards Marignane** (`C13-55:1`, 47 stops):
+
+Lycée Paul Langevin → Lycée Brise Lames → Lycée Jean Lurçat → Pôle d'Echange → Girondins → Eglise de Jonquières → L Degut → Font Sarade → Route St Pierre → Les Ventrons → La Croix d'Estrine → Saint Julien Cormes → St Julien Coopérative → Clos St Michel → Maison Pour Tous → Matraja / Les Terrasses → Charles Roux / Gare SNCF → Rive d'Or → Parc de Loisirs → Marcel Bodelle → Les Coquillages → Le Camping → La Tuilière → La Fontaine → Don Camillo → Jean Jaurès → Gare SNCF → La Crèche → Les Restanques → Général Leclerc → Le Rouet → Val de Ricard → Ensuès Côte Bleue → Mairie → Le Douard RD 568 → Les Acacias → Pré Fleuri → Poussaraque → Jean de Florette → La Rose → Lèbre St Louis → LE TUNNEL → Collège E. Mirabeau → La Chaume → Sainte Anne → Mistral → Parc Camoin Quai 2
+
+### 64
+
+API id: `C13-64`
+
+**Towards Marseille** (`C13-64:0`, 17 stops):
+
+Pôle d'Echanges Quai 6 → La Corneirelle → La Leque → Le Village → Le Lavoir → Le Vieux Moulin → Les Ecoles → Villevieille → Victoire → La Marnière → La Plaine → Ecole de la Barque → Le Plan de Meyreuil → La Croix → Pôle d'Echanges de Gardanne → Plan de Campagne → Gare St Charles
+
+**Towards Trets** (`C13-64:1`, 17 stops):
+
+Gare St Charles → Plan de Campagne → Pôle d'Echanges de Gardanne → La Croix → Le Plan de Meyreuil → La Barque → La Plaine → La Marnière → Victoire → Villevieille → La Corneirelle → Les Ecoles → Le Vieux Moulin → Le Lavoir → Le Village → La Leque → Pôle d'Echanges Quai 6
+
+### 68
+
+API id: `C13-68`
+
+**Towards Aubagne** (`C13-68:0`, 25 stops):
+
+Gendarmerie → Belsunce → Cabrol Marne → Les Hauts Cépages → Clos des Oliviers → Ferme Blanche → Font Blanche → Le Mussuguet → Carpiagne → Le Stade → Panorama → Notre Dame D'Afrique → Mont Fleuri → Lou Caïre → Les Barles → Pont des Barles → La Bourbonne → Douard → Agora → Vallat → La Martelle → Camp de Sarlier → Pont de Lamagnon → Les Défensions → Pôle d'Echanges
+
+**Towards Cassis** (`C13-68:1`, 23 stops):
+
+Pôle d'Echanges → Les Défensions → Pont de Lamagnon → Camp de Sarlier → La Martelle → Vallat → Agora → Douard → Pont des Barles → Les Barles → Lou Caïre → Mont Fleuri → Notre Dame D'Afrique → Panorama → Le Stade → Carpiagne → Le Mussuguet → Font Blanche → Clos des Oliviers → Les Hauts Cépages → Cabrol Marne → Belsunce → Gendarmerie
+
+### 69
+
+API id: `C13-69`
+
+**Towards Aubagne** (`C13-69:0`, 23 stops):
+
+Office de Tourisme → L'Eden → Port de Plaisance → Villa des Tours → Route de Marseille → Ernest Subila → Deruy → Rond Point des Voiles → Faubourg d'Entrepr → Plaine Brunette → Hôtel de Ville → La Crèche → Les Caniers → Pont des Barles → La Bourbonne → Douard → Agora → Vallat → La Martelle → Camp de Sarlier → Pont de Lamagnon → Les Défensions → Pôle d'Echanges
+
+**Towards La Ciotat** (`C13-69:1`, 22 stops):
+
+Pôle d'Echanges → Les Défensions → Pont de Lamagnon → Camp de Sarlier → La Martelle → Vallat → Agora → Douard → Pont des Barles → Les Caniers → La Crèche → Ghirardelli → Plaine Brunette → Faubourg d'Entrepr → Rond Point des Voiles → Deruy → Ernest Subila → Vallat de Roubaud → Centre de rééducation → Square Mouton → L'Eden → Office de Tourisme
+
+### 72
+
+API id: `C13-72`
+
+**Towards Aix-en-Provence** (`C13-72:0`, 13 stops):
+
+Pôle d'Echanges → Le Pin Vert → Les Défensions → Pont de Lamagnon → Camp de Sarlier → Souque Nègre → Beausoleil → Bel Ormeau → Coton Rouge → Schuman → Facultés → Sous Préfecture → Gare Routière
+
+**Towards Aubagne** (`C13-72:1`, 13 stops):
+
+Gare Routière → Sous Préfecture → Churchill → Schuman → Coton Rouge → Bel Ormeau → Beausoleil → Souque Nègre → Le Pin Vert → Camp de Sarlier → Pont de Lamagnon → Les Défensions → Pôle d'Echanges
+
+### 78
+
+API id: `C13-78`
+
+**Towards Marseille** (`C13-78:0`, 27 stops):
+
+Gendarmerie → Office de Tourisme → L'Eden → Port de Plaisance → Villa des Tours → Route de Marseille → Ernest Subila → Deruy → Gendarmerie Provence → Belsunce → Cabrol Marne → Les Hauts Cépages → Clos des Oliviers → Ferme Blanche → Le Pigeonnier → Vaufrèges → Grands Pins → Lachamp Augier → Lachamp Luminy → Le Redon → CC Valmante → Ste Trinité → Obelisque → Le Corbusier → Métro Rond Point du Prado → Prado Perier → Castellane Toulon
+
+**Towards Cassis / La Ciotat** (`C13-78:1`, 24 stops):
+
+Castellane Toulon → Prado Perier → Métro Rond Point du Prado → Le Corbusier → Obelisque → Ste Trinité → CC Valmante → Le Redon → Lachamp Luminy → Lachamp Augier → Grands Pins → Vaufrèges → Le Pigeonnier → Clos des Oliviers → Les Hauts Cépages → Cabrol Marne → Belsunce → Gendarmerie → Deruy → Ernest Subila → Vallat de Roubaud → Centre de rééducation → Square Mouton → L'Eden
+
+### 79
+
+API id: `C13-79`
+
+**Towards Marseille** (`C13-79:0`, 11 stops):
+
+Office de Tourisme → L'Eden → Port de Plaisance → Villa des Tours → Route de Marseille → Ernest Subila → Deruy → Rond Point des Voiles → Faubourg d'Entrepr → Plaine Brunette → Castellane Schweitzer
+
+**Towards La Ciotat** (`C13-79:1`, 12 stops):
+
+Castellane Schweitzer → Parc du 26eCentenaire → Plaine Brunette → Faubourg d'Entrepr → Rond Point des Voiles → Deruy → Ernest Subila → Vallat de Roubaud → Centre de rééducation → Square Mouton → L'Eden → Office de Tourisme
+
+### 88
+
+API id: `C13-88`
+
+**Towards Marseille** (`C13-88:0`, 6 stops):
+
+Pierre Plantée Quai 7 → Les Pins / Cinéma → Grand Vitrolles → Bastide Blanche → Griffon Clinique → Gare St Charles
+
+**Towards Vitrolles** (`C13-88:1`, 6 stops):
+
+Gare St Charles → Griffon Clinique → Bastide Blanche → Grand Vitrolles → Les Pins / Cinéma → Pierre Plantée Quai 7
+
+### 89
+
+API id: `C13-89`
+
+**Towards Marseille** (`C13-89:0`, 12 stops):
+
+Square de Gaulle Quai 2 → Mairie → Roches Blanches → Cadeneaux → Les Oliviers → Monaco → Jeanne d'Arc → Les Tabors → Mitterrand → Octroi → St Antoine → Gare St Charles
+
+**Towards Les Pennes-Mirabeau** (`C13-89:1`, 11 stops):
+
+Gare St Charles → Octroi → Mitterrand → Les Tabors → Jeanne d'Arc → Monaco → Les Oliviers → Cadeneaux → Roches Blanches → Mairie → Square de Gaulle Quai 2
+
+### 100
+
+API id: `C13-100`
+
+**Towards Marseille** (`C13-100:0`, 3 stops):
+
+Pôle d'Echanges → Les Lignières → Castellane Delphes
+
+**Towards Aubagne** (`C13-100:1`, 4 stops):
+
+Castellane Delphes → Parc du 26eCentenaire → Les Lignières → Pôle d'Echanges
+
+### 102
+
+API id: `C13-102`
+
+**Towards Marseille** (`C13-102:0`, 5 stops):
+
+La Martelle → Vallat → Agora → Douard → Castellane Delphes
+
+**Towards Aubagne** (`C13-102:1`, 7 stops):
+
+Castellane Delphes → Parc du 26eCentenaire → La Bourbonne → Douard → Agora → Vallat → La Martelle
+
+### 240
+
+API id: `C13-240`
+
+**Towards Marseille** (`C13-240:0`, 37 stops):
+
+Eiffel → Piscine Alain Bernard → Pôle d'Echanges → Martin Luther King → Ravel Decroix → La Tourtelle → La Pérussonne → Les Creissauds → Bd Madame → St Mitre le Vieux → La Bourgade → La Poste → La Penne → Le Mouton → La Solitude → La Millière → Montgrand → HLM La Barasse → Bancal Barasse → Léon Bancal Saint-Menet → Saint-Menet → La Sablière La Montre → Village Estellan → La Valentine Centre Commercial → Village Estellan → Petit St Marcel → Cartonnerie → La Rouguière → HLM La Rouguière → Clairval Les Comtes → Booth Lecache → Les Caillols Centre Urbain → Faïenciers → La Fourragère Désert → Le Vendôme → Les Borromées → Métro La Fourragère
+
+**Towards Aubagne** (`C13-240:1`, 37 stops):
+
+Métro La Fourragère → Les Borromées → Le Vendôme → La Fourragère Désert → Faïenciers → Les Caillols Centre Urbain → Booth Lecache → Clairval Les Comtes → HLM La Rouguière → La Rouguière → Cartonnerie → Petit St Marcel → Village Estellan → La Valentine Centre Commercial → Village Estellan → La Sablière La Montre → Saint-Menet → Léon Bancal Saint-Menet → Bancal Barasse → HLM La Barasse → Montgrand → La Milière → La Solitude → Le Mouton → La Penne → La Poste → La Bourgade → St Mitre le Vieux → Bd Madame → Les Creissauds → La Pérussonne → Piscine Alain Bernard → Eiffel → La Tourtelle → Ravel Decroix → Martin Luther King → Pôle d'Echanges
+
+### 2072
+
+API id: `C13-2072`
+
+**Towards Aix-en-Provence** (`C13-2072:0`, 11 stops):
+
+Deruy Quai 3 → Pôle d'Echanges → Le Pin Vert → Souque Nègre → Beausoleil → Bel Ormeau → Coton Rouge → Schuman → Facultés → Sous Préfecture → Gare Routière
+
+**Towards La Ciotat** (`C13-2072:1`, 11 stops):
+
+Gare Routière → Sous Préfecture → Churchill → Schuman → Coton Rouge → Bel Ormeau → Beausoleil → Souque Nègre → Le Pin Vert → Pôle d'Echanges → Deruy Quai 3
+
+### 5015
+
+API id: `C13-5015`
+
+**Towards Aix-en-Provence** (`C13-5015:0`, 55 stops):
+
+Sibourg le Stade → Val de Sibourg → Coste → Marcel Pagnol → Gramenieres → Grand Jas → Favier → Giraude → Chemin Meunier → Barrales → Marcel Dassault → Forum des Jeunes → Gs Paul Langevin → Marielie → Acacias → Dezarnaud → Capevaire → Aviation → Clinique → Rockenhausen → Lavoir → Gare Rockenhausen → Gare → Centre Ville → Charles de Gaulle → Cimetière → Grande Bastide → Brets → Avenue des Oliviers → Grande Bastide CD20 → Gerbine CD 20 → Verdière → Verane → Halte Routière → 4 Tours → Centre Commercial → Parterre → Maison Médicale → Aubepines → Hélène Boucher → Peraude → Pierre Puget → Roquepertuse → Chemin du Levun → Moulin du Pont → L'Armeliere → Adm Zola → Mauriat → Tour d'Aygosi → Saint Jean → Miollis → Saint Louis → Briand → Bourse → Silvacane
+
+**Towards Berre-l'Étang / Lançon-Provence / Velaux** (`C13-5015:1`, 51 stops):
+
+L'Armeliere → Adm Zola → Mauriat → Tour d'Aygosi → Saint Jean → Miollis → Saint Louis → Briand → Bourse → Silvacane → Moulin du Pont → Barrales → Chemin Meunier → Giraude → Favier → Grand Jas → Gramenieres → Saint Cyr → Coste → Val de Sibourg → Sibourg le Stade → Chemin du Levun → Halte Routière → 4 Tours → Centre Commercial → Hélène Boucher → Peraude → Pierre Puget → Roquepertuse → Bastide Bertin → Verane → Verdière → Gerbine → Avenue des Oliviers → Brets → Barjaquets → Grande Bastide → Cimetière → Charles de Gaulle → Centre Ville → Gare → Gare Rockenhausen → Lavoir → Rockenhausen → Clinique → Marielie → Acacias → Dezarnaud → Louis Pasquet → Av. Libération → Jean Monnet
+
+### 5069
+
+API id: `C13-5069`
+
+**Towards Aubagne** (`C13-5069:0`, 14 stops):
+
+Lycée Méditerranée → Lycée Lumière → Centre Commercial → Rond Point Bodin → Hôtel de Ville → La Crèche → Les Caniers → Pont des Barles → Robespierre → Avenue Jean Mermoz → Résidence Jean Mermoz → Av. du 19 mars 1962 → Hôpital d'Aubagne → Pôle d'Echanges
+
+**Towards La Ciotat** (`C13-5069:1`, 14 stops):
+
+Pôle d'Echanges → Hôpital d'Aubagne → Av. du 19 mars 1962 → Résidence Jean Mermoz → Avenue Jean Mermoz → Robespierre → Pont des Barles → Les Caniers → La Crèche → Ghirardelli → Rond Point Bodin → Puits du Brunet → Lycée Lumière → Lycée Méditerranée
+
+### 5711
+
+API id: `C13-5711`
+
+**Towards Velaux / Istres / Saint-Chamas** (`C13-5711:0`, 38 stops):
+
+Les Vences → Saint Remy → Les Peyres → Vignes Longues Hautes → Vignes Longues → La Coopérative → Les Bonfils → La Cremade → Le Berry → Roquetroucade → La Recense → Saint Louis → La Lecque → Val Lourdes → Les Batailles → Centre Ville → Grande Bastide CD20 → Gerbine CD 20 → Verane → Halte Routière → Moulin du Pont → La Mine → Les Poneys → Baone → Collet Poste → Petit Coudoux → Figuiers → La Plantade → Malvallat → Chemin Meunier → Giraude → Favier → Grand Jas → Gramenieres → LEP les Ferrages → Les Alpilles → Médiathèque → Les Bolles
+
+**Towards Ventabren / Rognac** (`C13-5711:1`, 38 stops):
+
+Halte Routière → Les Batailles → Val Lourdes → La Lecque → La Coopérative → Les Bonfils → La Cremade → Le Berry → Roquetroucade → Saint Louis → La Bertranne → Vignes Longues → Vignes Longues Hautes → Les Peyres → Saint Remy → Les Vences → Les Bolles → Médiathèque → Les Alpilles → LEP les Ferrages → Gramenieres → Grand Jas → Favier → Giraude → Barrales → La Mine → Baone → Collet Poste → Petit Coudoux → Figuiers → La Plantade → Malvallat → Bastide Bertin → Moulin du Pont → Verane → Gerbine CD 20 → Grande Bastide CD20 → Centre Ville
+
+### A1
+
+API id: `C13-A1`
+
+**Towards Marignane** (`C13-A1:0`, 2 stops):
+
+Gare St Charles → Aéroport Marseille Provence
+
+**Towards Marseille** (`C13-A1:1`, 2 stops):
+
+Aéroport Marseille Provence → Gare St Charles
+
+### A2
+
+API id: `C13-A2`
+
+**Towards Marignane / Aix-en-Provence** (`C13-A2:0`, 4 stops):
+
+Gare Routière → Plan d'Aillane Quai 4 → Gare TGV → Aéroport Marseille Provence
+
+**Towards Aix-en-Provence** (`C13-A2:1`, 5 stops):
+
+Aéroport Marseille Provence → Gare Aix TGV → Pôle d'Activités → Plan d'Aillane Quai 4 → Gare Routière
+
+### C257
+
+API id: `C13-C257`
+
+**Towards Martigues** (`C13-C257:0`, 33 stops):
+
+Parc de Loisirs → Charles Roux / Gare SNCF → Lotissement La Mer / Carry Camp → Les Coquillages → Marcel Bodelle → Parc de Loisirs → Charles Roux / Gare SNCF → Le Brulot / Gare → Les Terrasses → JS Bach → Aigue Bleue → Verdi → Stade Hidalgo → Ambrogiani → Mare Nostrum → Canoubier → Tiboulen → Jean Moulin → Grand Vallat Sud → Peuplier → Rolland Garros → Micocoulier → Grand Vallat Nord → St Julien Cimetière → Clos St Michel → St Julien Coopérative → Saint Julien Cormes → Les Cormes Les Torrels → St Julien Lavaux Est → La Croix d'Estrine → Lycée Paul Langevin → Lycée Brise Lames → Lycée Jean Lurçat
+
+**Towards Sausset-les-Pins** (`C13-C257:1`, 29 stops):
+
+Lycée Paul Langevin → Lycée Brise Lames → Lycée Jean Lurçat → La Croix d'Estrine → St Julien Lavaux Est → Les Cormes Les Torrels → Saint Julien Cormes → St Julien Coopérative → Clos St Michel → Maison Pour Tous → Le Brulot / Gare → Charles Roux / Gare SNCF → Les Terrasses → JS Bach → Aigue Bleue → Verdi → Stade Hidalgo → Ambrogiani → Mare Nostrum → Grand Vallat Nord → Micocoulier → Rolland Garros → Peuplier → Grand Vallat Sud → Charles Roux / Gare SNCF → Rive d'Or → Parc de Loisirs → Marcel Bodelle → Les Coquillages
+
+### C303
+
+API id: `C13-C303`
+
+**Towards Martigues** (`C13-C303:0`, 20 stops):
+
+Le Camping → La Tuilière → La Fontaine → Don Camillo → Jean Jaurès → La Crèche → Les Restanques → Général Leclerc → Barqueroute → Rouet Plage → Montée de la Grotte N°3 → Romaron → N°4 B Les Hauts du Jas → T SCOL N°4 C → Val de Ricard → Ensuès Côte Bleue → La Vierge → Lycée Paul Langevin → Lycée Brise Lames → Lycée Jean Lurçat
+
+**Towards Ensuès-la-Redonne** (`C13-C303:1`, 21 stops):
+
+Lycée Paul Langevin → Lycée Brise Lames → Lycée Jean Lurçat → Le Camping → La Tuilière → La Fontaine → Don Camillo → Le Port → La Tasse → La Crèche → Les Restanques → Général Leclerc → Barqueroute → Rouet Plage → Montée de la Grotte N°3 → Romaron → N°4 B Les Hauts du Jas → T SCOL N°4 C → Val de Ricard → Ensuès Côte Bleue → Mairie
+
+### C425
+
+API id: `C13-C425`
+
+**Towards Sausset-les-Pins** (`C13-C425:0`, 26 stops):
+
+Carro Le Port → La Plage de Carro → Le Baou Tailla → Le Verdon → Les Vauclusiens → Les Ventrons → La Croix d'Estrine → St Julien Lavaux Est → Les Cormes Les Torrels → Saint Julien Cormes → St Julien Coopérative → Clos St Michel → Maison Pour Tous → Les Bastides → Ch de Ste Croix → La Saulce → Thalasso → Les Tamaris Le Port → Les Rouges → Les Roussures → Les Chapas → Rosette → Collet Redon → La Couronne → L'Eurre → Matraja / Les Terrasses
+
+**Towards Martigues** (`C13-C425:1`, 28 stops):
+
+Matraja / Les Terrasses → Le Verdon → Le Baou Tailla → La Plage de Carro → Carro Le Port → St Julien Cimetière → Clos St Michel → St Julien Coopérative → Saint Julien Cormes → Les Cormes Les Torrels → St Julien Lavaux Est → La Croix d'Estrine → Les Ventrons → Tabouret → Les Vauclusiens → La Couronne → Chemin du Stade → La Saulce → Corsica → Les Tamaris Le Port → Les Rouges → Les Roussures → Les Chapas → Rosette → Les Bastides → Les Bastides → Collet Redon → L'Eurre
+
+### C480
+
+API id: `C13-C480`
+
+**Towards Cassis** (`C13-C480:0`, 5 stops):
+
+Pôle d'Echanges → Collège Lakanal → Collège St Augustin → Lot. Les Romarin → Collège Les Gorguettes
+
+**Towards Aubagne** (`C13-C480:1`, 5 stops):
+
+Collège Les Gorguettes → Lot. Les Romarin → Collège St Augustin → Collège Lakanal → Pôle d'Echanges
+
+### C602
+
+API id: `C13-C602`
+
+**Towards Aix-en-Provence** (`C13-C602:0`, 10 stops):
+
+Matraja / Les Terrasses → Gare SNCF → La Vierge → Le Douard RD 568 → Les Acacias → Parc Camoin Quai 2 → Caucadis → Lycée Mendès → Lycée Jean Monnet → Arc Meyran Zola
+
+**Towards Sausset-les-Pins / Carry-le-Rouet** (`C13-C602:1`, 10 stops):
+
+Arc Meyran Zola → Lycée Jean Monnet → Caucadis → Lycée Mendès → Parc Camoin Quai → Les Acacias → Le Douard RD 568 → La Vierge → Gare SNCF → Matraja / Les Terrasses
+
+### C604
+
+API id: `C13-C604`
+
+**Towards Marseille** (`C13-C604:0`, 5 stops):
+
+La Bourgade → La Poste → La Penne → Le Mouton → Collège Chât. Forbin
+
+**Towards La Penne-sur-Huveaune** (`C13-C604:1`, 5 stops):
+
+Collège Chât. Forbin → Le Mouton → La Penne → La Poste → La Bourgade
+
+### C612
+
+API id: `C13-C612`
+
+**Towards Martigues / Sausset-les-Pins / Port-de-Bouc** (`C13-C612:0`, 38 stops):
+
+Route de Farren → Jules Ferry → La Chapelle → Vieux Cimetière → Bastide Neuve → Gare de Pas des Lanciers → Abbadie Musée → Le Gabian → Parc Camoin Quai → Sainte Anne → La Chaume → Collège E. Mirabeau → Bastide du Tron → Lèbre St Louis → Poussaraque → Pré Fleuri → Les Piélettes → Margnat → Jules Ferry → Amandeirets / Collège → Le Stade → Obélisque → ZI La Valampe → La Poste Chateauneuf → Sécurité Sociale / Curie → Le Vallon → Le Leou → La Glacière → La Sablière → Mairie Annexe → La Poste La Mède → La Raffinerie → Matraja / Les Terrasses → Lycée Paul Langevin → Lycée Brise Lames → Lycée Jean Lurçat → Lycée Ch. Mongrand → Lycée Jean Moulin
+
+**Towards Châteauneuf-les-Martigues / Vitrolles** (`C13-C612:1`, 41 stops):
+
+Matraja / Les Terrasses → Lycée Ch. Mongrand → Lycée Jean Moulin → Lycée Paul Langevin → Lycée Brise Lames → Lycée Jean Lurçat → Raffinerie → La Poste La Mède → Mairie Annexe → La Sablière → La Glacière → ZI La Valampe → Le Leou → Le Vallon → Sécurité Sociale / Ferry → Vieux Cimetière → La Chapelle → Margnat → Jules Ferry → Bastide Neuve Collège → Amandeirets / Collège → Le Stade → Obélisque → Les Piélettes → Pré Fleuri → Poussaraque → Ménage Neuf → Viguière Bd de Provence → Viguière Ecole → Louis Pasteur → Victor Hugo → République → Lèbre St Louis → Bastide du Tron → Collège E. Mirabeau → La Chaume → Sainte Anne → Parc Camoin Quai 2 → Le Gabian → Gabriel Voisin → Pierre Plantée - Quai 3

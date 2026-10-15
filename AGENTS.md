@@ -12,6 +12,7 @@ A React + Vite + TypeScript station-screen that shows next departures for RTM (M
 - `npm run build` – typecheck + production build
 - `npm run typecheck`
 - `npm run scrape -- --priority high|medium|low` – regenerate `docs/lines/**` (see below)
+- `npm run scrape:cars [-- --lines 50,A2]` – lecar/Cartreize coach lines from the open GTFS (not RTM API; scheduled only). See `docs/CAR_LINES.md`
 - `npm run docs:lines` – regenerate `docs/LINES.md` (all line codes and stop names); run it after every scrape
 
 ## Layout
@@ -20,13 +21,14 @@ A React + Vite + TypeScript station-screen that shows next departures for RTM (M
 - `src/lines.ts` – resolves friendly line/stop names (accent/case-insensitive) against `docs/lines/**/*.json`
 - `src/api.ts` – RTM API calls (`getReelTime`, `getLines` for colours)
 - `src/useDepartures.ts` – staggered polling
-- `docs/lines/<metro|tram|bus>/<code>.json` – scraped line/stop data, the app's source of truth for stops
+- `docs/lines/<metro|tram|bus|car>/<code>.json` – scraped line/stop data, the app's source of truth for stops; `public/schedules/car/` holds the GTFS timetables for `car` lines
+- `docs/LINES.md` – generated list of every usable line code and stop; `docs/CAR_LINES.md` – how coach lines work
 - `docs/API_example.md`, `docs/API_scrapping_guidelines.md` – read before touching API code
 
 ## Configuration
 
 `public/config.json`: `title`, `refreshSeconds`, `maxDepartures`, `lines: [{ "line": "M1", "stop": "Castellane" }]`.
-URL params override it: `?lines=M1:Castellane,T1:Noailles&refresh=300&max=3&title=…`. `?stop=` is the default stop for entries without one. Without a stop, the terminus of each direction is shown.
+URL params override it: `?lines=M1:Castellane,T1:Noailles&refresh=300&max=3&title=…`. `?stop=` is the default stop for entries without one. A stop is **required** for every line (no terminus fallback); lines without one show a notice instead of rows. Lecar coach lines use the `car/` prefix when the number clashes with an RTM line (`car/50:Gare St Charles`).
 
 ## API rules (important)
 
