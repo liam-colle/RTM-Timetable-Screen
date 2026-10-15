@@ -12,6 +12,7 @@ A React + Vite + TypeScript station-screen that shows next departures for RTM (M
 - `npm run build` – typecheck + production build
 - `npm run typecheck`
 - `npm run scrape -- --priority high|medium|low` – regenerate `docs/lines/**` (see below)
+- `npm run docs:lines` – regenerate `docs/LINES.md` (all line codes and stop names); run it after every scrape
 
 ## Layout
 
