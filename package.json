@@ -8,7 +8,8 @@
     "build": "tsc --noEmit && vite build",
     "preview": "vite preview",
     "typecheck": "tsc --noEmit",
-    "scrape": "node scripts/scrape-lines.mjs"
+    "scrape": "node scripts/scrape-lines.mjs",
+    "docs:lines": "node scripts/generate-lines-doc.mjs"
   },
   "dependencies": {
     "@fontsource/barlow-condensed": "^5.1.0",
