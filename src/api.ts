@@ -1,5 +1,6 @@
 import type { Alert, Departure } from './types'
 import type { Target } from './lines'
+import { addDays, dateNumber, parisEpoch, parisToday, weekday } from './time'
 
 const BASE = import.meta.env.VITE_RTM_API_BASE ?? '/api/rtm'
 
@@ -27,13 +28,12 @@ interface RealTimeResponse {
   data: { temps_reel?: { DepartureTime: { Hour: string }; ReelHour: boolean }[] }
 }
 
-/** The API only returns a time of day ("14:15:48"); anchor it to today, rolling past midnight if needed. */
+/** The API only returns a Paris time of day ("14:15:48"); anchor it to today, rolling past midnight if needed. */
 function toEpoch(hour: string, now: number): number {
   const [h, m, s] = hour.split(':').map(Number)
-  const d = new Date(now)
-  d.setHours(h, m, s ?? 0, 0)
-  if (d.getTime() < now - 12 * 3600_000) d.setDate(d.getDate() + 1)
-  return d.getTime()
+  const today = parisToday(now)
+  const at = parisEpoch(today, h, m, s ?? 0)
+  return at < now - 12 * 3600_000 ? parisEpoch(addDays(today, 1), h, m, s ?? 0) : at
 }
 
 export async function fetchDepartures(t: Target): Promise<Departure[]> {
@@ -95,8 +95,6 @@ function loadSchedule(t: Target): Promise<Schedule> {
 
 export const carColor = (t: Target) => loadSchedule(t).then((s) => s.color)
 
-const dateNumber = (d: Date) => d.getFullYear() * 10000 + (d.getMonth() + 1) * 100 + d.getDate()
-
 async function scheduledDepartures(t: Target): Promise<Departure[]> {
   const schedule = await loadSchedule(t)
   const groups = schedule.departures[t.routeId]?.[t.station.id] ?? []
@@ -104,21 +102,19 @@ async function scheduledDepartures(t: Target): Promise<Departure[]> {
   const out: Departure[] = []
   // yesterday too: GTFS times past 24:00 belong to the previous service day
   for (const offset of [-1, 0, 1]) {
-    const day = new Date(now)
-    day.setHours(0, 0, 0, 0)
-    day.setDate(day.getDate() + offset)
+    const day = addDays(parisToday(now), offset)
     const n = dateNumber(day)
-    const weekday = (day.getDay() + 6) % 7 // 0 = Monday
+    const dow = weekday(day)
     for (const [times, serviceIds] of groups) {
       const active = serviceIds.some((id) => {
         const s = schedule.services[id]
         if (!s || s.removed.includes(n)) return false
-        return s.added.includes(n) || (s.days.includes(weekday) && n >= s.start && n <= s.end)
+        return s.added.includes(n) || (s.days.includes(dow) && n >= s.start && n <= s.end)
       })
       if (!active) continue
       for (const time of times.split(' ')) {
         const [h, m] = time.split(':').map(Number)
-        const at = new Date(day.getFullYear(), day.getMonth(), day.getDate(), h, m).getTime()
+        const at = parisEpoch(day, h, m)
         if (at > now - 60_000) out.push({ at, realtime: false })
       }
     }

@@ -2,6 +2,7 @@ import { useEffect, useMemo, useRef, useState } from 'react'
 import { carColor, lineColors } from './api'
 import { loadConfig } from './config'
 import { knownLines, norm, resolve, type Target } from './lines'
+import { TIMEZONE } from './time'
 import { useDepartures } from './useDepartures'
 import { useAlerts } from './useAlerts'
 import { useAutoScroll } from './useAutoScroll'
@@ -23,7 +24,7 @@ function Clock() {
   const now = useNow(1000)
   return (
     <span className="pill pill-clock">
-      {new Date(now).toLocaleTimeString('fr-FR', { hour: '2-digit', minute: '2-digit' })}
+      {new Date(now).toLocaleTimeString('fr-FR', { hour: '2-digit', minute: '2-digit', timeZone: TIMEZONE })}
     </span>
   )
 }
