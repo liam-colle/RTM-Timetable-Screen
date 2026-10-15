@@ -1,5 +1,5 @@
 import { useEffect, useMemo, useRef, useState } from 'react'
-import { lineColors } from './api'
+import { carColor, lineColors } from './api'
 import { loadConfig } from './config'
 import { knownLines, norm, resolve, type Target } from './lines'
 import { useDepartures } from './useDepartures'
@@ -48,16 +48,22 @@ function Timetable({ cfg, onCycleStart }: { cfg: AppConfig; onCycleStart: (t: nu
   const { rows, startedAt } = useDepartures(targets, cfg.refreshSeconds)
   useEffect(() => onCycleStart(startedAt), [startedAt, onCycleStart])
   const alerts = useAlerts(cfg.refreshSeconds)
-  const shownLines = useMemo(() => [...new Set(targets.map((t) => t.line))], [targets])
+  // RTM alerts are keyed by RTM line codes; a lecar "50" must not be flagged because RTM bus 50 has an incident.
+  const rtmTargets = useMemo(() => targets.filter((t) => t.type !== 'car'), [targets])
+  const shownLines = useMemo(() => [...new Set(rtmTargets.map((t) => t.line))], [rtmTargets])
   const disrupted = useMemo(() => new Set(alerts.filter((a) => a.period === 'today').flatMap((a) => a.lines.map(norm))), [alerts])
+  const isDisrupted = (t: Target) => t.type !== 'car' && disrupted.has(norm(t.line))
   const scrollRef = useRef<HTMLDivElement>(null)
   useAutoScroll(scrollRef, [rows.length])
   const now = useNow(15_000)
   const [colors, setColors] = useState<Record<string, string>>({})
 
   useEffect(() => {
-    const types = [...new Set(targets.map((t) => t.type))]
-    Promise.all(types.map(lineColors)).then((all) => setColors(Object.assign({}, ...all)))
+    const types = [...new Set(targets.map((t) => t.type))].filter((t) => t !== 'car')
+    Promise.all(types.map(lineColors)).then((all) => setColors((c) => ({ ...c, ...Object.fromEntries(types.flatMap((ty, i) => Object.entries(all[i]).map(([code, col]) => [`${ty}/${code}`, col]))) })))
+    for (const t of targets.filter((t) => t.type === 'car')) {
+      carColor(t).then((color) => setColors((c) => ({ ...c, [`car/${t.line}`]: color }))).catch(() => {})
+    }
   }, [targets])
 
   return (
@@ -76,11 +82,11 @@ function Timetable({ cfg, onCycleStart }: { cfg: AppConfig; onCycleStart: (t: nu
           {rows.map(({ target: t, departures, error, loaded }) => {
             const upcoming = departures.filter((d) => d.at > now - 30_000).slice(0, cfg.maxDepartures)
             return (
-              <tr key={`${t.routeId}|${t.station.id}`} className={disrupted.has(norm(t.line)) ? 'disrupted' : undefined}>
+              <tr key={`${t.routeId}|${t.station.id}`} className={isDisrupted(t) ? 'disrupted' : undefined}>
                 <td>
-                  <span className="badge" style={{ background: colors[t.line] ?? FALLBACK_COLOR }}>
+                  <span className="badge" style={{ background: colors[`${t.type}/${t.line}`] ?? FALLBACK_COLOR }}>
                     {t.line}
-                    {disrupted.has(norm(t.line)) && <span className="warn" title="Perturbation">!</span>}
+                    {isDisrupted(t) && <span className="warn" title="Perturbation">!</span>}
                   </span>
                 </td>
                 <td className="dest">{t.destination}</td>

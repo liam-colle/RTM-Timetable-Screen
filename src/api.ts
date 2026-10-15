@@ -37,6 +37,7 @@ function toEpoch(hour: string, now: number): number {
 }
 
 export async function fetchDepartures(t: Target): Promise<Departure[]> {
+  if (t.type === 'car') return scheduledDepartures(t)
   const r = await get<RealTimeResponse>(
     `getReelTime?lineRef=${encodeURIComponent(t.lineRef)}&direction=${t.direction}&pointRef=${encodeURIComponent(t.station.id)}`,
   )
@@ -68,4 +69,59 @@ export async function fetchAlerts(): Promise<Alert[]> {
     }
   }
   return out
+}
+
+interface Schedule {
+  color: string
+  services: Record<string, { days: number[]; start: number; end: number; added: number[]; removed: number[] }>
+  /** routeKey -> stopId -> [["HH:MM HH:MM …", [serviceIds]], …] */
+  departures: Record<string, Record<string, [string, string[]][]>>
+}
+
+// `car` lines (lecar / Cartreize) are not on the RTM API: their timetables come from the scraped GTFS (docs/CAR_LINES.md).
+const scheduleCache = new Map<string, Promise<Schedule>>()
+function loadSchedule(t: Target): Promise<Schedule> {
+  const url = `${import.meta.env.BASE_URL}schedules/car/${t.line.toLowerCase()}.json`
+  if (!scheduleCache.has(url)) {
+    const p = fetch(url).then((r) => {
+      if (!r.ok) throw new Error(`${r.status} ${url}`)
+      return r.json() as Promise<Schedule>
+    })
+    p.catch(() => scheduleCache.delete(url)) // retry on the next refresh
+    scheduleCache.set(url, p)
+  }
+  return scheduleCache.get(url)!
+}
+
+export const carColor = (t: Target) => loadSchedule(t).then((s) => s.color)
+
+const dateNumber = (d: Date) => d.getFullYear() * 10000 + (d.getMonth() + 1) * 100 + d.getDate()
+
+async function scheduledDepartures(t: Target): Promise<Departure[]> {
+  const schedule = await loadSchedule(t)
+  const groups = schedule.departures[t.routeId]?.[t.station.id] ?? []
+  const now = Date.now()
+  const out: Departure[] = []
+  // yesterday too: GTFS times past 24:00 belong to the previous service day
+  for (const offset of [-1, 0, 1]) {
+    const day = new Date(now)
+    day.setHours(0, 0, 0, 0)
+    day.setDate(day.getDate() + offset)
+    const n = dateNumber(day)
+    const weekday = (day.getDay() + 6) % 7 // 0 = Monday
+    for (const [times, serviceIds] of groups) {
+      const active = serviceIds.some((id) => {
+        const s = schedule.services[id]
+        if (!s || s.removed.includes(n)) return false
+        return s.added.includes(n) || (s.days.includes(weekday) && n >= s.start && n <= s.end)
+      })
+      if (!active) continue
+      for (const time of times.split(' ')) {
+        const [h, m] = time.split(':').map(Number)
+        const at = new Date(day.getFullYear(), day.getMonth(), day.getDate(), h, m).getTime()
+        if (at > now - 60_000) out.push({ at, realtime: false })
+      }
+    }
+  }
+  return out.sort((a, b) => a.at - b.at).filter((d, i, all) => !i || d.at !== all[i - 1].at)
 }
